@@ -1,0 +1,41 @@
+<Song ID>4</Song ID>
+<Title>mun diwana heli</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>swayam padhi & dipti rekha</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>jn padma</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nilu</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>chiku</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>cs music</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>ae ki siharana kheli gola dehe</s>
+	<s>lagila amiti sata nuha ea</s>
+	<s>agaru haini mo sathe kebe</s>
+	<s>mu diwana heli tu chunilu jebe</s>
+	<s>ae ki siharana kheli gola dehe</s>
+	<s>lagila amiti sata nuha ea</s>
+	<s>agaru haini mo sathe kebe</s>
+	<s>jebe thu dekhichi prema re podichi</s>
+	<s>premika heli to prema re</s>
+	<s>tike tike chihna tike to achina</s>
+	<s>ae ki nisa logailu re</s>
+	<s>chanhani to priya tani to nela re</s>
+	<s>to nila akhi re haji mu gali re</s>
+	<s>nijaku paeni khojile jete</s>
+	<s>to hata chuan kimia kola re</s>
+	<s>vuligoli mu dina rati.</s>
+	<s>to hata chuan kimia kola re</s>
+	<s>vuligoli mu dina rati.</s>
+	<s>priya tote dekhi laguchi amiti</s>
+	<s>punei ra jahna jamiti.</s>
+	<s>deli mo hrudaya tote sathi re</s>
+	<s>dhire dhire toro nijara heli re</s>
+	<s>sabu bele sathi tote mu vabe</s>
+</lyrics>

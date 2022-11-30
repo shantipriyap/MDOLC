@@ -1,0 +1,47 @@
+<Song ID>37</Song ID>
+<Title>selfish dil</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>soumitra pallai</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>dr. nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>sudhansu sahu</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>tarang music</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>bhija bhija aei pabana</s>
+	<s>nuaa nuaa lage jibana</s>
+	<s>bhija bhija aei pabana</s>
+	<s>nuaa nuaa lage jibana</s>
+	<s>juade gale jauthi thile</s>
+	<s>tate hi kare feel</s>
+	<s>haere mo selfish dil</s>
+	<s>bujhena e mana bujhena</s>
+	<s>jete dekhile tora chehere ore jana</s>
+	<s>sarena rati mora sarena</s>
+	<s>tora sapana mora nida ku kare chuna</s>
+	<s>chinnaha chinnaha aakhi sapan</s>
+	<s>dhima dhima lage spandana</s>
+	<s>chinnaha chinnaha aakhi sapan</s>
+	<s>dhima dhima lage spandana</s>
+	<s>juaade jae jeuthi rahe</s>
+	<s>juaade ja jeuthi rahe</s>
+	<s>khoje to love my feel</s>
+	<s>jadu tu kari delu janiaa</s>
+	<s>to prema re heli aawara kahe duniaa</s>
+	<s>chhati re lekhi chhi tori na</s>
+	<s>sabu janame mana khoje to prema chhuaa</s>
+	<s>he eka eka mo rati dina</s>
+	<s>fika fika lage mo mana</s>
+	<s>he eka eka mo rati dina</s>
+	<s>fika fika lage mo mana</s>
+	<s>tote hi khoje  prema re haje</s>
+	<s>tote hi khoje prema re haje</s>
+	<s>to bina jiebata muskil</s>
+</lyrics>

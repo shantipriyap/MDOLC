@@ -1,0 +1,47 @@
+<Song ID>71</Song ID>
+<Title>aara kamali kamali akhi</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>human sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>baidyanath dash</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>raju</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>pradeep kumar</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>taro kamoli kamoli akhi</s>
+	<s>reshomi reshomi otha rakhidauni ore soniyo</s>
+	<s>taro sanuli sanuli munho</s>
+	<s>nosila nosila deho maridelani ore soniyo</s>
+	<s>mosonge taro tu mitha bonshi</s>
+	<s>mo saponora tu rajohanshi</s>
+	<s>taro thumoka thumoka chali</s>
+	<s>kola mote kilibhili</s>
+	<s>soidauni ore soniyo</s>
+	<s>tu rutu te nuaa chitro lekha</s>
+	<s>tu phulo te nuaa onamika</s>
+	<s>mo jibone asi eka eka</s>
+	<s>ea mano ku kolu kina bika</s>
+	<s>mo chala bate tu mitha noi</s>
+	<s>tu sayeri te mo pramo pani</s>
+	<s>taro halka halka nisha</s>
+	<s>molka molka bhasha</s>
+	<s>saridelani ore soniyo</s>
+	<s>ta rangore mote bhijei</s>
+	<s>to paramo re mote hojeilu</s>
+	<s>e hurdoya thila chato pila tu dibana sojeilu</s>
+	<s>ta rango re mote bhijeilu</s>
+	<s>ta pramo re mote hojeilu</s>
+	<s>ea hurdoya thila chato pila tu dibana taku sojeilu</s>
+	<s>tu bosichu mo akhi polokore</s>
+	<s>tu bosichi mo prati niswasore</s>
+	<s>taro meheka meheka chunaa</s>
+	<s>taro beheka beheka priya</s>
+	<s>bhuli houni ore soniyo</s>
+</lyrics>

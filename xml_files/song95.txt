@@ -1,0 +1,44 @@
+<Song ID>95</Song ID>
+<Title>kehi jane bhala lagere</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>krishna</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>abhijit mazumdar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nizam</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>hey e hey e e</s>
+	<s>thare thare jibanare</s>
+	<s>megha hei mahu jhare</s>
+	<s>thare thare sapanare</s>
+	<s>bata sara basna jhare</s>
+	<s>chalu chalu batare</s>
+	<s>faguna ra hatare</s>
+	<s>prema huye re thare thare</s>
+	<s>ho prema jebe hei jaye</s>
+	<s>mana kehi nei jaye</s>
+	<s>rati sara nida bhange re ho</s>
+	<s>kehi jane bhala lagere</s>
+	<s>ho kehi jane bhala lagere</s>
+	<s>thare thare mana pakhi</s>
+	<s>udi udi jaye thaki</s>
+	<s>phoola gachha dale jaye basi o</s>
+	<s>sukumari sei phoola</s>
+	<s>pai jaye ete bhala</s>
+	<s>gita tara sune hasi hasi</s>
+	<s>gunu gunu gita re</s>
+	<s>sunu sunu mita re</s>
+	<s>mana nache re thare thare</s>
+	<s>ho mana chhota pila pari</s>
+	<s>ali kari kali kari</s>
+	<s>sabu bele gela mage re</s>
+	<s>ho kehi jane bhala lagere</s>
+</lyrics>

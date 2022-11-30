@@ -1,0 +1,38 @@
+<Song ID>25</Song ID>
+<Title>tring tring</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>satyajeet & lipsa</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>abhijeet majumdar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>ashok pati</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>tarang cine productions</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>lucky ra lockdown lovestory</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>madhoshi aji ei rati</s>
+	<s>badmashi mana kare tati</s>
+	<s>haa madhoshi aji ei rati</s>
+	<s>badmashi mana kare tati</s>
+	<s>ore sathire aa to thare</s>
+	<s>to pain ei chati bhitare</s>
+	<s>otharu tora hae saja mahu jharuchhi</s>
+	<s>sosha re kai mu ete sajaa pauchhi</s>
+	<s>haa manara katha tu padhi ne mo akhire</s>
+	<s>nida ku mora to luti ne to sathire</s>
+	<s>akhire delu, kini mantrana</s>
+	<s>badhi jae mo, pagala pana</s>
+	<s>hae jebeki badhe ha eratira bayasha</s>
+	<s>setiki khoje tate mo pratiti niswasha</s>
+	<s>haa bhari tatala ha she niswasha chuare</s>
+	<s>jalu chi aji mu nuagute niare</s>
+	<s>se niara naa ta prema</s>
+	<s>duhinku die gute jakhama</s>
+	<s>tring tring  tring tring tring</s>
+	<s>dilka ghanti ring ring ring</s>
+</lyrics>

@@ -1,0 +1,45 @@
+<Song ID>16</Song ID>
+<Title>to dhadkan ra dhun</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & ananya sritam nanda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>prem anand</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>basantraj samal</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>tapash sargharia</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>subhendu sahu</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>tu mo love story-2</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>mu haji jaichhi, haji jaichhi</s>
+	<s>mu bhiji jaichi, bhiji jaichi</s>
+	<s>ta bhija bhija smrutire</s>
+	<s>ta dhadkan ra dhun mo chhatire</s>
+	<s>ta dhadkan ra dhun mo chhatire</s>
+	<s>bhala paibara pruthibi</s>
+	<s>upare pada mo jaichi padi</s>
+	<s>ta bina jibana chira</s>
+	<s>kagajate pabanare jae udi</s>
+	<s>tate bhabu bhabu tarali jae mu</s>
+	<s>jemiti mahamabati</s>
+	<s>jete dure thile ta niswasare</s>
+	<s>tati jae sara rati</s>
+	<s>kebe udi jauchi</s>
+	<s>kebe padi jauchi</s>
+	<s>mora ea ki parithitire</s>
+	<s>aji kali au eka rahibaku</s>
+	<s>nijathi biswasa nahi</s>
+	<s>eichha hue khali bata chalibaku</s>
+	<s>hei to dehara chhai</s>
+	<s>ajikali au swapna dekhibaku</s>
+	<s>au rati mora darkara nahi</s>
+	<s>khola akhire bi sapana sashai</s>
+	<s>tate nei sathire nei</s>
+	<s>mu jhari jauchhi</s>
+	<s>mu khili jauchhi</s>
+	<s>mora ei ki anubhutire</s>
+</lyrics>

@@ -1,0 +1,55 @@
+<Song ID>13</Song ID>
+<Title>sun thare sun</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & jyotirmayee</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>japani</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>surya mohapatra</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>biswajit</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>uttam</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2021</Year>
+<lyrics>
+	<s>ei mana thila, laja kula</s>
+	<s>premi banjara, ebe swapna sara</s>
+	<s>to chehera, tu aa dekh jara</s>
+	<s>mo duniata nua nua lage niara</s>
+	<s>aji mora otha sara hasa kuanara</s>
+	<s>ebe dinaku mu sahe thara</s>
+	<s>to naa ghose bara bara</s>
+	<s>tate bhabili pari nijara</s>
+	<s>tate khoje khali mo najara</s>
+	<s>sun thare sun</s>
+	<s>mo dhadkan ra subhe aji</s>
+	<s>to pream dhun</s>
+	<s>bhala tu lagilu</s>
+	<s>bhala pai gali</s>
+	<s>prathama dekhare mu</s>
+	<s>phula rani mora phula tie debi</s>
+	<s>ha kahi dele tu</s>
+	<s>phaguna sahare phagu dala dhari</s>
+	<s>dine buluthili mu</s>
+	<s>mo hatara ranga nei mo manare</s>
+	<s>aji goli delu tu</s>
+	<s>she niriha to dui akhi</s>
+	<s>to phakhaku nei chhi daki</s>
+	<s>jebe nathau tu pakhe pakhe</s>
+	<s>mana bujhai to chabi anke</s>
+	<s>han meghua pagare megha sabarire</s>
+	<s>eka bulu thili mu</s>
+	<s>dhire dhire asi ajanate mora</s>
+	<s>mate bhijeilu tu</s>
+	<s>ho nidua akhire janha sathe khali</s>
+	<s>basi gaputhili mu</s>
+	<s>mo mana akashe janha tie hei</s>
+	<s>ebe unki maru tu</s>
+	<s>otha deu thila sina thaki</s>
+	<s>dhara pakeila ei akhi</s>
+	<s>bata chalu thili mapi chupi</s>
+	<s>dhara paigali to painiki</s>
+</lyrics>

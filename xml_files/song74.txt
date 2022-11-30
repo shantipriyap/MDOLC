@@ -1,0 +1,34 @@
+<Song ID>74</Song ID>
+<Title>to bina mu kichhi chanhena</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & diptirekha padhi</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>sudhansu & himansu</Music Director>
+<Gender(Music Director)>male & male</Gender(Music Director)>
+<Lyrics Author>arun mantri</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>prem anand</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>to bina mun kichhi chanhena</s>
+	<s>to bina mun kichhi janena</s>
+	<s>nija ku hajei paichhi tate mun</s>
+	<s>to hata dharibi de anumati tu</s>
+	<s>to sathire chalibaku de mote thare</s>
+	<s>mo batatre marana ta niti hata thare</s>
+	<s>marana aasiba jadi karidebi mana</s>
+	<s>jete mana kale kain e mana bujhena</s>
+	<s>e mana jibana deichhi tate mun</s>
+	<s>to mane rahibi de adhikara tu</s>
+	<s>tate kete bhala par parena mun kahi</s>
+	<s>ete bhala paanatu parena mun sahi</s>
+	<s>sahinebi sabu jhada sathire to pain</s>
+	<s>tate sathi karibaku bhagya bodhe nahin</s>
+	<s>mo bhagya jodichhi to bhagya sathe mun</s>
+	<s>mo baki jibana ne upahar tu</s>
+</lyrics>

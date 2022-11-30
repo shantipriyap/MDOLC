@@ -1,0 +1,61 @@
+<Song ID>21</Song ID>
+<Title>tate tike chahin dele</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & dipti rekha padhi</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>malaya mishra</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>arun mantri</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>susant mani</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>sitaram agrawalla & namita agrawalla</Producer>
+<Gender(Producer)>male & female</Gender(Producer)>
+<Movie_Album>this is maya re baya</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>tate tike chahedele mora</s>
+	<s>hei jaere something something</s>
+	<s>tora mora love story</s>
+	<s>laguchhi nua sinema pari</s>
+	<s>dinare mate dekhei delu</s>
+	<s>sweet bala dream dream dream</s>
+	<s>kring kring kring</s>
+	<s>to pain dil teli phone</s>
+	<s>bajere baje kring kring</s>
+	<s>to pain dil teli phone</s>
+	<s>bajere baje kring kring</s>
+	<s>naa homiopathi naa alopathi</s>
+	<s>to sathe chalichhi mora</s>
+	<s>daily daily daily pathi</s>
+	<s>tu rangila toka tu romio toka</s>
+	<s>to sathe sapane mora</s>
+	<s>daily daily hue dhaka</s>
+	<s>sadhi sangare jemiti dhadi</s>
+	<s>tora mora semiti jodi</s>
+	<s>rakhibu jadi rakhide mate</s>
+	<s>marito nose ring</s>
+	<s>to pain dil teli phone</s>
+	<s>bajere baje kring kring</s>
+	<s>to pain dil teli phone</s>
+	<s>bajere baje kring kring</s>
+	<s>to pain dil teli phone</s>
+	<s>baje baje baje kring kring</s>
+	<s>to pain dil teli phone</s>
+	<s>bajere baje kring kring</s>
+	<s>na chaina food na fast food</s>
+	<s>premara test tora</s>
+	<s>lage mate very good</s>
+	<s>naa ollywood na bollywood</s>
+	<s>toteto dekhile</s>
+	<s>lage made in hollywood</s>
+	<s>haere janu kauthi thilu</s>
+	<s>premara jadi phashei delu</s>
+	<s>karide mate queen tora</s>
+	<s>heija mora king king king</s>
+	<s>to pain dil teli phone</s>
+	<s>bajere baje kring kring</s>
+	<s>to pain dil teli phone</s>
+	<s>bajere baje kring kring</s>
+</lyrics>

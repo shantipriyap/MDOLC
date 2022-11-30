@@ -1,0 +1,57 @@
+<Song ID>65</Song ID>
+<Title>bajigala bara bajigala</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>pankaj jal & pamela jain</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>abhijit majumdar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nizam</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>s.k.muralidharan</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>rabin kumar nanda & rajesh padhi</Producer>
+<Gender(Producer)>male & male</Gender(Producer)>
+<Movie_Album>smile please</Movie_Album>
+<Year>2014</Year>
+<lyrics>
+	<s>sweety aalo sweety</s>
+	<s>dil chahunchi tote only</s>
+	<s>aare gaduchi prema gadi ta</s>
+	<s>to bina lo bhari slowly</s>
+	<s>aare mora loving hero</s>
+	<s>manataku mora kidnap kalu</s>
+	<s>smile please kahi kahi tu</s>
+	<s>hai re mote patei delu</s>
+	<s>gala gala gala, hosh udi re</s>
+	<s>bajigala, baji gala</s>
+	<s>bajigala, bara baji gala</s>
+	<s>dil ki ghadi re</s>
+	<s>aare lover emiti hajare</s>
+	<s>husn ku kie pachare</s>
+	<s>tora mora buli baharile</s>
+	<s>bomb padi jiba bazare</s>
+	<s>han radio tv kahiba</s>
+	<s>newspaper lekhiba</s>
+	<s>ama story film hele</s>
+	<s>hutu hutu bahi jaliba</s>
+	<s>aalo mora miss india</s>
+	<s>chhatire hooka pakei delu</s>
+	<s>manguli rasta re jebe</s>
+	<s>mo’thi asi badei helu</s>
+	<s>dhadkan mora gala badhi re</s>
+	<s>aare dosa re jemiti chatani</s>
+	<s>kagaja sathe pituni</s>
+	<s>aama mana ete kachhakachhi</s>
+	<s>jemiti khoada chatani</s>
+	<s>aalo srabana dela kandei</s>
+	<s>summer dela durei</s>
+	<s>agela sita re chal</s>
+	<s>khela daba sarei</s>
+	<s>aare mora lover boy</s>
+	<s>jebethu tora entry hela</s>
+	<s>to pain saja hau hau</s>
+	<s>makeup budget badhi gala</s>
+	<s>pi delu ki prema kali re</s>
+	<s>dil ki ghadi re</s>
+</lyrics>

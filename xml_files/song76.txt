@@ -1,0 +1,39 @@
+<Song ID>76</Song ID>
+<Title>to aakhire achhi megha</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>sabisesh mishra & ananya sritam nanda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>prem anand</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>basant raj samal</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>basanta sahoo</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>akshya kumar parija & prashant behera</Producer>
+<Gender(Producer)>male & male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>to aakhire achhi megha</s>
+	<s>to othare achhi khara</s>
+	<s>tu hasile endradhanu e sahara sara</s>
+	<s>o yara maridela ta chehera</s>
+	<s>see aakhire achhi jadu</s>
+	<s>to chhatire basna bhara</s>
+	<s>tu aasile prema rutu e sahara sara</s>
+	<s>to upare jebe mora padigala aakhi</s>
+	<s>ajanare nijaku mu tate deli biki</s>
+	<s>tu kemiti janibu mu kete asahaya</s>
+	<s>ta pakhare rahigala mora e hrudaya</s>
+	<s>ta premare achhi nisa</s>
+	<s>jhia na tu madhu sala</s>
+	<s>tu basile mahakuchi e sahara sara</s>
+	<s>tu basilu mo hatare prajapati hei</s>
+	<s>mahu mahu heigala mo jibana nae</s>
+	<s>tu aasilu e jibane ete ranga nei</s>
+	<s>dheu dheu rangare mu jauchi gadhei</s>
+	<s>to swapnare achhi sosa</s>
+	<s>to manare smruti dhara</s>
+	<s>tu rusile barsha rutu e sahra sara</s>
+</lyrics>

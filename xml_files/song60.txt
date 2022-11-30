@@ -1,0 +1,38 @@
+<Song ID>60</Song ID>
+<Title>aji kali mate kai</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & ananya sritam nanda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>prem anand</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>debidutta mohanty</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>tarang cine productions</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>aji kali mate kai</s>
+	<s>bhala laguchi bhari,</s>
+	<s>to na sathe mo na ku sathe lekhi dei,</s>
+	<s>kahibaku sorry</s>
+	<s>aji kali mate kai</s>
+	<s>bhala laguchi bhari,</s>
+	<s>kou bahana re tate kebe kebe chui dei,</s>
+	<s>kahibaku sorry</s>
+	<s>katha tie tori pakhe kahibaku chahuchi ete, parunu dhari</s>
+	<s>tu mo love story, tu mo love story</s>
+	<s>facebook re kete jhia toh friend list re,</s>
+	<s>gani gani mu kai raguchi micha tare,</s>
+	<s>jeun foto re tu achu mo sathi re,</s>
+	<s>sei foto ku share karuchi mu kai re</s>
+	<s>to sathire jhiate kehi katha haba dekhile kai, jauchi mari</s>
+	<s>toh dress ku dekhi dekhi mu aji kali,</s>
+	<s>kai pindhuchi se ranga ku match kari</s>
+	<s>jou ranga ta besi bhala tu pau boli,</s>
+	<s>sei ranga re misi jai mu khele holi</s>
+	<s>duhe bodhe duhi nka pai, bhabuchi ki kahiba pai, bahana kari</s>
+</lyrics>

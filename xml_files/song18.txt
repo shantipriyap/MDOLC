@@ -1,0 +1,64 @@
+<Song ID>18</Song ID>
+<Title>to galara kalajai</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>mantu chhuria & aseema panda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>pradeepta rath</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>silu bibhu</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>r ansuman dash</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>odisha r production</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>janu to chehara anguri</s>
+	<s>luti nea dil ki tijori</s>
+	<s>jana katha to strawberry</s>
+	<s>mane mane bhare misti lagati</s>
+	<s>jana dhire dhire dhire</s>
+	<s>prema heijau thare</s>
+	<s>life long love song daba bajei</s>
+	<s>to gala ra kalajai mahama hrudaya re</s>
+	<s>dea niana lagei</s>
+	<s>to gala ra kalajai mahama hrudaya re</s>
+	<s>dea niana lagei</s>
+	<s>dhana to hritik style</s>
+	<s>dekhi dil bajae whistle</s>
+	<s>dhana to sarukh smile</s>
+	<s>dekhi charge dil mo paili</s>
+	<s>dhana dhire dhire dhire</s>
+	<s>katha fix hau thare</s>
+	<s>dhana dhire dhire dhire</s>
+	<s>katha fix hau thare</s>
+	<s>mun bi achhi tu bi achhu katibinai</s>
+	<s>to cutting hi-fi mana therubali re</s>
+	<s>dea bali udei</s>
+	<s>mo pyar to pain pura a to z</s>
+	<s>baby hn kebebi hn habani se fail</s>
+	<s>nahin re to pin dhana signal red</s>
+	<s>love hba aamara five star rated</s>
+	<s>dhana dhire dhire dhire</s>
+	<s>jodi jami jau thare</s>
+	<s>jana dhire dhire dhire</s>
+	<s>jodi jami jau thare</s>
+	<s>jana dhire dhire dhire</s>
+	<s>jodi jami jau thare</s>
+	<s>sweet feel sweet thril daba jhumei</s>
+	<s>to najara sae sae hrudaya pahada re</s>
+	<s>dea hala bulei</s>
+	<s>hasi dele gori tu lagu golap jamun</s>
+	<s>mo mana kini nea tora sabu expression</s>
+	<s>to sat chali pura latest fashion</s>
+	<s>dekhidele odisha lage foreign foreign</s>
+	<s>dhana dhire dhire dhire</s>
+	<s>goda khasi jau thare</s>
+	<s>jana dhire dhire dhire</s>
+	<s>goda khasi jau thare</s>
+	<s>whole night long drive re nebi bulei</s>
+	<s>to deha ra parchhai mo deha nakhara re</s>
+	<s>dea khara pakei</s>
+</lyrics>

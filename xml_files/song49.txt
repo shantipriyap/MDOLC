@@ -1,0 +1,45 @@
+<Song ID>49</Song ID>
+<Title>chal aame aauthare pakha pakhi basiba</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>human sagar & ananya sritam nanda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>prem anand</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>debidutta mohanty</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>tapas sargharia</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>deepak kumar mishra</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>tu mo love story</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>chal aame aauthare pakha pakhi basiba</s>
+	<s>neba gote selfie</s>
+	<s>chal aame aauthare adha adha pieba</s>
+	<s>gote cup coffe</s>
+	<s>ja manija katha manija</s>
+	<s>pachhaku aa pheri</s>
+	<s>bhul thile sorry</s>
+	<s>tu mo love story</s>
+	<s>tu mo love story</s>
+	<s>tu achhu mo bhitare</s>
+	<s>tathabi khojuchi tate</s>
+	<s>mu achhi ta bhitare</s>
+	<s>kahniki paunu mate</s>
+	<s>chal aame aauthare cycle re buliba</s>
+	<s>maruthiba siti</s>
+	<s>chal aame aauthare dream tike dekhiba</s>
+	<s>alpa thiba aa pheria tike pheriadairty..</s>
+	<s>nahele jibi mari</s>
+	<s>bhul thile sorry</s>
+	<s>ta bina e hrudaya bhangijae jemiti kachha</s>
+	<s>ta bina mu banchiba michha thu aahuri michha</s>
+	<s>chal aame aauthare shopping misi kariba</s>
+	<s>dress aau sadhi</s>
+	<s>chal aame aauthare gupchup khaiba</s>
+	<s>gote thola dhari</s>
+	<s>aau paruni sahi paruni helani kasta bhari</s>
+	<s>bhul thile sorry</s>
+</lyrics>

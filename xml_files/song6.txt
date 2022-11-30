@@ -1,0 +1,33 @@
+<Song ID>6</Song ID>
+<Title>sila i love you</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>prem anand</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>basant raj samal</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>lubun & tubun</Director>
+<Gender(Director)>male & male</Gender(Director)>
+<Producer>paramananda mishra</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>sundergarh ra salman khan</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>tumo lila ore laila hay lila tote love karuchi mu</s>
+	<s>hart re mo heart re tote save karichi mu</s>
+	<s>sila i love you</s>
+	<s>to paein mu dekhi asichi mangala graha re jaga</s>
+	<s>jaga kini chi ghara kariba rahiba tora mora</s>
+	<s>tu kahile topaein mu panire katibi gara</s>
+	<s>tu kahile to paein mu niare khelibi khela</s>
+	<s>tumo laila ore laila hay laila tote pyar karuchi</s>
+	<s>app re whats aap re dil share karichi mu</s>
+	<s>mu chapi chi mo chati re to osam chabi</s>
+	<s>mu lekhuchi sabu rati re ama love story movi</s>
+	<s>tu kahile to ranga re rangei debi rati</s>
+	<s>tu kahile to chati re tangai debi mo chati</s>
+	<s>tumo laila ore laila hay laila tote prema karuchi mu</s>
+	<s>life re mo life re  bhala kama karuchi mu</s>
+</lyrics>

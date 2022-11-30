@@ -1,0 +1,37 @@
+<Song ID>45</Song ID>
+<Title>local toka love chokha</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>baidyanath das</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>sudhanshu sahu</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>praduyumna lenka</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>local toka love chokha</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>hello hello mic testing</s>
+	<s>dekho ama style ama cuting</s>
+	<s>a hello hello mic testing</s>
+	<s>dekho ama style ama cuting</s>
+	<s>l for lofer ame o re khoju offer</s>
+	<s>c grade charecter a re nangha actor</s>
+	<s>l for l for line mari debuni kahaku dhoka</s>
+	<s>ganita re bhari kada alfa bita gama</s>
+	<s>ta tharu besi kada jhia bapankara drama</s>
+	<s>pathare sina fail ame premare pura topper</s>
+	<s>ama sangare lagiba jie udei dabu chhapar</s>
+	<s>sahe sahe re sahe sahe re</s>
+	<s>sahe sahe re khela kari badei dabu chhaka</s>
+	<s>sangita re bhari mitha sa re gama padha</s>
+	<s>maridele siti ame nachibe re kete radha</s>
+	<s>jaha sathe chaliba ama pyarwala chakkar</s>
+	<s>bina chabire kholi dabu tari mana locker</s>
+	<s>marka mara marka mara</s>
+	<s>marka mara dil lotera ame bainsi fuka</s>
+</lyrics>

@@ -1,0 +1,46 @@
+<Song ID>70</Song ID>
+<Title>come on baby rangabati</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>human sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>lalit kumar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>bapu goswami</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>lubun & tubun</Director>
+<Gender(Director)>male & male</Gender(Director)>
+<Producer>lt studio</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>chehara tara chini chini to pain dil pani pani</s>
+	<s>dhadkilani dhadkilani kuwara chaati</s>
+	<s>come on baby rangabati come on baby rangabati</s>
+	<s>nakhara tara honey honey to pain pyaar sunny sunny</s>
+	<s>na na najara phasara hauchi la</s>
+	<s>khasara mashara hauchi la</s>
+	<s>dj bajichi chaati bhitara</s>
+	<s>katara matara hauchi la</s>
+	<s>jhatara patara laguchi la</s>
+	<s>ut pahad rati aandhare</s>
+	<s>aye najara pasara hauchi la</s>
+	<s>khasara mashara hauchi la</s>
+	<s>figar tara diya honey</s>
+	<s>khauchhu kahi heyte kani</s>
+	<s>figar tara diya honey</s>
+	<s>khauchhu kahi heyte kani</s>
+	<s>chaadkilani chaadkilani mahua rati</s>
+	<s>baina cooler dharachi la</s>
+	<s>balakanir ru ondichi la</s>
+	<s>hot hot laguchi bhari</s>
+	<s>pemara tara pindhichu la</s>
+	<s>life mara thanduchu la</s>
+	<s>bayasa ma dauchu shari</s>
+	<s>smile tara luni luni</s>
+	<s>pagala mujhe jani jani</s>
+	<s>smile tara luni luni</s>
+	<s>pagala mujhe jani jani</s>
+	<s>dabailani dabailani andira hati</s>
+</lyrics>

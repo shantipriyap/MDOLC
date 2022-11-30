@@ -1,0 +1,44 @@
+<Song ID>34</Song ID>
+<Title>niswasa chalena to bina</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & lopamudra</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>prem darshan</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>prem darshan</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>ashutosh das (babu da)</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>ashu music productions</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>niswasa chalena to bina</s>
+	<s>hayere saajnaa</s>
+	<s>spandana chalena to bina</s>
+	<s>tu jaan tu mora zindagi</s>
+	<s>to pakhe achhi mo har khusi</s>
+	<s>katha deli tothu ek pal bhi</s>
+	<s>hebini judaa  hebini judaa</s>
+	<s>subhan allah subhaan allah</s>
+	<s>kahinki ete sundara tate</s>
+	<s>gadhila a bidhata</s>
+	<s>jete kahile b saruni mo</s>
+	<s>otharu toh katha</s>
+	<s>han bhagyare nathile mile nahin</s>
+	<s>kahaku ete prema</s>
+	<s>magichi tate mo khuda thu mu</s>
+	<s>aahuri sahe janma</s>
+	<s>tu jaan tu mora jindegi</s>
+	<s>to pakhe achhi mo har khusi</s>
+	<s>chaluthili mu eka eka</s>
+	<s>han toh sathe hela dekha</s>
+	<s>rahigalu mo jibanare tu</s>
+	<s>jemiti sehjadaa</s>
+	<s>jete dekhile b tate kaain</s>
+	<s>bharuni mana jama</s>
+	<s>saayeri te na apsari te tu</s>
+	<s>hayemo rajajema</s>
+</lyrics>

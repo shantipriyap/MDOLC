@@ -1,0 +1,39 @@
+<Song ID>22</Song ID>
+<Title>aste aste sun beliya</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & dipti rekha padhi</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>abhijit majumdar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>tapas sargharia</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>sitaram agrawal & namita agrawal</Producer>
+<Gender(Producer)>male & female</Gender(Producer)>
+<Movie_Album>only pyar</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>sun beliya i love you, love you love you</s>
+	<s>aaste aaste emiti tu e manaku chhuidelu</s>
+	<s>premarutu ranga boli sapanaku rangeilu</s>
+	<s>kichhi mu chahena au</s>
+	<s>dhire dhire mo jibane jadu tora karidelu</s>
+	<s>lakhe kasturi mahaka manasara bharidelu</s>
+	<s>rahi mu paruni au</s>
+	<s>najare bandhidelu emiti mo mana</s>
+	<s>to premare mahakichhi mora rati dina</s>
+	<s>mora rati mora dina sabu to nare</s>
+	<s>hajigala aji ei nua duniare</s>
+	<s>emiti tu chupi chupi mana katha kahidelu</s>
+	<s>bichara e hrudayaku nachhui bi chhuidelu</s>
+	<s>jaruchhi khsira mahu</s>
+	<s>prema bate asu kanta asu phula hata</s>
+	<s>emiti mu to sathire chaluthibi bata</s>
+	<s>ho se batare asu khara asu jete megha</s>
+	<s>han tu thile milijae nua diga</s>
+	<s>emiti tu ashi mora jibanare rahigalu</s>
+	<s>swapna mora tuti hoi swapnasara chhaigalu</s>
+	<s>khojuni kichhi mu au</s>
+</lyrics>

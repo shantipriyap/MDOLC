@@ -1,0 +1,41 @@
+<Song ID>15</Song ID>
+<Title>o sahiba</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>swayam padhi & neha niharika kar</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>abhijit majumdar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>smruti r</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>nitesh kumar prusty</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2021</Year>
+<lyrics>
+	<s>duniaku kahideli dil tate deideli</s>
+	<s>tu mora dil jania tu mo dil ruba</s>
+	<s>o o o  re sahiba o o o  re sahiba</s>
+	<s>khojuthili paigali mana tate deideli</s>
+	<s>mu tora dil jania mu ta mehebooba</s>
+	<s>duniare eka eka thili eka</s>
+	<s>dekha dekha hela dekha</s>
+	<s>life ta lage jinga lala</s>
+	<s>crazy crazy lage crazy</s>
+	<s>raji raji mu raji</s>
+	<s>sabu dina hebaku ta laila</s>
+	<s>ho  mana thila aadha aadha</s>
+	<s>ebe lage fida fida</s>
+	<s>ta premare aaji kali dil ta duba duba</s>
+	<s>dreame dreame lage dreame</s>
+	<s>jhumi jhumi jae jhumi</s>
+	<s>prema na keun eka nisa</s>
+	<s>ha aa aa premi premi mun premi</s>
+	<s>dami dami bhari dami</s>
+	<s>premara e rimjhim barsha</s>
+	<s>ha aa aa swapna thila adha adha</s>
+	<s>ebe lage adha adha</s>
+	<s>aaji kain bhabanare dil ta duba duba</s>
+</lyrics>

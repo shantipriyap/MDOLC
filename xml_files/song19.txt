@@ -1,0 +1,50 @@
+<Song ID>19</Song ID>
+<Title>badhei deba lo bass</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>mantu chhuria & aseema panda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>abinash mishra</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>amiya das</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>biren</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>odisha r</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>bujhi sabu ishara kain karuchu ete nakhara</s>
+	<s>nahi au pacense mora deide tike lo dhara</s>
+	<s>he bujhi sabu ishara kain karuchu ete nakhara</s>
+	<s>nahi au pacense mora deide tike lo dhara</s>
+	<s>to pain e dil dhak dhak manija lo tike gori</s>
+	<s>raji hele duniya agare hit heba ama story</s>
+	<s>chal suru karideba suru karideba</s>
+	<s>pyar wala race</s>
+	<s>haye mor majunu tu eki jadu karidelu</s>
+	<s>aakhire aakhi ladhei diwani banei delu</s>
+	<s>haye mor majunu tu eki jadu karidelu</s>
+	<s>aakhire aakhi ladhei diwani banei delu</s>
+	<s>bholi bhali thili emiti mitha ishara tu delu</s>
+	<s>heart ra software re tu hang karidelu</s>
+	<s>tote dekhi beauty baby</s>
+	<s>heigala impress</s>
+	<s>ha tote dekhi beauty baby</s>
+	<s>heigala impress</s>
+	<s>alia vali to figure, laguchu lo pura jabar</s>
+	<s>najar misile to sathe baby hue viral fever</s>
+	<s>are desi wala tor style, dil ku kare ghayel</s>
+	<s>heart bhitarata jaleidela vari dei love fuel</s>
+	<s>haha tote dekhi beauty baby</s>
+	<s>heigala impress</s>
+	<s>ashiqu wala love tora, melt kala mana mora</s>
+	<s>eki missail chadilu hai dil heigala tora</s>
+	<s>hey sarmili aada tora, nida udeila mora</s>
+	<s>naseli jawani fida karidela fan banigali tora</s>
+	<s>haha tote dekhi beauty baby</s>
+	<s>heigala impress</s>
+	<s>are tote dekhi beauty baby</s>
+	<s>heigala impress</s>
+</lyrics>

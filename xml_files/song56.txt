@@ -1,0 +1,37 @@
+<Song ID>56</Song ID>
+<Title>aakhi mage manjuri</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>babushan & ananya nanda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>baidyanath das</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>bapu goswami</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>sudhanshu mohan sahu</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>pradyumna lenka & d.p khaadelwala</Producer>
+<Gender(Producer)>male & male</Gender(Producer)>
+<Movie_Album>local toka love chokha</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>tate khali dekhibaku akhi mage manjuri</s>
+	<s>swapna chahen to nidare karibaku hajuri</s>
+	<s>mana sara mahake ta prema kasturi</s>
+	<s>san san sananana shayari</s>
+	<s>tu sar sar sargam basuri</s>
+	<s>surumayi akhi tora kala kinia</s>
+	<s>to premare padigali o priya</s>
+	<s>nahna muna to hurdaya ete pagala</s>
+	<s>kini nela mora sanja sakala</s>
+	<s>tate khali prema tike mun mage udhari</s>
+	<s>rutupurna rani tu lo mo mana mayuri</s>
+	<s>chhuin dele pabana re baje mahuri</s>
+	<s>emiti tu rahigalu akhi palake</s>
+	<s>satarangi samayata atake</s>
+	<s>o suna rangi to chehera sunapatia</s>
+	<s>jhalasei dela mora dunia</s>
+	<s>lagu kain mo painki ete jarori</s>
+	<s>rahijiba jibanata to bina adhuri</s>
+	<s>to premare mana mora jae bahari</s>
+</lyrics>

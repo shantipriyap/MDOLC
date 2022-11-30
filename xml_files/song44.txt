@@ -1,0 +1,62 @@
+<Song ID>44</Song ID>
+<Title>ek diwana tha</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>rituraj mohanty</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>abhijeet majumdar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>ashok pati</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>tarang cine productions</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>sister sridevi</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>ek hassena the</s>
+	<s>ek dewaana tha</s>
+	<s>kya jaaman tha</s>
+	<s>kya fassana tha</s>
+	<s>ama e love story</s>
+	<s>dela majunu kari</s>
+	<s>kemiti rahila adha</s>
+	<s>darling tu motharu motharu nelu alvida</s>
+	<s>kain tu motharu motharu nelu alvida</s>
+	<s>alvida alvida alvida nelu alvida</s>
+	<s>kain tu motharu motharu nelu alvida</s>
+	<s>ek hassena the</s>
+	<s>ek dewaana tha</s>
+	<s>juga juga ku thiba ae katha</s>
+	<s>sata prema bhitare ta</s>
+	<s>michha dhoka rahithae</s>
+	<s>tathapi ta bharasare</s>
+	<s>jiun thili aaji jae</s>
+	<s>niswasathu besi tate</s>
+	<s>karithili apanar</s>
+	<s>biswasare bisa dei</s>
+	<s>karidelu sata para</s>
+	<s>niriha muhne tora</s>
+	<s>ete chhalana thila</s>
+	<s>prema ku kalu sauda</s>
+	<s>darling tu motharu motharu nelu alvida</s>
+	<s>kain tu motharu motharu nelu alvida</s>
+	<s>alvida alvida alvida nelu alvida</s>
+	<s>kain tu motharu motharu nelu alvida</s>
+	<s>mora bhala paebara</s>
+	<s>delu bhala upahara</s>
+	<s>mo upare hase aaji</s>
+	<s>nija aakhi luha mora</s>
+	<s>kemiti ta prema sate</s>
+	<s>karidelu bhaga banta</s>
+	<s>bachhi nelu fula sabu</s>
+	<s>mo bhagya re khali kanta</s>
+	<s>se kanta aghatare</s>
+	<s>sabu dina mu mare</s>
+	<s>tate ki laguni badha</s>
+	<s>darling tu motharu motharu nelu alvida</s>
+	<s>kain tu motharu motharu nelu alvida</s>
+	<s>alvida alvida alvida nelu alvida</s>
+	<s>kain tu motharu motharu nelu alvida</s>
+</lyrics>

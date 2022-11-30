@@ -1,0 +1,55 @@
+<Song ID>81</Song ID>
+<Title>dj wala tike nagin nagin baja</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & aseema panda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>rajat parida</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>namita dash</Lyrics Author>
+<Gender(Lyrics Author)>female</Gender(Lyrics Author)>
+<Director>susant k</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>saroja kumar dash</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2021</Year>
+<lyrics>
+	<s>dj wala tike nagin nagin baja</s>
+	<s>dj wala tike volume badhei</s>
+	<s>nagin nagin baja</s>
+	<s>dj tale tale priya mo aaji</s>
+	<s>nachiba kahuchhi nacha</s>
+	<s>karichhi chori kunra mana</s>
+	<s>suna munhi priya hasa mali fulia</s>
+	<s>lage emiti haji kouthi</s>
+	<s>khoju aaji aasi ethi rati adhia</s>
+	<s>ragidele sea e mana bujhena</s>
+	<s>hasi dele lage maza</s>
+	<s>dj tale tale priya mo aaji</s>
+	<s>nachiba kahuchhi nacha</s>
+	<s>taraka mele unichhi chanda</s>
+	<s>ichha kale feribaku feruni aakhi</s>
+	<s>jebe thu taku dekhichhi aakhi</s>
+	<s>palaka re sea mora jaichhi lakhi</s>
+	<s>mana maina dhali jochhana</s>
+	<s>fitei dei mora mna daraja</s>
+	<s>katha kahiki mana mohuchhi</s>
+	<s>neta khata bhari mo mana ra raja</s>
+	<s>ragidele sea e mana bujhena</s>
+	<s>hasi dele lage maza</s>
+	<s>mana re mor karichhi ghara</s>
+	<s>nirimakhi priya mora chanda udia</s>
+	<s>are karichhi guni hrudaya jini</s>
+	<s>ghara ku ta neijiba para deshia</s>
+	<s>mana ra bhasa bujhuni mora</s>
+	<s>hauchhi se aaji kain bhari abujha</s>
+	<s>nijara taku bhabila pare</s>
+	<s>bhoguchhi mun ta pain ki prema ra saja</s>
+	<s>pada tala mala mana mo athaya</s>
+	<s>jhumei jhumei nacha</s>
+	<s>karichhi chori kunra mana</s>
+	<s>suna munhi priya hasa mali fulia</s>
+	<s>lage emiti haji kouthi</s>
+	<s>khoju aaji aasi ethi rati adhia</s>
+</lyrics>

@@ -1,0 +1,34 @@
+<Song ID>90</Song ID>
+<Title>hey i wana love you</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>babul supriyo</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>malaya mishra</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>arun mantri</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>ashok pati</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>bijoy kandoi</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>dewana</Movie_Album>
+<Year>2010</Year>
+<lyrics>
+	<s>aakase pabana,pabana re chithi,</s>
+	<s>chithi re lekhuchi mu</s>
+	<s>tharutia aa,kahi dei ja,</s>
+	<s>bandhu ki bandhabi tu</s>
+	<s>mane mane tote bhala pae kete,</s>
+	<s>hele kahi pare nahi.</s>
+	<s>kari dele mana mana haba chuna,</s>
+	<s>a chati sahiba nahi.</s>
+	<s>chatire hrudaya,hrudaya re prem,</s>
+	<s>prema re padichi mu</s>
+	<s>bhabe bele bele nakahile kale,</s>
+	<s>au kia kahi daba.</s>
+	<s>suna jhia tia tate au kia</s>
+	<s>a aakhiru nei jiba</s>
+	<s>a aakhire nida,nida re sapana</s>
+	<s>sapana dekhuchi mu</s>
+</lyrics>

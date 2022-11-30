@@ -1,0 +1,37 @@
+<Song ID>3</Song ID>
+<Title>heigala ishq re</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & pragyan</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>baidyanath dash</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>arun mantri</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>murli krishna</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>n. gangadhara reddy & p.deepti rani</Producer>
+<Gender(Producer)>male & female</Gender(Producer)>
+<Movie_Album>champion</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>haye re allah kiese gadhila</s>
+	<s>id ra chanda ku</s>
+	<s>jebe thu ooinla haule lutila</s>
+	<s>mo akhi nidaku</s>
+	<s>nida chori heigala pare</s>
+	<s>deewana dil kahe dhire dhire</s>
+	<s>-what happened</s>
+	<s>heigala ishq ishq re</s>
+	<s>jane jigar jane man</s>
+	<s>tu mo dhadkana</s>
+	<s>to paain khali to paain</s>
+	<s>mora e pagalpan</s>
+	<s>pagala premika sun</s>
+	<s>sunanare prema dhun</s>
+	<s>dekhini kouthi sate</s>
+	<s>to pari gote majnu</s>
+	<s>akhi akhi misigala pare</s>
+	<s>awara dil kahe mo chhatire</s>
+	<s>excuse me!!!!</s>
+</lyrics>

@@ -1,0 +1,42 @@
+<Song ID>41</Song ID>
+<Title>malka malka halka halka</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>human sagar & prangya hota</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>prem anand</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>subrat swain</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>binni pattnaik</Director>
+<Gender(Director)>female</Gender(Director)>
+<Producer>sachikanat jena</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>jhiata bigidi gala</Movie_Album>
+<Year>2016</Year>
+<lyrics>
+	<s>malka malka halka halka  e manata bhala  lage kahein baby</s>
+	<s>thumka thumka hae tora jhumka bhala lage kahein baby</s>
+	<s>eenu tenu ktha kahu kahu,gunu gunu geeta gau gau</s>
+	<s>toli tiye khali chun chun anken to chhabi</s>
+	<s>jhilka jhilka jhil mil akhita dekhu thaye to chhbi</s>
+	<s>meheka meheka matwala muhan ta mate khali niye daki</s>
+	<s>mana  mora chori hele hau pakhe akhe kiye thile tau</s>
+	<s>nida mora haji gale jau to katha bhabi</s>
+	<s>andhare aji alua lage badali gala paga</s>
+	<s>chhatire  mote jebe thu tora lagila prema daga</s>
+	<s>meghare aji barase mahu kakara lage mote</s>
+	<s>akhire mora jebethu tora akhi misila sathi</s>
+	<s>chhala ka chhalka hal chal chhabita bhala lage kahein bab</s>
+	<s>humm halka halka mitha mitha hasata bhala lage kahein baby</s>
+	<s>sanja hau aba rati hau akasare tara thile thau</s>
+	<s>bhabu thye rati pahu pahu to pakhe thibi</s>
+	<s>sapana kahein nida re nain dina re ghuri bule</s>
+	<s>pada ti mora jebe thu tora chhai sathire chale</s>
+	<s>basanta aji barasa bele phulare khele doli</s>
+	<s>mori mana to sathire jebe khelila lucha kali</s>
+	<s>leheka leheka chulbul chhaita bhala lage kahein baby o</s>
+	<s>beheka beheka  bhala bhala dil ta bhala lage kahein baby o</s>
+	<s>ethi sethi pada thau thau phula hau aba kanta hau</s>
+	<s>chalu thau aba jhuntu thau to bata khoji</s>
+</lyrics>

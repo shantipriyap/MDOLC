@@ -1,0 +1,48 @@
+<Song ID>89</Song ID>
+<Title>oh hello dirty fellow</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>not available</Singers>
+<Gender(Singer)>not available</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>oh hello dirty fellow</s>
+	<s>life ra jhola nigidi gala ni</s>
+	<s>sukhi sukhi jauchi re tela</s>
+	<s>hrudaya re rafu mari</s>
+	<s>nija hasa ate bhari</s>
+	<s>ankhi tala kala kalu rati sari</s>
+	<s>tani aa jani aa</s>
+	<s>aa tk aa tk jiba jhumi</s>
+	<s>nahi money nahi honey</s>
+	<s>kebe heba re pila aame dhani</s>
+	<s>nahi money nahi honey</s>
+	<s>kebe heba re pila aame dhani</s>
+	<s>sabu dina aathi maru chi</s>
+	<s>nijara frustration</s>
+	<s>sakala ru rati ja aa</s>
+	<s>dukha bhara emotion</s>
+	<s>chilama ra dhuan re</s>
+	<s>kami jai tension</s>
+	<s>hele kebe mile nahi</s>
+	<s>permanent wala  solution</s>
+	<s>weekend ra party pari</s>
+	<s>khusi jai kahi sari</s>
+	<s>begar chini jibana</s>
+	<s>ta die mari</s>
+	<s>jani aa jani aaa</s>
+	<s>aa tike aa tike jiba jhumi</s>
+	<s>he nahi money nahi honey</s>
+	<s>kebe heba re pila ame dhani</s>
+	<s>he nahi money nahi honey</s>
+	<s>kebe heba re pila aame dhani</s>
+</lyrics>

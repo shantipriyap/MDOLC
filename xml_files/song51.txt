@@ -1,0 +1,38 @@
+<Song ID>51</Song ID>
+<Title>love chaliba tora mora</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>asima panda & tariq aziz</Singers>
+<Gender(Singer)>female & male</Gender(Singer)>
+<Music Director>baidyanath das</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>arun mantri</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>sudhanshu sahu</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>praduyumna lenka</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>local toka love chokha</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>jau dina chhatire mora lekhideli ta name</s>
+	<s>mana kahe kheliba daily pyar bala game</s>
+	<s>odisha re halla heba prathama thara</s>
+	<s>love chaliba tora mora january ru decembara</s>
+	<s>jaudina premare tora heigali mu blame</s>
+	<s>jaha tora heuchi hero mora hue same</s>
+	<s>sabu tv channel re hot khabara</s>
+	<s>mora sim card mora pin code aajithu hela tora</s>
+	<s>baki rahila dj bajei kebe hebi ta bara</s>
+	<s>tu mo credit card tu mo party card pakhare thibu mora</s>
+	<s>dil deichi jaan debi kahaku nae dara</s>
+	<s>jau dina ta upare mana ta hela pream</s>
+	<s>photo tora tangei deli chhatire kari frame</s>
+	<s>toak pyar bala mana chipki gala bunilu kau atha</s>
+	<s>ana janitha party day night bhabuchi ta katha</s>
+	<s>tu mo callar tune tu mo full moon han laguchu bhari mitha</s>
+	<s>aaji tharu tu sangare mora selfie daily utha</s>
+	<s>tu mora saheba hebu mu hebi ta mem</s>
+	<s>ae katha sara jibana karuthibire claim</s>
+	<s>fatigale fatu pachhe chhati kahara</s>
+</lyrics>

@@ -1,0 +1,49 @@
+<Song ID>80</Song ID>
+<Title>bijli bali</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & asima panda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>chinmay dash & bibhun</Music Director>
+<Gender(Music Director)>male & male</Gender(Music Director)>
+<Lyrics Author>puspak parida</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>dillip kumar (dk)</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>producer</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>bijli bali nua item</s>
+	<s>lo red apple gali</s>
+	<s>tora thumak thumak chali</s>
+	<s>mun dekhi heigali pura puri feeda</s>
+	<s>a black goggle bali</s>
+	<s>tu ta laguchhu jangli billi</s>
+	<s>chahani re marideluni adhha</s>
+	<s>aama family ra mun ladli</s>
+	<s>mora smile bhari costly</s>
+	<s>mate chhandi paribani kaha prema ra fanda</s>
+	<s>bhubaneswar ru delhi</s>
+	<s>mo follower badhanti daily</s>
+	<s>munhe munhe mun jabab dea sidha</s>
+	<s>dauchhu khali mo chhati re jakhama</s>
+	<s>chahani chhuri re karuchu julama</s>
+	<s>jou angle ru dekhile tate</s>
+	<s>laguchhu tu pura awesome</s>
+	<s>pocket sina fanka lo mora dil ta pura bada</s>
+	<s>kahibu jadi uthei nebi rata rati to medha</s>
+	<s>mana ku mana khani dhana emiti aau guda</s>
+	<s>jamaru tale padib nahin gotea boli mada</s>
+	<s>tu hele matches mun para mahama</s>
+	<s>to pain mana re prema khali prema</s>
+	<s>cool tike heijaa re aau khana tu ete garam</s>
+	<s>dil ta mora prema re tora pagala hua bhari</s>
+	<s>hele tu baby kagaja bhabi fil ku dau chiri</s>
+	<s>dekhei jama emotion tu lambana aau story</s>
+	<s>to pain dil karuni feel i am very sorry</s>
+	<s>jamaru to katha hauni hajama</s>
+	<s>hang helani mind system</s>
+	<s>full gharabali karibi tate khauchhi mummy kasam</s>
+</lyrics>

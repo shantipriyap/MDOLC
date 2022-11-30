@@ -1,0 +1,59 @@
+<Song ID>64</Song ID>
+<Title>o re mehruban</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>swayam padhi & sohini mishra</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>abhijit majumdar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>dr nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>ramesh rout</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>naveen bhandari</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>mal mahu jiban mati</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>ae akhi sara to chehara</s>
+	<s>to rupa megha kuanra</s>
+	<s>tu mo manjil tu kinara</s>
+	<s>o re mehruban</s>
+	<s>to naa re nida hue, to naa re rati pahe</s>
+	<s>to prema ra chita mo mana sara</s>
+	<s>mote mari dela to ishara</s>
+	<s>mahu jhare bata sara</s>
+	<s>tu mo manjil tu kinara</s>
+	<s>mu to mehruban</s>
+	<s>hay tora niriha chahani</s>
+	<s>tora sei mitha chagalami</s>
+	<s>sekheila mote aji prema</s>
+	<s>pagalami</s>
+	<s>dhire dhire to pagala mana</s>
+	<s>chori kala mora ae swpandana</s>
+	<s>sunehera kari dela</s>
+	<s>mora rati dina</s>
+	<s>dhima dhima dhadkan thila</s>
+	<s>tote pai badigala</s>
+	<s>gaye premara purabi</s>
+	<s>rati sara</s>
+	<s>to jibana thila adhura</s>
+	<s>ranga delu tu niyara</s>
+	<s>tu manjil tu kinara</s>
+	<s>mu to mehruban</s>
+	<s>jeun katha sapanare asi</s>
+	<s>kahuthilu ae mane mane</s>
+	<s>sei katha kahi buni</s>
+	<s>au kaha kane</s>
+	<s>to bina au e jibane</s>
+	<s>kaha katha paribini bhabi</s>
+	<s>to hrudaya mo pain ki</s>
+	<s>premara pruthibi</s>
+	<s>palakara paradare</s>
+	<s>tote anki dela pare</s>
+	<s>ae mana mo laguchi</s>
+	<s>bhara bhara</s>
+	<s>thili mu banjara mu awara</s>
+	<s>paigali to sahara</s>
+	<s>tu mo manjil tu kinara</s>
+</lyrics>

@@ -1,0 +1,43 @@
+<Song ID>59</Song ID>
+<Title>hey shona hey shona</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & aseema panda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>sumit dikshit</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nihar priyaashish</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>rosalina sahoo</Producer>
+<Gender(Producer)>female</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>ei mana akasa re saji indradhanu tu</s>
+	<s>dheere dheere rangeilu mora e jibanaku,</s>
+	<s>sata na e sapana, pacharuchi mo mana,</s>
+	<s>ki uttara debi kaha mu</s>
+	<s>hey shona hey shona, e ki jaadu kalu tu,</s>
+	<s>hey shona, hey shona, tate mana deli mu,</s>
+	<s>hey shona, hey shona, wanna tell you i love you,</s>
+	<s>hey shona, hey shona, gonna live my life with you,</s>
+	<s>hayee to chora akhi, nela se mate daaki,</s>
+	<s>che chei souchi,</s>
+	<s>to katha mu bhabuchi, hrudayaku baaji rakhi</s>
+	<s>tu jebe tharu asi chui delu, ei palaka re mora ghara kalu,</s>
+	<s>fulare na kantare, pada mora jhunte re,nije jani parunahi mu…</s>
+	<s>hey shona hey shona, nida chore kalu tu</s>
+	<s>hey shona hey shona, tate mana deli mu</s>
+	<s>hey shona, hey shona, wanna tell you i love you,</s>
+	<s>hey shona, hey shona, gonna live my life with you,</s>
+	<s>haye sate kemiti,prathama anubhuti,</s>
+	<s>mane mane hasuchi, mane mane kanduchi,</s>
+	<s>pagala mo ei chhati</s>
+	<s>jebe dui mana hela bika kina,</s>
+	<s>chinha bata muje heli bata bana,</s>
+	<s>matire na swargare, achi keui jagare,</s>
+	<s>pau nahi khoji nijaku,</s>
+	<s>hey shona hey shona, prema sikheilu tu,</s>
+</lyrics>

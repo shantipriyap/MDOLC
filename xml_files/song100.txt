@@ -1,0 +1,34 @@
+<Song ID>100</Song ID>
+<Title>tuma oda akhi mori dehare</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>kuldeep pattanaik & aseema panda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>anshuman satpathy</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>anshuman satpathy</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>chikun & rajesh</Director>
+<Gender(Director)>male & male</Gender(Director)>
+<Producer>khordha toka</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>tuma oda akhi odia song lyrics</s>
+	<s>tuma oda akhi mori dehare</s>
+	<s>bhari deijaie sarabana barsha re</s>
+	<s>kahuthaie rahibaku chahene nahi bujhibaku</s>
+	<s>tume gala pare pare</s>
+	<s>kebe asi abelore chuin dei jaaona tike</s>
+	<s>bhuli jibi sabu kichi paigale puni kebe</s>
+	<s>rago misa abhimano sabu sarijibo sabu hasidele tume</s>
+	<s>nua puni heijibo premo lagijibo premo ranga jebe</s>
+	<s>mori bato sra tumo smruti re</s>
+	<s>chali jibi puni sei rasta re</s>
+	<s>kahuthibo hasi hasi chaunthibi mu besi besi</s>
+	<s>maja laage sei isarare</s>
+	<s>tuma oda akhi mori dehare</s>
+	<s>akarane jadi kebe kahidebi mun ragi kichi</s>
+	<s>bhabineba mun tumara sabu dina pain sabu kichi</s>
+</lyrics>

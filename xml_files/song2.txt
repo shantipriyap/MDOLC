@@ -1,0 +1,47 @@
+<Song ID>2</Song ID>
+<Title>raba dede mujhe mahalat</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>human sagar & ananya</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>prem anand</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>subrat swain</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>murali krishna</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>tarang cine productions</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>abhay</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>gotie jibana lage suna suna</s>
+	<s>khojuchi saheti janma</s>
+	<s>saheti sapana lage suna suna</s>
+	<s>khojuchi hajare swapna</s>
+	<s>prema mora heijiba</s>
+	<s>prema mora heijiba</s>
+	<s>jibanta jibanta</s>
+	<s>raba raba</s>
+	<s>raba dede mujhe mahalat</s>
+	<s>gotie faguna lage suna suna</s>
+	<s>khjuchi sahe faguna</s>
+	<s>saheti srabana lage suna suna</s>
+	<s>khojuchi lakhe srabana</s>
+	<s>katha jama sarunahin katha hele</s>
+	<s>mana jama puru nahin dekha hele</s>
+	<s>bata jama saru nahin kete bele</s>
+	<s>chota lage sara dina tu thile</s>
+	<s>gotie karana lage suna suna</s>
+	<s>khojuchi sahe karana</s>
+	<s>fulara torana lage suna suna</s>
+	<s>khojuchi prema torana</s>
+	<s>pada jama lagu nahin mati tale</s>
+	<s>aakhi jama bujhu nahin kete bele</s>
+	<s>nida jama lage nahin kete bele</s>
+	<s>mahu jhare sara rati tu thile</s>
+	<s>gotie bandhana lage suna suna</s>
+	<s>khojuchi sahe bandhana</s>
+	<s>gotie milana lage suna suna</s>
+	<s>khojuchi lakhe milana</s>
+</lyrics>

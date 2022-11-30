@@ -1,0 +1,55 @@
+<Song ID>31</Song ID>
+<Title>tin tin ta lover mora</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>not available</Singers>
+<Gender(Singer)>not available</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>tin tin ta lover mora</s>
+	<s>bajei dele bin</s>
+	<s>tin tin ta lover mora</s>
+	<s>bajei dele bin</s>
+	<s>kia stret chahun chi</s>
+	<s>kia pulti chahun chi</s>
+	<s>kia salti kathare mote single deu chi</s>
+	<s>mora jali jae nali bati bati</s>
+	<s>kie heba mora rangabati</s>
+	<s>rangabati  rangabati</s>
+	<s>jane ta beautiful bebo</s>
+	<s>jane ta costly fhulei</s>
+	<s>ladeli janu heart delani halei</s>
+	<s>kahara love khata re</s>
+	<s>hebi mun colorful cover</s>
+	<s>hai mun fasigali</s>
+	<s>confuse bala nua lovera</s>
+	<s>mora future darling</s>
+	<s>hae kahaku kahibi</s>
+	<s>kaha aadhar card re mu right maribi</s>
+	<s>aare dangeria paristiti stiti</s>
+	<s>mali fhula tin tin ta</s>
+	<s>tin tin ta tin tin ta</s>
+	<s>kahaku discount re debire</s>
+	<s>mora e dil ta</s>
+	<s>jane ta line mari le</s>
+	<s>aau jane fuse hauchi</s>
+	<s>aakhi ra durbin re mora</s>
+	<s>jane aasi latki jauchi</s>
+	<s>han jananka prema ta fast food</s>
+	<s>aau jananka chakhena</s>
+	<s>kahaku kahibi very good</s>
+	<s>abasta 6 tanka aathena</s>
+	<s>3 sundari pachhare</s>
+	<s>kate saphar mun hebi</s>
+	<s>eai dil ta kahaku kaha offer re debi</s>
+	<s>mora dul dul dulki jae chhati chhati</s>
+</lyrics>

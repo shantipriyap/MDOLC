@@ -1,0 +1,52 @@
+<Song ID>7</Song ID>
+<Title>delhi ki gali</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>shaan & ira mohanty</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>malay mishra</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>arun mantri</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>tapas sargharia</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>santosh narayan das</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>babu bhaijan</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>tu hei jaa mun pain dilhi ki gali</s>
+	<s>shubha se lekar shamtak</s>
+	<s>sham se lekar shubha tak</s>
+	<s>to bhitare bulu thibi</s>
+	<s>to bhitare bulu thibi mo thikana bhuli</s>
+	<s>tu banijaa mo pain dilhi ka pani</s>
+	<s>men rat se lekar shubha tak</s>
+	<s>subha se le kar sham tak</s>
+	<s>tere lie khedi ranhun</s>
+	<s>tere lie khedi ranhun hei to diwani</s>
+	<s>tu hei jaa mun pain dilhi ki gali</s>
+	<s>tu banijaa mo pain dilhi ka pani</s>
+	<s>situaa sakala garam panire gadhuaa</s>
+	<s>lage to chhuaa munjhe kiya huaa</s>
+	<s>munjhe kiya huaa</s>
+	<s>fectri chhutire bell bajigale lage aaha</s>
+	<s>tune bulaya mujhe kiya huaa</s>
+	<s>mujhe kiya huaa</s>
+	<s>mein ghumti rahungi tere aagal bagal</s>
+	<s>thudi me bhi pagali thoda tu bhi pagala</s>
+	<s>banja raja tu meraga</s>
+	<s>mu lagila lali</s>
+	<s>tu hei jaa mun pain dilhi ki gali</s>
+	<s>tu banijaa mo pain dilhi ka pani</s>
+	<s>surmaa banake aakhu men tujh ko lagau</s>
+	<s>dil ne kaha mujhe kiya huaa</s>
+	<s>mujhe kiya huaa</s>
+	<s>lipstick banake hotho me tujh ko lagau</s>
+	<s>dil nekaha mujhe kiya huaa</s>
+	<s>mujhe kiya huaa</s>
+	<s>teri bak bak men bas sunta ranhu</s>
+	<s>rat din bas tujhe tak ta rahun.</s>
+	<s>tujo maaki chidiya banja</s>
+	<s>mun dana ka dani</s>
+</lyrics>

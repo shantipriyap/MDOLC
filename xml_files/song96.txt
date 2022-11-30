@@ -1,0 +1,38 @@
+<Song ID>96</Song ID>
+<Title>mo hata dhari chalutha</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>udit narayan & ira mohanty</Singers>
+<Gender(Singer)>male & femle</Gender(Singer)>
+<Music Director>himanshu parija</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>arun mantri</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>himanshu parija</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>sabu janamare</s>
+	<s>aei jibanare</s>
+	<s>sathi hei asutha</s>
+	<s>mo hata dhari chalutha</s>
+	<s>hata dhari chalutha</s>
+	<s>mo hasa sathire</s>
+	<s>to hasa misei</s>
+	<s>sabu dina hasutha</s>
+	<s>mo hata dhari chalutha</s>
+	<s>a jibana bata tie</s>
+	<s>batare hajare moda</s>
+	<s>aaji kali se modare</s>
+	<s>suneli sapana bhida</s>
+	<s>sapanara ranga ude</s>
+	<s>aaji a akasha sara</s>
+	<s>akasare megha nahin</s>
+	<s>heera pari pade khara</s>
+	<s>khara tana hele</s>
+	<s>to odhani tale</s>
+	<s>chhai kari rakhitha</s>
+</lyrics>

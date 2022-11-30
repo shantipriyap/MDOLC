@@ -1,0 +1,47 @@
+<Song ID>5</Song ID>
+<Title>tu eka mo rihaee</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>ss prasad</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>lipsa sethi</Lyrics Author>
+<Gender(Lyrics Author)>female</Gender(Lyrics Author)>
+<Director>biswajit jana</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>ak sta anil</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>badnaam</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>tate mun ete ate mun ete bhala paye behisab</s>
+	<s>to nisha gharichi mate jaise sarab</s>
+	<s>mo pakhe pakhe tha mo sathe chalutha</s>
+	<s>pakhe pakhe tha mo sathe chalutha</s>
+	<s>sabu janma pain</s>
+	<s>tu eka lagu nijara ye duniya parayee</s>
+	<s>to bina bandi jibana tu eka mo rihaee</s>
+	<s>mo rasta ra manjil tu</s>
+	<s>mo khushi re shamil</s>
+	<s>to bina mun aadha adhura</s>
+	<s>tu thile hi kaamil</s>
+	<s>mo rasta ra manjil tu</s>
+	<s>mo khushi re shamil</s>
+	<s>to bina mun aadha adhura</s>
+	<s>tu thile hi kaamil</s>
+	<s>nida re tu tha mo sapane tu tha</s>
+	<s>nida re tu tha mo sapane tu tha</s>
+	<s>sabu rati pain</s>
+	<s>mo matha ra naseeb tu</s>
+	<s>mo hata ra lakeer</s>
+	<s>to bina mu rahi parena</s>
+	<s>jeeenba ta to mushkil</s>
+	<s>mo matha ra naseeb tu</s>
+	<s>mo hata ra lakeer</s>
+	<s>to bina mu rahi parena</s>
+	<s>jeeenba ta to mushkil</s>
+	<s>mo hasa re tu tha mo luha re tu tha</s>
+	<s>hasa re tu tha mo luha re tu tha</s>
+	<s>sabu dina pain</s>
+</lyrics>

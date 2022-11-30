@@ -1,0 +1,61 @@
+<Song ID>35</Song ID>
+<Title>dhire dhire tu mere jindegi main ana</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>arbind</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>abhijit majumdar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>abhijit dey</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>lubun & tubun</Producer>
+<Gender(Producer)>male & male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2021</Year>
+<lyrics>
+	<s>dhire dhire tu mere jindegi main ana</s>
+	<s>to bina gote muhurta jien mun parena</s>
+	<s>dhire dhire tu mere jindegi main ana</s>
+	<s>to bina gote muhurta jien mun parena</s>
+	<s>tora chita chita prema topa re</s>
+	<s>mana bijibaku khoje bahana</s>
+	<s>tora chita chita prema topa re</s>
+	<s>mana bijibaku khoje bahana</s>
+	<s>dhire dhire tu meri nindia churana</s>
+	<s>to bina gote muhurta jien mun parena</s>
+	<s>dhire dhire tu mere jindegi main ana</s>
+	<s>to bina gote muhurta jien mun parena</s>
+	<s>jebe tharu mo sapane</s>
+	<s>tu aasi rahigalu priya re</s>
+	<s>mo akhira nida jete</s>
+	<s>lekhi deli mun tora naa re</s>
+	<s>pal pal mo palakare</s>
+	<s>ete swapna delu sate bichhei</s>
+	<s>nija pakhe dhara padi</s>
+	<s>chahinle mun parunahin luchei</s>
+	<s>tora mitha mitha pade katha re</s>
+	<s>mun heli aaji prema diwana</s>
+	<s>tora mitha mitha pade katha re</s>
+	<s>mun heli aaji prema diwana</s>
+	<s>dhire dhire luti nelu</s>
+	<s>premara khazana</s>
+	<s>to bina gote muhurta jien mun parena</s>
+	<s>dhire dhire tu mere jindegi main ana</s>
+	<s>to bina gote muhurta jien mun parena</s>
+	<s>jadu kala,to chehera</s>
+	<s>mari dela mate  to isara</s>
+	<s>to chahani nela tani</s>
+	<s>dunia ta lage aaji naira</s>
+	<s>ha jete thara dekhe tate</s>
+	<s>sete thara khoje ei najara</s>
+	<s>mo chhatira dhadkan thu</s>
+	<s>tu lagu aaji besi nijara</s>
+	<s>hai…jhuma jhuma nua nisa re</s>
+	<s>ei mana mora hela diwana</s>
+	<s>hai jhuma jhuma nua nisa re</s>
+	<s>ei mana mora hela diwana</s>
+	<s>dhire dhire sajilu tu premara apsana</s>
+	<s>to bina gote muhurta jien mun parena</s>
+</lyrics>

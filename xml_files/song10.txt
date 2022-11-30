@@ -1,0 +1,39 @@
+<Song ID>10</Song ID>
+<Title>pyar wala hichki</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>nirmal nayak</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>abhijit majumdar</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>ashok pati</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>tarang cine productions</Producer>
+<Gender(Producer)>sundergarh ra salman khan</Gender(Producer)>
+<Movie_Album>2017</Movie_Album>
+<Year>nan</Year>
+<lyrics>
+	<s>dear chhori tu beautiful kanya kumari</s>
+	<s>mu tora kuanra bal bramhachari</s>
+	<s>do ghut tora prema nisa</s>
+	<s>cahani to mirchi</s>
+	<s>mate maelare maelare tora pyar wala hichki</s>
+	<s>balika rasabati balika</s>
+	<s>mate padheilu baby prema malika</s>
+	<s>pyar ka mausam pyar ka</s>
+	<s>tike aama aade drusti paka paka paka</s>
+	<s>miss gori tu hot bali mithi katori</s>
+	<s>baba santi dekhi ta rupa divya sundari</s>
+	<s>di topa tora love hony</s>
+	<s>di topa tora love hony de lo tike chhinchi</s>
+	<s>lajei very very lajei</s>
+	<s>tu entry mari delu ghanti bajei</s>
+	<s>bhijei prema jale bhijei</s>
+	<s>de whole night mo nida hajei</s>
+	<s>darling sorry tu sweety sixten rama pyari</s>
+	<s>de thari neu pick up aama love story</s>
+	<s>do din ae jabani ta hay</s>
+	<s>do din ae jabani ta ghati jau kichhi</s>
+</lyrics>

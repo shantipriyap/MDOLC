@@ -1,0 +1,42 @@
+<Song ID>48</Song ID>
+<Title>tu mo dehe binchi helu</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>satyajeet & nibedita</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>asad nizam</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>arun mantri</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>susant mani</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>sitaram agrawalla & namita agrawalla</Producer>
+<Gender(Producer)>male & female</Gender(Producer)>
+<Movie_Album>sapanara pathe pathe</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>tu mo dehe binchi helu</s>
+	<s>jaanha aalua pari</s>
+	<s>tu mo dehe chhinchi helu</s>
+	<s>mitha atara pari</s>
+	<s>aaji pare ta bina</s>
+	<s>banchi baku mate mana</s>
+	<s>tu jaan meri eman mera</s>
+	<s>tujhe pyar karu be panha</s>
+	<s>tu jaan meri eman mera</s>
+	<s>tujhe pyar karu be panha</s>
+	<s>mahu re odha odhani te pari</s>
+	<s>dehare helu godei</s>
+	<s>dheu re dhala dhala prema tora</s>
+	<s>mana ku dela budei</s>
+	<s>mo mane lekha khali tu hi tu</s>
+	<s>kahaku aau chinhe na</s>
+	<s>tu jaan meri eman mera</s>
+	<s>tujhe pyar karu be panha</s>
+	<s>hrudaya chhuan gitate pari</s>
+	<s>tu mora mane rahilu</s>
+	<s>nijaku bhala paini mu jete</s>
+	<s>tu sete bhala pailu</s>
+	<s>mo chari pate khali tu hi tu</s>
+	<s>kahaku aau dekhena</s>
+</lyrics>

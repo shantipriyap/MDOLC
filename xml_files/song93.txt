@@ -1,0 +1,39 @@
+<Song ID>93</Song ID>
+<Title>haye re mote mari delare</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>human sagar & diptirekha</Singers>
+<Gender(Singer)>male & femle</Gender(Singer)>
+<Music Director>premananda</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>subrat swain</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>binni pattanaik</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>sachikant jena</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>bajarangi</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>dhima dhima akhi mitha mitha swapna</s>
+	<s>kahe kete katha wo kiba rati dina</s>
+	<s>jeinuchi maruchi mu dina rati to chuan re</s>
+	<s>haye to prema to prema haye re mote mari delare</s>
+	<s>oda oda mana mitha mitha prema</s>
+	<s>jaluchi libhuchi mu dina rati to prema re</s>
+	<s>sapane asuchu sapane hasuchu sapane rusuchu tu</s>
+	<s>haye re mari jaye mu</s>
+	<s>meghara dolire phoolara thalire chuein deyi jau tu</s>
+	<s>bhija bhija mana mahu jhara dina</s>
+	<s>jharuchi jhuru chi mudina rati to paein re</s>
+	<s>haye to mana to mana haye re mote chiri dela re</s>
+	<s>haye to mana to mna haye re mote chiri chiri haye re mote chiri chiri</s>
+	<s>haye re mote chiri delare</s>
+	<s>jebethu asilu pakhare basilu mana kini nelu tu</s>
+	<s>hye re jhuri hue mu</s>
+	<s>akhire akhire kahilu kichire bhujhi gali sabu mu</s>
+	<s>tumo jibana tumo niswasa tumo arambha tumoro sesa</s>
+	<s>bhabuchi bulichi mu dina rati to hasare</s>
+	<s>haye to hasa to hasa haye re mote chori kalare</s>
+	<s>haye re mote sari delare</s>
+</lyrics>

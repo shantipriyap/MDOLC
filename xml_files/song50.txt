@@ -1,0 +1,45 @@
+<Song ID>50</Song ID>
+<Title>dei dele sarijibaki</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>baidyanath das</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>sudhanshu sahu</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>praduyumna lenka</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>local toka love chokha</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>janu ta love ra password kete</s>
+	<s>kahide kana kale bhala paibu mate</s>
+	<s>o janu ta love ra password kete</s>
+	<s>kahide kana kale bhala paibu mate</s>
+	<s>malini tate wait kari</s>
+	<s>dil ta tor deide gori</s>
+	<s>ho na jaki</s>
+	<s>dei dele sarijaba ki</s>
+	<s>charming charming face tora</s>
+	<s>moon pari flavour</s>
+	<s>tate dekhi heigalire direct lover</s>
+	<s>are tu to mo sweet heart</s>
+	<s>tu kahile jan debi</s>
+	<s>tate forever</s>
+	<s>are ketemun au karibi lavi</s>
+	<s>magile tora dil ra chabi</s>
+	<s>dauchhu thaki</s>
+	<s>de ni de mujhe teri pyar ki kharchi</s>
+	<s>tera huna main bane ko teyar hun</s>
+	<s>sidhe sidhe bol paraya hun ya pyar hun )</s>
+	<s>hae re soni nakhara tora laguchi pura jabar</s>
+	<s>tate dharile dharuchi mate ishqwala fever</s>
+	<s>nughty nughty style tora kalare sate magic</s>
+	<s>chhatire mora bajani au pathetic music</s>
+	<s>heart tora haula jete</s>
+	<s>discount re deide mate</s>
+	<s>de na fanki</s>
+</lyrics>

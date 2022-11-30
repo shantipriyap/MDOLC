@@ -1,0 +1,53 @@
+<Song ID>30</Song ID>
+<Title>hrudaya bichara khoje to sahara</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>babusan & namita agrawwal</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>sarthak music</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>lekhu lekhu lekhi deli</Movie_Album>
+<Year>2014</Year>
+<lyrics>
+	<s>hrudaya bichara khoje to sahara</s>
+	<s>eka eka mu adhura kula ki kinara jale ratisara</s>
+	<s>khoje mun khoje mun</s>
+	<s>kouthi tu kouthi tu</s>
+	<s>chhati tale tora, karichhi mu ghara</s>
+	<s>khojile paibu, hrudayare tora</s>
+	<s>pakhe pakhe auchhi mun</s>
+	<s>khoje mun khoje mun</s>
+	<s>kouthi tu kouthi tu</s>
+	<s>hrudaya bichara khoje to sahara</s>
+	<s>rakata jharae chala patha mora</s>
+	<s>kanta khali bata sara</s>
+	<s>rakata jharae chala patha mora</s>
+	<s>kanta khali bata sara hoo</s>
+	<s>biraha nian re kuhuli kuhuli</s>
+	<s>jaluchhi mu ratisara</s>
+	<s>jaluchhi mu ratisara</s>
+	<s>sanja ase nain, jahna ase uin</s>
+	<s>kahibaku khali, tori pain</s>
+	<s>pakhe pakhe auchhi mun</s>
+	<s>khoje mun  khoje mun</s>
+	<s>kouthi tu kouthi tu</s>
+	<s>hrudaya bichara khoje to sahara</s>
+	<s>mana mo kahuchhi, eithi kouthi</s>
+	<s>pakhe pakhe achhu mora</s>
+	<s>mana mo kahuchhi, eithi kouthi</s>
+	<s>pakhe pakhe achhu mora</s>
+	<s>kemiti janibi, koubate gale</s>
+	<s>dekha heba puni tora</s>
+	<s>dekha heba puni tora</s>
+	<s>sapanara pathe, chanhichhi mu tate</s>
+	<s>hata dhari mora, neijare mate</s>
+	<s>pakhe pakhe auchhi mun</s>
+	<s>khoje munkhoje mun</s>
+	<s>kouthi tu kouthi tu</s>
+</lyrics>

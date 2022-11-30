@@ -1,0 +1,41 @@
+<Song ID>77</Song ID>
+<Title>odhanee padichhi nua nua</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & aseema panda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>chinmay dash & bibhun</Music Director>
+<Gender(Music Director)>male & male</Gender(Music Director)>
+<Lyrics Author>niranjan panda</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>papu sahhoo</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>pabitra mohan mohanty</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2021</Year>
+<lyrics>
+	<s>odhanee padichhi nua nua</s>
+	<s>market re aji kali gori tora hawa</s>
+	<s>close tk huantu ki karantu ki daya</s>
+	<s>janinuki nari maya koi nehi paya</s>
+	<s>daily daily love dose kala tate baya</s>
+	<s>ye zero figure wali tora thumka wala chali</s>
+	<s>mate karidela psycho sayian sayian</s>
+	<s>maar dala re</s>
+	<s>mo dehare</s>
+	<s>baby to teen age, ebe tharu ete craze</s>
+	<s>laguchhi bit tora pura angrej</s>
+	<s>dimag to bhari tez, isara to nonveg</s>
+	<s>kemiti chhuinbi re dhana tora range</s>
+	<s>hai hai lo puchki gali, tora sweet sweet boli</s>
+	<s>mate karidela psycho sayian  sayian</s>
+	<s>he baby to cute face</s>
+	<s>dekhu dekhu mind fresh</s>
+	<s>paibi tate kebe hele hau case</s>
+	<s>he choice mo dj base</s>
+	<s>daily daily nua dress</s>
+	<s>kemiti karibu re mate impress</s>
+	<s>hai hai lo anar kali tora odhoni nali nali</s>
+	<s>mate karidela psycho sayian sayian</s>
+</lyrics>

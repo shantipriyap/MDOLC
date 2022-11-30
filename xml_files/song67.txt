@@ -1,0 +1,72 @@
+<Song ID>67</Song ID>
+<Title>sayoni</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & diptirekha</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>prem anand</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>basant raj samal</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>s3 movies & labanya pictures</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>tike love tike twist</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>o baby sona o jane jana janeman</s>
+	<s>dil janiya</s>
+	<s>o darling raani mo dil ki raani</s>
+	<s>deewani pyari gudiya</s>
+	<s>to cutting chatting lage bhari rangila</s>
+	<s>mo dil deewana hela raani ghaila</s>
+	<s>chunmuk chunmuk payal</s>
+	<s>mana khusire to pagal</s>
+	<s>to nirali aadayain mate maila</s>
+	<s>hnn raanilo to surma laga aakhi</s>
+	<s>bada nasila</s>
+	<s>to gal gulabi cheherata jhumala</s>
+	<s>jebe hela prathama dekha</s>
+	<s>sedina thoo janili eka</s>
+	<s>jebe hela prathama dekha</s>
+	<s>sedina thoo janili eka</s>
+	<s>to premara jaadur mate kaabu kari nebu</s>
+	<s>tu deewanati purapuri rangila</s>
+	<s>hnn rangila, romio raaja re tu ta nirala</s>
+	<s>chulbuliya hiro tuta chagala</s>
+	<s>to surma laga aakhi bada nasila</s>
+	<s>to gal gulabi cheherata jhumala</s>
+	<s>ding dong mo chhatitale</s>
+	<s>paakhe tu chali gale orew sawariya</s>
+	<s>to premara jadugari delare matemari</s>
+	<s>mane baaje harmaniya</s>
+	<s>ding dong mo chhatitale</s>
+	<s>paakhe tu chali gale orew sawariya</s>
+	<s>to premara jadugari delare matemari</s>
+	<s>mane baaje harmaniya</s>
+	<s>to rasguliya katha bhari rasila</s>
+	<s>mo grudayaku mitha mitha karila</s>
+	<s>tu sarmili sayoni mo manara manini</s>
+	<s>to ashique re dil bichara hajila</s>
+	<s>hnn ranilo tu</s>
+	<s>romio raajare tu ta nirala</s>
+	<s>chulbuliya hiro tuta chagala</s>
+	<s>to surma laga aakhi bada nasila</s>
+	<s>to gal gulabi cheherata jhumala</s>
+	<s>tu to love king mu tora dream queen</s>
+	<s>lekhiba nua sayeri</s>
+	<s>hnn tu mora champa kali,</s>
+	<s>nirali bholi bhali</s>
+	<s>day night jhuruchhi khali</s>
+	<s>mu to manmaruli basuka deewani</s>
+	<s>to sufirana geeta ra mu raagini</s>
+	<s>mo darling sehjada mate kalu gumsuda</s>
+	<s>mo dhadkan re prema rail gadila,ho rangila</s>
+	<s>to surma laga aakhi bada nasila</s>
+	<s>to gal gulabi cheherata jhumala</s>
+	<s>romio raajare tu ta nirala</s>
+	<s>chulbuliya hiro tuta chagala</s>
+	<s>to surma laga aakhi bada nasila</s>
+	<s>to gal gulabi cheherata jhumala</s>
+</lyrics>

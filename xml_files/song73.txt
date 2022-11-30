@@ -1,0 +1,29 @@
+<Song ID>73</Song ID>
+<Title>jhul baby jhul</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>ashutosh mohanty & diptirekha</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>prem anand</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>himanshu parija (chandi)</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>chhabita martha & bapun kumar</Producer>
+<Gender(Producer)>male & male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>jhul baby jhul</s>
+	<s>bayasa tora taza tu ba pani khai phul</s>
+	<s>kia puchi naranga godo dita saranga</s>
+	<s>mori payin road jam cuttack thu baranga</s>
+	<s>tori payin lagu hela water cokkie rule</s>
+	<s>line tike debu boli helmet bhuli goli</s>
+	<s>gora muhan ku dekhiba payin, chalano kati mali</s>
+	<s>arey hotare hota najaro hota</s>
+	<s>sulani premo gapa</s>
+	<s>tori payin buluchi muhanre baandhi dupata</s>
+	<s>dupota khuli chaliaa ,karona aau bhul</s>
+</lyrics>

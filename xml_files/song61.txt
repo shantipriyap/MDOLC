@@ -1,0 +1,46 @@
+<Song ID>61</Song ID>
+<Title>to pain awara mana sarfira</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & nivedita</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>a.s kumar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>apu goswami</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>sudhanshu mohan sahu</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>sidharrth tv</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>dil diwana heigala</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>to pain awara mana sarfira</s>
+	<s>tu nathile pakhe lage banjara</s>
+	<s>jebethu akhi akhi misila</s>
+	<s>premara eki ranga lagila</s>
+	<s>mo dil deewana hei gala</s>
+	<s>dil deewana hei gala</s>
+	<s>ajaa re hrudaya raja sehjada</s>
+	<s>hata chadi jibu nahi bewajah</s>
+	<s>jebethu chehera to disila</s>
+	<s>premare eki basna udila</s>
+	<s>to dil deewana hei gala</s>
+	<s>to pain bechara mana firdosi</s>
+	<s>tu bina sapana lage pardesi</s>
+	<s>tu thile bayasa mora makhmali</s>
+	<s>to prema ranga re muje rangoli</s>
+	<s>tu mora martawa</s>
+	<s>tu mora har wafa</s>
+	<s>jebethu kana re to daka subhila</s>
+	<s>mo dil deewana hei gala</s>
+	<s>dil deewana hei gala</s>
+	<s>to prema emiti lage nasila</s>
+	<s>nida re chaluchi bata akela</s>
+	<s>to sathe samaya lage surila</s>
+	<s>kabira shayari tu lo insha-allah</s>
+	<s>tu mo veer mu zaara</s>
+	<s>spandana sun jara</s>
+	<s>jebethu to katha pabane misila</s>
+	<s>to dil deewana hei gala</s>
+</lyrics>

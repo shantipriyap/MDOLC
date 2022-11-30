@@ -1,0 +1,61 @@
+<Song ID>46</Song ID>
+<Title>gudulu gudulu gumma</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>pinky pradhan</Singers>
+<Gender(Singer)>female</Gender(Singer)>
+<Music Director>abhijeet majumdar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>sudhkar vasanth</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>prakash & dhiraj</Producer>
+<Gender(Producer)>male & male</Gender(Producer)>
+<Movie_Album>suna pila tike screw dhila</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>gudulu gudulu gumma</s>
+	<s>aa kheliba tike rama</s>
+	<s>are udu uduma tala gotama</s>
+	<s>ek due tin</s>
+	<s>are re re re</s>
+	<s>ek gote ekela ghare</s>
+	<s>dui jana rahila pare</s>
+	<s>tin thara bhabibu nahni</s>
+	<s>mauka dekhi dabure chumma</s>
+	<s>gudulu gudulu gumma gumma</s>
+	<s>aa kheliba tike rama rama</s>
+	<s>jangli ae mana mora jangli</s>
+	<s>janena kain hue matali</s>
+	<s>mahuli ae rati lage mahuli</s>
+	<s>chhatita mora jae chahali</s>
+	<s>ekeda ekeda aara aara aara</s>
+	<s>bhadire chadhila para para para</s>
+	<s>ekeda ekeda aara</s>
+	<s>bhadire chadhila para</s>
+	<s>haba guturu guturu rati sara</s>
+	<s>a for apple debi</s>
+	<s>b tora sweety baby</s>
+	<s>c kana sikhinu kaha</s>
+	<s>michhare kian karuchu drama</s>
+	<s>gudulu gudulu gumma gumma gumma</s>
+	<s>aa kheliba tike rama rama e rama</s>
+	<s>tatire hae eki nua tatire</s>
+	<s>tarale ghia nia sathire</s>
+	<s>mastire mana nachi jae mastire</s>
+	<s>deija mate prema kistire</s>
+	<s>ol mol dhol dhol dhol</s>
+	<s>dil ra khidki khol khol khol</s>
+	<s>ol mol dhol</s>
+	<s>dil ra khidki khol</s>
+	<s>aa match jiti deide goal</s>
+	<s>one two three</s>
+	<s>oe oe oe oe oe oe</s>
+	<s>one toka eka number</s>
+	<s>two jodi tora mora</s>
+	<s>three sabu dekhibe free</s>
+	<s>picture hit futiba booma</s>
+	<s>gudulu gudulu gumma gumma gumma</s>
+	<s>aa kheliba tike rama rama</s>
+</lyrics>

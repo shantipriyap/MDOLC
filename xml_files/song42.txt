@@ -1,0 +1,56 @@
+<Song ID>42</Song ID>
+<Title>sister sridevi</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>tariq aziz</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>abhijit majumdar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>ashok pati</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>tarang cine productions</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>sister sridevi</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>shreedevi shreedevi shreedevi</s>
+	<s>shreedevi shreedevi ae  shreedevi</s>
+	<s>mate fast time jie dekhiba</s>
+	<s>taku romantic jhatka lagiba</s>
+	<s>sie buli buli khali kahiba</s>
+	<s>hele chaina maal quality</s>
+	<s>no warranty no guaranty</s>
+	<s>jie rakhiba pane chakhiba</s>
+	<s>thare halei dele dil mora</s>
+	<s>uthi jae bill</s>
+	<s>hot hot figur baba</s>
+	<s>badi musikil</s>
+	<s>rangini rangini lage sina</s>
+	<s>black and white tv</s>
+	<s>are chainnei hilela</s>
+	<s>bambe hilela</s>
+	<s>hali jiba cuttacka ru raurakela</s>
+	<s>bijhiba sina bujhiba bala</s>
+	<s>kie ethi majnu puni kie ta lella</s>
+	<s>botala sina nua hele puruna daru</s>
+	<s>chhuin delel solid nisa heba re suru</s>
+	<s>aare prema tala kholibi boli</s>
+	<s>lucheichi chabi</s>
+	<s>dil hai hai hai tu mora dil</s>
+	<s>kebe tu bujhibu mo feel</s>
+	<s>ta pain chhati tale thrill</s>
+	<s>aahe aahe dil ahe ahe dil</s>
+	<s>aahe aahe dil ahe ahe dil</s>
+	<s>jaan bi dega praan bi dega</s>
+	<s>love pain shreedevi ta</s>
+	<s>kuchbhi karega</s>
+	<s>kukuda ru anda</s>
+	<s>na anda ru kukuda</s>
+	<s>final katha janitha bhai</s>
+	<s>chiken pokada</s>
+	<s>luchakali khele sina ae mana ta</s>
+	<s>pakhaku gale signal die prema ratha ta</s>
+	<s>aau kete dina taku mu balance karuthibi</s>
+</lyrics>

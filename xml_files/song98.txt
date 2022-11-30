@@ -1,0 +1,48 @@
+<Song ID>98</Song ID>
+<Title>tu kuade galu lo suna kandhei</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>suresh wadekar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>gagana bihari jena</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>panchanana nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>sitaram agrawal</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>tu kuaade galu lo,</s>
+	<s>tu ka saathe galu lo,</s>
+	<s>tu kemiti galu lo,</s>
+	<s>mate kandeyi</s>
+	<s>kandhei kandhei kondhei lo,</s>
+	<s>suna kandhei mo suna kandhei</s>
+	<s>pakkhi raja ghoda chadhi,</s>
+	<s>kie lo se aasila</s>
+	<s>patarani kari tote,</s>
+	<s>saathe nei gala</s>
+	<s>jhati mati mokkudiyan,</s>
+	<s>mo luha re baasila</s>
+	<s>rajanigandha re tora,</s>
+	<s>raati lo paahila</s>
+	<s>tu chalana korilu,</s>
+	<s>tu bahana korilu,</s>
+	<s>tu sindura naayilu,</s>
+	<s>tu mote bhandeyi lo</s>
+	<s>mote bhandeyi</s>
+	<s>to hasi to khusi madhu jaamini re,</s>
+	<s>mora to sabu raati jhada batasa re</s>
+	<s>bhala paayi tote kou auparadh karili,</s>
+	<s>tharutie bujhilu ki,</s>
+	<s>mali aba banchili</s>
+	<s>tharutie bujhilu ki,</s>
+	<s>mali aba banchili</s>
+	<s>tu swami pai galu,</s>
+	<s>tu suhagini helu,</s>
+	<s>tu sansara karilu</s>
+	<s>mate jaleyi haan mate jaleyi</s>
+</lyrics>

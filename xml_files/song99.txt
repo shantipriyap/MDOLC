@@ -1,0 +1,41 @@
+<Song ID>99</Song ID>
+<Title>sajjala sajjala aakhira kajjala</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>kuldeep pattnaik & archana padhi</Singers>
+<Gender(Singer)>male & feamle</Gender(Singer)>
+<Music Director>abhijit tripathy</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>ranjan naya</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>sajjala sajjala aakhira kajjala</s>
+	<s>kahuchilo kete kathaa</s>
+	<s>sei akhiru to baari heijaae</s>
+	<s>mo premara gabhirataa</s>
+	<s>hajare janhaku ekaathi kalebi</s>
+	<s>to munha pari jamaa dishuni</s>
+	<s>kahinki</s>
+	<s>tu sammohini tu</s>
+	<s>aneka dinaru baaki ta rahichi</s>
+	<s>mo manara mithaa bhoka</s>
+	<s>kabari sajei kebethu basichi</s>
+	<s>rachibaaku prema gapa</s>
+	<s>sarami lataara sarama parashe</s>
+	<s>aliali abhimanini</s>
+	<s>mu sammohini mu mu sammohini mu</s>
+	<s>michhare tu rushigale meghakumari</s>
+	<s>bhaabanaara bandha baada jaae uchhuli</s>
+	<s>nazarare chhuin jebe jaauchu chali</s>
+	<s>binaa basantare sate aasuchi holi</s>
+	<s>jhia naa tu sate astama aascharya</s>
+	<s>jete dekhile bi mana bujhuni</s>
+	<s>tu sammohini</s>
+	<s>mu sammohini</s>
+</lyrics>

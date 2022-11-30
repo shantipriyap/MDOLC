@@ -1,0 +1,32 @@
+<Song ID>57</Song ID>
+<Title>sala mar dala re</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>diptirekha & biswajit</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>prem anand</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>basant raj samal</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>santosh biswal</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>tarang cine productions</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>love promise</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>hey jawani ra jalwa, jhatka jhatka jhatka dela re,</s>
+	<s>hey bayasara halwa gila gila gila gila gila re,</s>
+	<s>aji dil ta dildar, aji manata hooka bar, laga tadka arey yar, han ishq ishq pyar vyar,</s>
+	<s>asa jhoomiba asa nachiba padia kholare,</s>
+	<s>sala maar dalare, jawani maar dala re</s>
+	<s>choto choto dena chita chita ranga,</s>
+	<s>mana prajapati khoje nua saangaaa</s>
+	<s>hoo bada bada asha, bhanga gadha bhagya, sobha bobha para, lagi jaye daga</s>
+	<s>aji dilta dildar, sabu dinata rabibar, laga thumka mere yar, han ishq vishq pyar vyar</s>
+	<s>asa kheliba, baji mariba, padia kholare,</s>
+	<s>sidha sidha pada, anka banka rasta, premata mahanga au sabu sastaa</s>
+	<s>haaan nila nila swapna, nali nali chita bayasara basna, lage bhaari meethaa</s>
+	<s>hoo aji mausam maldar, ye dilta maange more, laga tadka mere yaar, ho ishq vishq pyar vyar…</s>
+	<s>asa udiba dena jhadiba akasha khola reeee</s>
+</lyrics>

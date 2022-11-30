@@ -1,0 +1,52 @@
+<Song ID>62</Song ID>
+<Title>ore sawariya</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>babusan mohanty & ira mohanty</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>abhijit majumdar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>ashok pati</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>tarang cine productions</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>love station</Movie_Album>
+<Year>2016</Year>
+<lyrics>
+	<s>tofa tofa to hasara ra sua re</s>
+	<s>bhiji bhiji mmu jauchi priya re</s>
+	<s>tofa tofa to hasara ra sua re</s>
+	<s>bhiji bhiji mmu jauchi priya re</s>
+	<s>jibane mora jaichi bhari</s>
+	<s>to mitha mahaka chuannn</s>
+	<s>ore sawariya tu rutu te nua</s>
+	<s>ore sawariya tu phula te nua</s>
+	<s>to pain badalila mo duniyan</s>
+	<s>ore sawariya  tu tare mahuann</s>
+	<s>ore sawariya  tu chaiti baann</s>
+	<s>jebe tharu mote chuinla to</s>
+	<s>prema ra purabi</s>
+	<s>jebe tharu mote chuinla to</s>
+	<s>prema purabi</s>
+	<s>otha remo tori katha</s>
+	<s>aakhi re to chabi</s>
+	<s>sapane mora falguni saji</s>
+	<s>bunilu ranga pharua…</s>
+	<s>ore sawariya tu gita te nua</s>
+	<s>ore sawariya tu mita te nua</s>
+	<s>jalae to premara mitha niyaan</s>
+	<s>ore sawariya tu smruti ra gaan</s>
+	<s>ore sawariya tu premara naann</s>
+	<s>bhabu thili tore kaha patala nidare</s>
+	<s>bhabu thili tore kaha patala nidare</s>
+	<s>tu asi bhijei delu malhara raga re</s>
+	<s>indradhanu ra sata rangare</s>
+	<s>aa mana kalu kimia</s>
+	<s>ore sawariya tu megha te nua</s>
+	<s>ore sawariya tu digate nuaa</s>
+	<s>pagala aie mana amaniya</s>
+	<s>ore sawariya tu chanda udiyaann</s>
+	<s>ore sawariya tu kakara chuaann</s>
+</lyrics>

@@ -1,0 +1,40 @@
+<Song ID>68</Song ID>
+<Title>tora naina</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>asad nizam</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>tapu nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>sontosh barada</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>samaresh padhi</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2021</Year>
+<lyrics>
+	<s>dekhini kebe topari jhia ajijaye</s>
+	<s>prathama thara lagila mote bhala paye</s>
+	<s>kahide kie ye premare padila</s>
+	<s>kahide kie ye batare hajila</s>
+	<s>chahun chahun sabu sarila</s>
+	<s>tora naina naina mote maridela</s>
+	<s>tora chinha chihna hasa saridela</s>
+	<s>momana katha sabu bujhibi bhujhuna</s>
+	<s>kahide mana kholi jaha mu janena</s>
+	<s>ooo tu jadi pacharibu jeebi kemiti</s>
+	<s>rahija sabudina rakhibi saiti</s>
+	<s>kanhiki ete tu nijara lagilu</s>
+	<s>to sima dein mo baatare chalilu</s>
+	<s>dhire dhire katha badhila</s>
+	<s>tora chinha chihna hasa saridela</s>
+	<s>tu thilu achinha ku mu thili ajana</s>
+	<s>samaya aamaku je dela e thikana</s>
+	<s>tu jau joubate mu phula binchili</s>
+	<s>topain hasi hasi kantare chalili</s>
+	<s>jadiba kali asiba e jhada</s>
+	<s>ama e baate thau jete moda</s>
+	<s>mo saathire chalile hela</s>
+</lyrics>

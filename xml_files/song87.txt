@@ -1,0 +1,44 @@
+<Song ID>87</Song ID>
+<Title>akasha ku udi jiba</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>mohd aziz & ira mohanty</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>prem anand</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>malaya mishra</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>sudhakar basanta</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>narayan chandra nayak</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>prema adhei akhyara</Movie_Album>
+<Year>2010</Year>
+<lyrics>
+	<s>akasha ku udi jiba</s>
+	<s>pabanare jhulu thiba</s>
+	<s>mitha mitha megha chhita</s>
+	<s>dehe boliba</s>
+	<s>bindas e life tike colour bhariba</s>
+	<s>aaa premara maja neba</s>
+	<s>life re bele bele bheta jane hue</s>
+	<s>jaha paain chhati tale kichhi kichhi hue</s>
+	<s>emiti e sanja sabu daily asu thau</s>
+	<s>kehi jane emitika pakhe pakhe thau</s>
+	<s>dekha hele hasi deba</s>
+	<s>mitha pade katha heba</s>
+	<s>aji ae dina tare khusi bantiba</s>
+	<s>bindas e life tike colour bhariba</s>
+	<s>aaa premara maja neba</s>
+	<s>mana jadi match kala</s>
+	<s>miss kara nahin</s>
+	<s>kehi jane kiss kare ishh kuha nahin</s>
+	<s>chhati tale subhe jadi</s>
+	<s>mitha nirabata</s>
+	<s>heart sabu kholi dia</s>
+	<s>khoji nua rasta</s>
+	<s>sathi hoi khsuthiba</s>
+	<s>nua hoi jiun thiba</s>
+	<s>kichhi gote ghatanate ghatei deba</s>
+	<s>bindas e life tike colour bhariba</s>
+</lyrics>

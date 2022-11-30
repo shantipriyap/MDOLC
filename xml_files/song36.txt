@@ -1,0 +1,48 @@
+<Song ID>36</Song ID>
+<Title>mo manara tajmahalre</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>swayam padhi & lopamudra</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>abhijit majumdar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>dr. nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>ashok pati</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>tarang music</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>golmal love</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>sankh mal mal tora chehera</s>
+	<s>aasmani chandathu niara</s>
+	<s>sankh mal mal tora chehera</s>
+	<s>aasmani chandathu niara</s>
+	<s>mitha mitha to badmasiyan</s>
+	<s>badhei dela becheniyan</s>
+	<s>mo manara tajmahalre</s>
+	<s>ho mo manara tajmahal re</s>
+	<s>mumtaj banei tate dekhu thibi ore janian</s>
+	<s>tu mora prema mora dunian</s>
+	<s>tate dekhu thibi ore janian</s>
+	<s>tu mora prema mora dunian</s>
+	<s>e manare rahichu tu rangoli rutute hei</s>
+	<s>juade mu jae aaji ta prema jaere chhuin</s>
+	<s>pari na tu gote apsara</s>
+	<s>ajantara chhabi tu elora</s>
+	<s>dhuan dhuan to parchhaian</s>
+	<s>kala premara majburian</s>
+	<s>mo manara tajmahalre</s>
+	<s>ho mo manara tajmahal re</s>
+	<s>mumtaj banei tate dekhu thibi ore janian</s>
+	<s>tu mora prema mora dunian</s>
+	<s>tate dekhu thibi ore janian</s>
+	<s>tu mora prema mora dunian</s>
+	<s>lagijiba kale ae premare kaha najara</s>
+	<s>kajalara gara hei rahija aakhire mora</s>
+	<s>chitra lekha otha to madira</s>
+	<s>monalisa hasara fuara</s>
+	<s>khoya khoya to madhosiyan</s>
+	<s>jan chorei nela o priya</s>
+</lyrics>

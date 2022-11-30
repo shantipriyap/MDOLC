@@ -1,0 +1,58 @@
+<Song ID>11</Song ID>
+<Title>sharmili dil banjara</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & aseema panda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>asad nizam</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>puspak parida</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>raja d</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>amaresh rath</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>pachare na tate kete bhala mu pai</s>
+	<s>utarata jama mo bhasare sambhaba nuhe</s>
+	<s>pachare na tate kete bhala mu pai</s>
+	<s>utarata jama mo bhasare sambhaba nuhe</s>
+	<s>tara mile janha jepari</s>
+	<s>hei jau bhidare bari</s>
+	<s>mojibana thu beshi</s>
+	<s>dami tora khushi etiki janere</s>
+	<s>dil banjara, dil banjara mo galire</s>
+	<s>dil banjara, dil banjara nahi mo ayatare</s>
+	<s>pachare na tate kete mana mo chahe</s>
+	<s>kahibaku gale mu lajare jhauli jae</s>
+	<s>pachare na tate kete mana mo chahe</s>
+	<s>kahibaku gale mu lajare jhauli jae</s>
+	<s>da re aa re lahari jete</s>
+	<s>ta thu beshi chahe mu tate</s>
+	<s>tu niswashare rahi biswasha te hei</s>
+	<s>dhadku chatire</s>
+	<s>tarif ra hakdar tate gadhi thiba karigara</s>
+	<s>pari thu kichhi nuhe tu kam tulana nahi tora</s>
+	<s>to premare pai gala pare</s>
+	<s>sabu kichhi adhikara</s>
+	<s>nijathu besi nijara lagu</s>
+	<s>dunia lage para</s>
+	<s>ei ki sanjoga kaha</s>
+	<s>khishire bi jaruchhi luha</s>
+	<s>to nida bhanga akhi</s>
+	<s>niemate daki tarali jaere</s>
+	<s>to chada kehi jadi kebe</s>
+	<s>swapnare bi ashi jae</s>
+	<s>pahili rati bhangile nida</s>
+	<s>manaku paha chhue</s>
+	<s>chuibaku tate tike</s>
+	<s>jebe bahana mu khoji hue</s>
+	<s>pabana kai diga badei</s>
+	<s>irsha re jali jae</s>
+	<s>sapana sabu gatuchhi sata</s>
+	<s>thari nela pare to hata</s>
+	<s>mo mehendi ra ranga</s>
+	<s>jataku chhi aga tori nare</s>
+</lyrics>

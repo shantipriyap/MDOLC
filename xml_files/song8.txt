@@ -1,0 +1,42 @@
+<Song ID>8</Song ID>
+<Title>surgical strike</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>human sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>abhijit majumdar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>ashok pati</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>tarang cine productions</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>sundergarh ra salman khan</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>kete guli futauchu aakhire</s>
+	<s>mate suaedauni ratire ratire</s>
+	<s>kete guli futauchu aakhire</s>
+	<s>mate suaedauni ratire  ratire</s>
+	<s>han badara dein chaliaa thare</s>
+	<s>katha heijiba santire</s>
+	<s>mami kasam mate jadi</s>
+	<s>karibuni tu like</s>
+	<s>to chhati bhitare karidebi surgical strike lo baby surgical strike</s>
+	<s>aare tora mora love story charcha ebe uthe</s>
+	<s>tu ta mora target boli sabhinka chhati fate</s>
+	<s>aare tora mora love story charcha ebe uthe</s>
+	<s>tu ta mora target boli sabhinka chhati fate</s>
+	<s>kete misail chhadu othare</s>
+	<s>mana chipki galani to thare</s>
+	<s>prema ilosi dein aalo dhain</s>
+	<s>rahuchhi bhari kasta re</s>
+	<s>aatak jadi karichu mate chhadibi nahni jama</s>
+	<s>to gora galare gadeidebi kargil bala chuma</s>
+	<s>aatak jadi karichu mate chhadibi nahni jama</s>
+	<s>to gora galare gadeidebi kargil bala chuma</s>
+	<s>kete bam daauchhu heart re</s>
+	<s>chal ladei kariba start re</s>
+	<s>jana padiba love khelare kie kete smart re</s>
+</lyrics>

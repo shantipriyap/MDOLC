@@ -1,0 +1,45 @@
+<Song ID>79</Song ID>
+<Title>mu to salman tu mo katrina</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & aseema panda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>chinmay dash & bibhun</Music Director>
+<Gender(Music Director)>male & male</Gender(Music Director)>
+<Lyrics Author>pabitra mohan mohanty</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>prince bapi</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>bibhun</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>salu tora slim figure tik tok ku ghantuchhi</s>
+	<s>tate dekhi chhati bhitare kilbil hei jauchhi</s>
+	<s>ichha hue tate nei goa beach janti</s>
+	<s>thanda thanda beer pi selfie gote nianti</s>
+	<s>baby tike eade ana, au tu karana mana</s>
+	<s>tu mora diwani lo mu to diwana</s>
+	<s>raju tora cute pic facebook re buluchhi</s>
+	<s>taku dekhi chhati bhitare silbil hei jauchhi</s>
+	<s>ichha hue to sathire goa beach janti</s>
+	<s>thanda thanda beer pi selfie gote nianti</s>
+	<s>janu tike eade ana, au tu karana mana</s>
+	<s>mu tora diwani tu mo diwana</s>
+	<s>salu tu ate advance jani mu nathili</s>
+	<s>dhadi dekhi madi jauchhi alo mo chagali</s>
+	<s>maal mahu jhari jauchhi to mitha katharu</s>
+	<s>nisa mate hei jauchhi matuala hasaru</s>
+	<s>janu tike eade ana, au jama late karana</s>
+	<s>baby tike eade ana au tu late karana</s>
+	<s>fur kina udi jiba bombay ru china</s>
+	<s>dhana tora katha suni mo heart beat bachuchhi</s>
+	<s>six pack body tora dil ta ragadi dauchhi</s>
+	<s>dhana tora katha suni mo heart beat badhuchhi</s>
+	<s>ichha hue to sathire romance tike karanti</s>
+	<s>milky galare tora kiss gote dianti</s>
+	<s>toka tate dauchhi chance, gadi ku to kar balance</s>
+	<s>gadi mora puruna model, nua nua karichhi dl</s>
+	<s>long drive neija mate late karana</s>
+</lyrics>

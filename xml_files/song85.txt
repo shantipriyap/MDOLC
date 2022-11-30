@@ -1,0 +1,67 @@
+<Song ID>85</Song ID>
+<Title>mahi mahi</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & aseema panda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>asd nizam</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>namita dash</Lyrics Author>
+<Gender(Lyrics Author)>female</Gender(Lyrics Author)>
+<Director>r. anshuman dash</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>sudarsan sahoo & namita dash</Producer>
+<Gender(Producer)>male & female</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>hrudaya jebethu to katha bhabuchhi</s>
+	<s>mun tate khojuchhi to swapna dekhuchhi</s>
+	<s>mo mana aaina to chhabi aankichhi</s>
+	<s>sakalu sanja re to katha bhabuchhi</s>
+	<s>matwala aakhi aaji tora</s>
+	<s>mate kala kain j nijara</s>
+	<s>kahide tu mate thare</s>
+	<s>sathi prema ki hela</s>
+	<s>mahi mahi prema ki hela</s>
+	<s>ete kain to pain</s>
+	<s>jhuri hua mun janena</s>
+	<s>ete kain to pain</s>
+	<s>mana jhure mun janena</s>
+	<s>sapana tora jhumae mate</s>
+	<s>dekhe jebe chein soi</s>
+	<s>dhire dhire pakhare basi</s>
+	<s>nei tu mate manei</s>
+	<s>katha re tora ki jadu achhi</s>
+	<s>gali mun tori hoi</s>
+	<s>hrudaye mo karichhu ghara</s>
+	<s>spandana tori pain</s>
+	<s>dhima dhima aakhi aaji tora</s>
+	<s>mate kala kain j nijara</s>
+	<s>kahide tu mate thare</s>
+	<s>sathi prema ki hela</s>
+	<s>ete kain to pain</s>
+	<s>jhuri hua mun janena</s>
+	<s>jibana mora aloda thila</s>
+	<s>to bina jete dina</s>
+	<s>jebe hoila to sathe dekha</s>
+	<s>to pain jhure a mana</s>
+	<s>pahle rati ubhay sathi</s>
+	<s>swapna na tu bhabana te</s>
+	<s>bhabana tora rangei dea</s>
+	<s>phula na tu phaguna te</s>
+	<s>bhija bhija aakhi aaji tora</s>
+	<s>kala kain mate j nijara</s>
+	<s>kahide tu mate thare</s>
+	<s>sathi prema ki hela</s>
+	<s>mahi mahi prema ki hela</s>
+	<s>mahi mahi prema ki hela</s>
+	<s>ete kain to pain</s>
+	<s>jhuri hua mun janena</s>
+	<s>mahi mahi prema ki hela</s>
+	<s>mahi mahi prema ki hela</s>
+	<s>mahi mahi prema ki hela</s>
+	<s>mahi mahi prema ki hela</s>
+	<s>ete kain to pain</s>
+	<s>mana jhure mun janena</s>
+</lyrics>

@@ -1,0 +1,72 @@
+<Song ID>20</Song ID>
+<Title>kou raijara pari</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & diptirekha</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>uma-bhakta</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>bhabani shankar panigrahi</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>umashankar panigrahi</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>tu kou raijara pari</s>
+	<s>oh pari oh pari</s>
+	<s>tu laguchu bhari sundari</s>
+	<s>sundari sundari</s>
+	<s>sabu jhianka tharu tu ete</s>
+	<s>are are tu</s>
+	<s>muskan pyari pyari</s>
+	<s>pyari pyari</s>
+	<s>mun janha raijara pari</s>
+	<s>mo chehera rajakumari</s>
+	<s>to lifere kebe dekhinathibu</s>
+	<s>mo pari sundari</s>
+	<s>mun janha raijara pari</s>
+	<s>mo chehera rajakumari</s>
+	<s>to lifere kebe dekhinathibu</s>
+	<s>mo pari sundari</s>
+	<s>to otha bhija bhija hasa</s>
+	<s>to saja saja nua bhesa</s>
+	<s>mun dekhi dekhiki dekhi dekhiki</s>
+	<s>jibi haye mari mari mari</s>
+	<s>tu kou raijara pari</s>
+	<s>tu laguchu bhari sundari</s>
+	<s>are sabh jhianka tharu tora</s>
+	<s>muskan pyari</s>
+	<s>are sabh jhianka tharu tora</s>
+	<s>muskan pyari</s>
+	<s>golapa phula thu naliranga gai</s>
+	<s>to galara banichhi to galara lali</s>
+	<s>akhi mora re pura gute diamond</s>
+	<s>tu akhi misheile tate debare jali</s>
+	<s>tu mo andhara ratira janha</s>
+	<s>tu band akhira sapana</s>
+	<s>mora sara jibanaku sabu duniaku</s>
+	<s>to na karideli karideli</s>
+	<s>silver moon mora gura gura muha</s>
+	<s>tu tike raha raha are pagla hana</s>
+	<s>to chehera mate karuchhi pagala</s>
+	<s>to bueaty cheheraku ete sajibulo na</s>
+	<s>to akhira karna ishara</s>
+	<s>to kajal payara pyara</s>
+	<s>to style mo isharare</s>
+	<s>jibi mu mari mari mari mari</s>
+	<s>tu kau raijara pari</s>
+	<s>tu laguchu bhari sundari</s>
+	<s>are sabh jhianka tharu tora</s>
+	<s>muskan pyari</s>
+	<s>mun janha raijara pari</s>
+	<s>mo chehera rajakumari</s>
+	<s>to lifere kebe dekhinathibu</s>
+	<s>mo pari sundari</s>
+	<s>to otha bhija bhija hasa</s>
+	<s>to saja saja nua bhesa</s>
+	<s>mun dekhi dekhiki dekhi dekhiki</s>
+	<s>jibi haye mari mari mari</s>
+</lyrics>

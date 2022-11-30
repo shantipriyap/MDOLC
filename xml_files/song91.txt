@@ -1,0 +1,30 @@
+<Song ID>91</Song ID>
+<Title>mo dehe to chai e sanja dela sajei</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>not available</Singers>
+<Gender(Singer)>not available</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>mo dehe to chai e sanja dela sajei</s>
+	<s>to rupa ku sajeila sagara ragini gayi</s>
+	<s>to mana bhara se hasa tire</s>
+	<s>mu khusi khoji paichi</s>
+	<s>to chahani ra se chapalata</s>
+	<s>tani niye mana  ku</s>
+	<s>to khatha suni mu bhuli jaye kichi kahi pare na</s>
+	<s>to hatha dhari mu haji jaye kichi mana rahe na</s>
+	<s>to akhire mo chabi ku dekhi mu jhumi jaye</s>
+	<s>kahi diye dunia ku jibane eka nuhe</s>
+	<s>to rupa ra se rasa sagara ku</s>
+	<s>bhari bhijaili mo hrudaya ku</s>
+</lyrics>

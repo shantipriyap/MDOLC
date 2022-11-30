@@ -1,0 +1,39 @@
+<Song ID>12</Song ID>
+<Title>bedardi yeh dunia</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & amrita nayak</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>abinash mishra</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>ashok das</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>kartik rohan</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>raja panda</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>niswartha para ei ama premaku</s>
+	<s>bedardi yeh dunia kai bujhi parena</s>
+	<s>dui mana mishile sahi parena</s>
+	<s>bedardi yeh dunia kai bujhi parena</s>
+	<s>dui mana mishile sahi paren</s>
+	<s>ei katha bhabi mu rati sara suena</s>
+	<s>jadi soi jibi kale chalijiba to bhabana</s>
+	<s>bhamara bi janha tabi ratisara suena</s>
+	<s>rahijare suruja tu mo agana chuna</s>
+	<s>dara lagere sathi pahi gale e rati</s>
+	<s>kemiti banchibi to bina</s>
+	<s>bedardi yeh dunia kai bujhi parena</s>
+	<s>dui mana mishile sahi parena</s>
+	<s>bedardi yeh dunia kai bujhi parena</s>
+	<s>dui mana mishile sahi parena</s>
+	<s>kou adekha saraga eti dei nahi sukha</s>
+	<s>e prema papa</s>
+	<s>chari katha andhara bhitara she samparka</s>
+	<s>thu punya</s>
+	<s>emitika kei nahi jie bhala pai nahi</s>
+	<s>prema sesha thikana</s>
+</lyrics>

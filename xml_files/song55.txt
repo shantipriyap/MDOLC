@@ -1,0 +1,32 @@
+<Song ID>55</Song ID>
+<Title>o jalima o jalima</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & ananya sritam nanda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>prem anand</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>subrat swain</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>ramesh rout</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>vijay kandoi & aviram sahu</Producer>
+<Gender(Producer)>male & male</Gender(Producer)>
+<Movie_Album>kabula barabula</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>emiti tu dekha helu nirabare mani nelu</s>
+	<s>tu mora jeen bara nuan bahana</s>
+	<s>emiti tu chhuin delu nirabare kahideli</s>
+	<s>tu mora jibanara nua thikana</s>
+	<s>dhire dhire bhabanare aasuthilu ekare</s>
+	<s>thare thare sapanare hauhili dekhare</s>
+	<s>emiti tu chahni delu chahnanire mani nelu</s>
+	<s>tu mora samparkara nua thikana</s>
+	<s>sahethara mana mora khojuthila tate re</s>
+	<s>sathi te tu khojuthilu paigalu mate re</s>
+	<s>tate sina paigali badalila bhagyare</s>
+	<s>sate ki mu ghuri bule premara e swargare</s>
+	<s>emiti tu aasigalu dhire dhire heigalu</s>
+	<s>tu mora hrudayara nuan bhabana</s>
+</lyrics>

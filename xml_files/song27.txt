@@ -1,0 +1,57 @@
+<Song ID>27</Song ID>
+<Title>chata upare kie lo</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>babul suprio</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>abhijit majumdar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2000</Year>
+<lyrics>
+	<s>balkuniru sundari lela jebe esara dela</s>
+	<s>mo dil bhitare chuku rela ta chaligala</s>
+	<s>balkuniru sundari lela jebe esara dela</s>
+	<s>mo dil bhitare chuku rela ta chaligala</s>
+	<s>taa hot figara dekhi</s>
+	<s>mu galire pura lakhi</s>
+	<s>taa hot figara dekhi</s>
+	<s>mu galire pura lakhi</s>
+	<s>taa pink otha hasa</s>
+	<s>mote maridela lo</s>
+	<s>chhata upare kiye lo</s>
+	<s>chhati dulukei dilo</s>
+	<s>taa sathe khali tharate</s>
+	<s>mate karare kehi fit</s>
+	<s>mami kasam dilre tara</s>
+	<s>maribi fingerprint</s>
+	<s>tara mora love story</s>
+	<s>supper dupper hit</s>
+	<s>halia hei galini taku</s>
+	<s>kariki daily meet</s>
+	<s>se muriki dela hasi</s>
+	<s>mu galire pura fasi</s>
+	<s>se muriki dela hasi</s>
+	<s>mu galire pura fasi</s>
+	<s>taa slim anta</s>
+	<s>dusta mate karidela lo</s>
+	<s>se lotani para dauni dhara</s>
+	<s>jauchi khachi</s>
+	<s>mo hate bhitare sweety janu</s>
+	<s>maruchi machice</s>
+	<s>taa masta figara nela</s>
+	<s>mora jigara se rajahansi</s>
+	<s>mo hot body painki se could ise</s>
+	<s>taa jawani pura kasa</s>
+	<s>se badhei mora sosa</s>
+	<s>taa jawani pura kasa</s>
+	<s>se badhei mora sosa</s>
+	<s>taa thumaka chali</s>
+	<s>pagala mate kala lo</s>
+</lyrics>

@@ -1,0 +1,32 @@
+<Song ID>38</Song ID>
+<Title>party whole night</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>satyajit pradhan & sabises mishra & lopamudra</Singers>
+<Gender(Singer)>male & male & female</Gender(Singer)>
+<Music Director>prem anand</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>debidutt mohanty</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>sudhansu sahu</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>tarang cine productions</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>happy luck</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>kania ready bara bi ready pakaa hata ganthi</s>
+	<s>jhia pakaa hulahuli re pua marare siti</s>
+	<s>cinema hall happy ending begin heu party</s>
+	<s>party party party whole night</s>
+	<s>hau half half peg karu dance tike leg</s>
+	<s>hau disco aba break body heu tike shake</s>
+	<s>dance pai eye gute mast bada chance</s>
+	<s>patli kamar halu tike jhar jhar jharu romance</s>
+	<s>eka tike paanti jadi huanti tike naughty</s>
+	<s>aaji old hebe young jete weak aaji strong</s>
+	<s>aaji bhangu sabu rull maasti hau full</s>
+	<s>chikmik chikmik ghagara jholi ghure ghiri ghiri</s>
+	<s>sei talare sabhinka mana ghure chakiri pari</s>
+	<s>new bibi mo cctv najara tara tight</s>
+</lyrics>

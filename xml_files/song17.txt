@@ -1,0 +1,41 @@
+<Song ID>17</Song ID>
+<Title>darling premare falling</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & asima panda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>soumitra pallai</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>basanta sahoo</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>hemanta kumar nayak</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>selfish dil</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>hai re mo anar kali</s>
+	<s>dekhila dinu tate dil dei deli</s>
+	<s>aare mo hero kouthi tu thilu</s>
+	<s>aakhire jebethu misscall delu</s>
+	<s>chhati re baje tring tring</s>
+	<s>darling prema re</s>
+	<s>premare to falling</s>
+	<s>e katha market re chariaade halling</s>
+	<s>pyar bali  figure tora  de chulubuli</s>
+	<s>dekhu dekhu fida mun heli</s>
+	<s>desi toka style dekhi</s>
+	<s>tate love kali</s>
+	<s>to pain maruchhi deli</s>
+	<s>aalo mo baby cute tora photo</s>
+	<s>sarila mate tora icecream otha</s>
+	<s>tu mo sweet sweet sweety</s>
+	<s>aaji jaen  mo pain tu thilure kuanra</s>
+	<s>padi galu ebe dhara</s>
+	<s>tutu tara mana mora   to pain awara</s>
+	<s>aalo mo rangeli para</s>
+	<s>to bina eka mun rahi paru nahin</s>
+	<s>udeine ne mate superman hei</s>
+	<s>kari ne to heroin</s>
+</lyrics>

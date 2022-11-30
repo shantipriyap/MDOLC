@@ -1,0 +1,40 @@
+<Song ID>14</Song ID>
+<Title>tu ishq mo pyar</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & ananya sritam nanda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>bibhun & chinmay dash</Music Director>
+<Gender(Music Director)>male & male</Gender(Music Director)>
+<Lyrics Author>niranjan panda</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>nk sem</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>pabitra mohan mohanty</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2021</Year>
+<lyrics>
+	<s>tu dhire dhire ashilu swapnare mora</s>
+	<s>tu hale hale gadhilu hrudaye ghara</s>
+	<s>to nisha nisha akhi mo nirabata dekhi</s>
+	<s>khuda kasam maridela premare tora</s>
+	<s>tu ishq mo payar mo payar</s>
+	<s>tu life mo yar mo yar</s>
+	<s>pahili barshare delutu bhijei</s>
+	<s>oda heigali premare toori</s>
+	<s>alo mo barasha rani</s>
+	<s>sapana dekhei nelato sajei</s>
+	<s>mana tuku tuku nua bahu hei</s>
+	<s>mu tora sadhaba rani</s>
+	<s>tora chulbuli hasa mate karila behosha</s>
+	<s>mo chulbuli hasa tate karila hehosha</s>
+	<s>khuda kasam harigali premare tora</s>
+	<s>phula rasapari mahaki uthibu</s>
+	<s>chhuidele thare premara spasare</s>
+	<s>ratita chandini rati</s>
+	<s>meghara palinki rakhichhi sajei</s>
+	<s>neijibi tate janha raijaku alomo maunabati</s>
+	<s>to mitha mitha katha mate karidela phida</s>
+	<s>khuda kasam harigali premare tora</s>
+</lyrics>

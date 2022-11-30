@@ -1,0 +1,40 @@
+<Song ID>43</Song ID>
+<Title>oh sunayana</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>rituraj mohanty & pragyan</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>ashok pati</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>ashok pati</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>tarang cine productions</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>sister sridevi</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>oh sunayana</s>
+	<s>jadu kala tora surmayee nena</s>
+	<s>sita sakalara khara te pari</s>
+	<s>megha bhija rati chanda te pari</s>
+	<s>nida ku kalu mora chuna re chuna</s>
+	<s>saja futa fula pari</s>
+	<s>ta prema ra mahaka mahaka</s>
+	<s>hrudaya re mora spandana je tora</s>
+	<s>kemiti kalu kuhuka</s>
+	<s>ta pain mo dil aasiqana</s>
+	<s>sanjua sanjua dipate pari</s>
+	<s>niriha kaanla swapna te pari</s>
+	<s>mana aagana re jharei delu hena</s>
+	<s>mana tora sate mora</s>
+	<s>prema gali sajichi sajichi</s>
+	<s>aaji se galire bina barasare</s>
+	<s>rati pahi jauchi</s>
+	<s>bandi kala ta aakhira aaena</s>
+	<s>jadu kala tora surmayee nena</s>
+	<s>awara pakhira basa te pari</s>
+	<s>fula re kakkara barsa te pari</s>
+	<s>rupa dina ku mora kalu tu suna</s>
+</lyrics>

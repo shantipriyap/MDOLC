@@ -1,0 +1,37 @@
+<Song ID>78</Song ID>
+<Title>bhala mun thili eka thili</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>baidyanath dash</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>biraja prasad</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>bhala mun thili eka thili</s>
+	<s>mo hrudaya sathe kain khelilu holi</s>
+	<s>mo jibane aasi tu adha bate kain</s>
+	<s>chhadidelu saath</s>
+	<s>karidelu mate barbaad</s>
+	<s>hai re karidelu mate barbaad</s>
+	<s>biswas re kain bisa tu delu</s>
+	<s>mo hata chhadi kaha hata dharilu</s>
+	<s>mate bhala pai kain bhuligalu</s>
+	<s>bhulibara thila kain bhala pailu</s>
+	<s>bujhi nathili mun mo saralata ra</s>
+	<s>bujhi nathili mun mo saralata ra</s>
+	<s>karibu aaghat</s>
+	<s>dekhithili to pain hajare swapna</s>
+	<s>se sapane aasi kain bhangilu mana</s>
+	<s>mo jibana nei tu karilu chuna</s>
+	<s>to mana re thila priya ete lo ghruna</s>
+	<s>kahidelo priya tu kemiti katibi</s>
+	<s>e nisha raati</s>
+</lyrics>

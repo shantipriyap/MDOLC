@@ -1,0 +1,47 @@
+<Song ID>39</Song ID>
+<Title>first time kain feel hela</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>swayam padhi & nibedita</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>susant mani</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>arun mantri</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>susant mani</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>sitaram agrawalla & namita agrawalla</Producer>
+<Gender(Producer)>male & female</Gender(Producer)>
+<Movie_Album>this is maya re baya</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>first time kain feel hela</s>
+	<s>you are close to my heart</s>
+	<s>first time dil kahi dela</s>
+	<s>you are close to my heart</s>
+	<s>tora jemikti feelings mora semiti feelings</s>
+	<s>tora jemikti feelings mora semiti feelings</s>
+	<s>ae ebe ebe heigala bodhe tora mora love start</s>
+	<s>first time kain feel hela</s>
+	<s>you are close to my heart</s>
+	<s>aji mote sabu seen lage kali tharu besi green</s>
+	<s>tara karana ta bodhe tu han tu hi tu</s>
+	<s>dekheilu ete  dream</s>
+	<s>lage dekhuchi mun gote film</s>
+	<s>mora dream boy helu tu</s>
+	<s>han tu hi tu</s>
+	<s>tora jemiti heartbeat mora semiti heartbeat</s>
+	<s>tora jemiti heartbeat mora semiti heartbeat</s>
+	<s>ae ebe ebe heigalu bodhe</s>
+	<s>tu mo life ra part</s>
+	<s>mana thila mora lazy</s>
+	<s>mote karidelu asi crazy</s>
+	<s>ete bhala paigalu tu han tu hi tu</s>
+	<s>ebe tharu hela meet</s>
+	<s>mora badhigala heart beat</s>
+	<s>mote chori kari nelu tu</s>
+	<s>han tu hi tu</s>
+	<s>tora jemiti heartbeat mora semiti heartbeat</s>
+	<s>tora jemiti heartbeat mora semiti heartbeat</s>
+	<s>ae ebe tharu heigala suru tora mora love chart</s>
+</lyrics>

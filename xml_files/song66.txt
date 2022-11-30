@@ -1,0 +1,48 @@
+<Song ID>66</Song ID>
+<Title>deewana mun deewana</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>chinmay dash & bibhun</Music Director>
+<Gender(Music Director)>male & male</Gender(Music Director)>
+<Lyrics Author>kumar papun</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>biren biren</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>raja panda</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2021</Year>
+<lyrics>
+	<s>mo dil thila aawara</s>
+	<s>to dil dela sahara</s>
+	<s>mo dil thila aawara</s>
+	<s>to dil dela sahara</s>
+	<s>heigali heigali</s>
+	<s>deewana mun deewana</s>
+	<s>deewana to deewana</s>
+	<s>mo dil thila anjani</s>
+	<s>to dil dela pehchani</s>
+	<s>mo dil thila anjani</s>
+	<s>to dil dela pehchani</s>
+	<s>heigali heigali</s>
+	<s>bhasamegha hei mu bhasuthili</s>
+	<s>barasha hei asuthilu</s>
+	<s>banjara thila ei dil mora</s>
+	<s>premare odatu kalu</s>
+	<s>chuchupi aasilu mo shehjada</s>
+	<s>to pain dil hela fida</s>
+	<s>lekhideli hrudayara diary re</s>
+	<s>aagaru dil thila saadha</s>
+	<s>manigali manigali</s>
+	<s>dil mora karideli kurubani</s>
+	<s>tu raja mu tora rani</s>
+	<s>bhalapauthibi tate saata janma</s>
+	<s>karide tu bohu raani</s>
+	<s>ho jee thiba jae bhala pauthibi</s>
+	<s>tu mo kandhei raani</s>
+	<s>prati muhurtare tate dekhuthibi</s>
+	<s>karidelu mate guni</s>
+	<s>bujhigali bujhi gali</s>
+</lyrics>

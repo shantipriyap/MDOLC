@@ -1,0 +1,41 @@
+<Song ID>84</Song ID>
+<Title>to surumui aakhire hi mu hajigali</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & lopamudra dash</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>sai subhankar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>k pratik</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>ms.purnima baid</Director>
+<Gender(Director)>female</Gender(Director)>
+<Producer>k pratik</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>to surumui aakhire hi mu hajigali hajigali</s>
+	<s>to makhamali cheherare mu bhijigali bhijigali</s>
+	<s>thilu tu achinha thili mu ajana</s>
+	<s>thilu tu achinha thili mu ajana</s>
+	<s>dhire dhire to diwana sajigali</s>
+	<s>jebe jebe dekhe tate najara</s>
+	<s>sebe sebe lage bhari nijara</s>
+	<s>rati sara pade nahi palaka</s>
+	<s>niswas re bahe tora mahaka</s>
+	<s>mo khoya khoya bhabana re</s>
+	<s>tate paigali paigali</s>
+	<s>delu tu ishara hell dil sunehera</s>
+	<s>delu tu ishara hell dil sunehera</s>
+	<s>hale hale to rangare bhari gali</s>
+	<s>to bhula bhaala hrudaya re mu rahigali</s>
+	<s>mitha mitha to chuanre laje marigali</s>
+	<s>to pakhare atakichhi samaya</s>
+	<s>to hatare ankichhi mo bhagya</s>
+	<s>to chhati re subhe mora spandana</s>
+	<s>to sathire biti jae jibana</s>
+	<s>to dhima dhima najare mu chandigali</s>
+	<s>e dil bichhara khoje tate bar bar</s>
+	<s>mo palake to chhabi ku bandhi deli</s>
+</lyrics>

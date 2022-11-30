@@ -1,0 +1,39 @@
+<Song ID>92</Song ID>
+<Title>mitha mitha chuan re jhare moti chuna chuna</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>babusaan</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>guduli ratha</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>bapu goswami</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>sushanta mani</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>akhay parija</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>chokolate</Movie_Album>
+<Year>2011</Year>
+<lyrics>
+	<s>mitha mitha chuan re jhare moti chuna chuna</s>
+	<s>bhiji jaye mana mora akhi huye ana mana</s>
+	<s>echa puni eyi smuti rakhibi mu saiti</s>
+	<s>jeen jibi kichi dina aau kichi raati</s>
+	<s>swapna kale sari jiba lage bhari bhaya</s>
+	<s>tu dhire dhire chal re samaya</s>
+	<s>lajakuli chanda munhe kalatipa nai debi</s>
+	<s>fasa buni pabanaku akhibuji dhari nebi</s>
+	<s>dhala dhala kakara ku khara tharu lucheibi</s>
+	<s>indradhanu ranga ani ta batare buni debi</s>
+	<s>dekhibaku sabu dine to mitha ajhata</s>
+	<s>lancha dei bayasara rakhi debi bata</s>
+	<s>tathabi aji kahinki ete lage bhari bhaya</s>
+	<s>wo</s>
+	<s>mo hasa re lekhe jiye ta khusira kahani</s>
+	<s>tabina banchibi puni kemiti paruni jani</s>
+	<s>ankichi mu chabi tara hate ranga tuli dhari</s>
+	<s>kemiti chiribi taku barasare odakari</s>
+	<s>mana kuhe debi taku mora baki ayusa</s>
+	<s>ta sathire gote dina mora sahe barasa</s>
+	<s>andhara taku daba luchei lage bhari bhaya</s>
+</lyrics>

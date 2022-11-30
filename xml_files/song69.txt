@@ -1,0 +1,44 @@
+<Song ID>69</Song ID>
+<Title>jibana thiba jaye</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>aseema panda</Singers>
+<Gender(Singer)>female</Gender(Singer)>
+<Music Director>abinash mishra</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>puspak parida</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>suraj panigrahi</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>jibana thiba jae to sathire</s>
+	<s>jeibaku mote tike de ijajat</s>
+	<s>spandan thiba jae mo chhatire</s>
+	<s>karuthibi tate bepanha mohabbat</s>
+	<s>jibana ra anka banka batare</s>
+	<s>aasa achhi chalibu mo sathire</s>
+	<s>maguchhi mun tike tora sehbaat</s>
+	<s>jibana thiba jae to sathire</s>
+	<s>jeibaku mote tike de ijajat</s>
+	<s>swapna re mo aakhi ra swapna re</s>
+	<s>rahichhu emiti</s>
+	<s>aakashe sakalara aakashe</s>
+	<s>suruj jemiti</s>
+	<s>to swapna re hajiba lobhare</s>
+	<s>pauni mun furushat</s>
+	<s>spandan thiba jae mo chhatire</s>
+	<s>karuthibi tate bepanha mohabbat</s>
+	<s>niswas jebe jae niswas</s>
+	<s>chaliba deha re</s>
+	<s>biswas to pain ki biswas</s>
+	<s>thiba mo bhitare</s>
+	<s>mo bhitare tate mun pai re</s>
+	<s>thare thare harabat</s>
+	<s>jibana ra anka banka batare</s>
+	<s>aasa achhi chalibu mo sathire</s>
+	<s>maguchhi mun tike tora sehbaat</s>
+</lyrics>

@@ -1,0 +1,42 @@
+<Song ID>47</Song ID>
+<Title>rabba rabba mere marhaba</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>babussan & pragya hota</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>abhijit majumdar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>bapu goswami</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>sudhkar vasanth</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>prakash & dhiraj</Producer>
+<Gender(Producer)>male & male</Gender(Producer)>
+<Movie_Album>suna pila tike screw dhila</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>swapna thila fika fika</s>
+	<s>kie se kinia karila</s>
+	<s>chhai chhai nida mora</s>
+	<s>narangi narangi disila</s>
+	<s>kahniki khoje taku mu ete</s>
+	<s>ea ki nua silsila</s>
+	<s>rabba rabba mere marhaba</s>
+	<s>prema ki aethu hela</s>
+	<s>mo mana thila sukhila faguna</s>
+	<s>kaha pain lage aaji ranga melana</s>
+	<s>mo luha thila sandehi srabana</s>
+	<s>kie aani dela puni khusi chhaguna</s>
+	<s>palaka tale ta chhai khele</s>
+	<s>hrudauya lage jhumila</s>
+	<s>nidare chale kain mu ete</s>
+	<s>ea ki nua silsila</s>
+	<s>mu diga hara baanjara chadhei</s>
+	<s>kie mate dela sate bata kadhei</s>
+	<s>mu anamana firingi bauda</s>
+	<s>kie aasi bhari dela mitha sabada</s>
+	<s>jibana aaji laguchi kain</s>
+	<s>ranga thu ete rangila</s>
+	<s>nijathu haje kain mu aaji</s>
+	<s>ea ki nua silsila</s>
+</lyrics>

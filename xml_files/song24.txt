@@ -1,0 +1,40 @@
+<Song ID>24</Song ID>
+<Title>khuda kasam mere humdum</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>swayam padhi & antara chakrabarty</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>abhijit majumdar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>ashok pati</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>tarang cine productions</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>sriman surdas</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>to pakhe thile, tu katha hele</s>
+	<s>mate mo manzil milijae re</s>
+	<s>mora banchiba mora mariba</s>
+	<s>tori na re sari jaere</s>
+	<s>khuda kasam mere humdam</s>
+	<s>to chahat mari delare</s>
+	<s>khuda kasam tere hain hum</s>
+	<s>e mana mani nela re</s>
+	<s>ho e akhi tote nijara kala</s>
+	<s>prathama dekha re</s>
+	<s>laguchhi aji tu thilu</s>
+	<s>mora papuli rekhare</s>
+	<s>han prema kemiti janiba paain</s>
+	<s>premare padili</s>
+	<s>janini kebe manare tora</s>
+	<s>ghara te gadhili</s>
+	<s>ho  jebethu tora premara dhara</s>
+	<s>izazat ta mote deidelare a a a</s>
+	<s>khuda kasam mere humdam</s>
+	<s>to chahat mari delare</s>
+	<s>khuda kasam tere hain hum</s>
+	<s>e mana mani nela re</s>
+</lyrics>

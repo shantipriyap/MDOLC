@@ -1,0 +1,57 @@
+<Song ID>32</Song ID>
+<Title>cute munda</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>human sagar & ira mohanty</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>malaya mishra</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>subas mishra</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>bidyadhar sahoo</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>eme music</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>kaju chips tu mora boil anda</s>
+	<s>coka cola tu mora thanda mirinda</s>
+	<s>aare kaju chips tu mora boil anda</s>
+	<s>coka cola tu mora thanda mirinda</s>
+	<s>hele hei jau propaganda</s>
+	<s>tate nei jibi rangei lunda lo</s>
+	<s>mu para tora cute munda</s>
+	<s>mate nei ja tu rangei lunda re</s>
+	<s>tu para moracute munda</s>
+	<s>long drive re jiba lo aame</s>
+	<s>bata sara kari gapa</s>
+	<s>gapa re tu hero mun heroin</s>
+	<s>kariba swite papa</s>
+	<s>aare long drive re jiba lo aame</s>
+	<s>bata sara kari gapa</s>
+	<s>gapa re tu hero mun heroin</s>
+	<s>kariba swite papa</s>
+	<s>mo pain tu mora prema ra fanda</s>
+	<s>dina rati tu mora love ajinda</s>
+	<s>tate nei jibi rangei lunda lo</s>
+	<s>mu para tora cute munda</s>
+	<s>mate nei ja tu rangei lunda re</s>
+	<s>tu para mora cute munda</s>
+	<s>haule haule neiki mate to dill re karide sil</s>
+	<s>sil karichi mun sahe janamaku</s>
+	<s>adhabhanga mo love dil</s>
+	<s>haule haule neiki mate to dill re karide sil</s>
+	<s>sil karichi mun sahe janamaku</s>
+	<s>adhabhanga mo love dil</s>
+	<s>hasa khusi tu mora ghara baranda</s>
+	<s>bata ghata tu mora premara jhanda</s>
+	<s>mate nei ja tu rangei lunda re</s>
+	<s>tu para mora cute munda</s>
+	<s>tate nei jibi rangei lunda lo</s>
+	<s>mu para tora cute munda</s>
+	<s>mate nei ja tu rangei lunda re</s>
+	<s>tu para mora cute munda</s>
+	<s>tate nei jibi rangei lunda lo</s>
+	<s>mu para tora cute munda</s>
+</lyrics>

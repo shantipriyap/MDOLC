@@ -1,0 +1,42 @@
+<Song ID>58</Song ID>
+<Title>to premare pagala mu aji</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>prem anand</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>basantraj samal</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>lubun & tubun</Director>
+<Gender(Director)>male & male</Gender(Director)>
+<Producer>paramananda mishra</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>love promise</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>to premare pagala mu aji</s>
+	<s>to premare deewana mu aji</s>
+	<s>to premare mu nijaku rakhichi baji,</s>
+	<s>tu haan ki na kar, tori marzi</s>
+	<s>e chhatiru sabu, libhei dei mu,</s>
+	<s>lekhichi tori naa,</s>
+	<s>tate au kiye chahi dele thare,</s>
+	<s>se chatire lage nia</s>
+	<s>to premare jaluchi mu aji</s>
+	<s>to premare maruchi mu aji</s>
+	<s>to premare mu nijaku rakhichi baji,</s>
+	<s>tu haan ki na kar, tori marzi</s>
+	<s>to premare pagala mu aji</s>
+	<s>to premare deewana mu aji</s>
+	<s>e akhiru sabu sapana libhei</s>
+	<s>dekhuchi tori swapna,</s>
+	<s>se sapana jebe adha rahi jae,</s>
+	<s>nia ta lagae janha</s>
+	<s>to prema re kheluchi mu aji</s>
+	<s>to prema re haruchi mu aji</s>
+	<s>to premare mu nijaku rakhichi baji,</s>
+	<s>tu haan kar ki naa kar, tori marzi</s>
+	<s>to premare pagala mu aji</s>
+	<s>to premare diwana mu aji</s>
+</lyrics>

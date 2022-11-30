@@ -1,0 +1,46 @@
+<Song ID>1</Song ID>
+<Title>mushkil hai jeena</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>babushan & diptirekha</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>prem anand</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>subrat swain</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>ashok pati</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>binni samal & nihar samal</Producer>
+<Gender(Producer)>male & female</Gender(Producer)>
+<Movie_Album>ajab sanjura gajab love</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>otha tora madusala</s>
+	<s>mitha mitha mahu jhara</s>
+	<s>mahu bina prajapati rahi parena</s>
+	<s>mushkil hai jeena tere bina</s>
+	<s>akhi tora swapana jhara</s>
+	<s>tofa tofa janha tara</s>
+	<s>janha bina rati jama soi parena</s>
+	<s>prathama dekha ru tu</s>
+	<s>juade jauchi mun</s>
+	<s>reshami sutare mote dhire dhire</s>
+	<s>pakhaku tanuchu cho tu</s>
+	<s>prathama chinha ru tu</s>
+	<s>anamanaa bhari mun</s>
+	<s>ajanare kebe asijau jebe</s>
+	<s>jama bi paduchi mun</s>
+	<s>chahani re heera moti</s>
+	<s>chahin chahin sare rati</s>
+	<s>moti bina shamuka ta rahi parena</s>
+	<s>prathama chhuanre to</s>
+	<s>premare bhijuchi mun</s>
+	<s>sanja ki sakala bhabanare tora</s>
+	<s>baturi jauchi mun</s>
+	<s>niajara laguchu tu</s>
+	<s>niswasa re achhu tu</s>
+	<s>tori bhitare to chari pakhare ataki jauchi mun</s>
+	<s>prema tora chhita chhita</s>
+	<s>lage bhari mitha mitha</s>
+	<s>prema bina pruthibi ta rahi parena</s>
+</lyrics>

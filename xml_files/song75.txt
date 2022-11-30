@@ -1,0 +1,34 @@
+<Song ID>75</Song ID>
+<Title>tate mu jebe tharu bhala paichi</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>javed ali</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>baidyanath dash</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>dr.nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>jyotee</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>hrudayananda samal & tuna babu</Producer>
+<Gender(Producer)>male & male</Gender(Producer)>
+<Movie_Album>gud boy</Movie_Album>
+<Year>2012</Year>
+<lyrics>
+	<s>tate mu jebe tharu bhala paichi</s>
+	<s>laguchi duniya ku bhuli jaichi</s>
+	<s>nidare chaluchi mu sapane</s>
+	<s>jhuluchi mu han kalu tu</s>
+	<s>diwana heli mu diwani helu tu</s>
+	<s>ho, othoo taro saja saja golapa sahara</s>
+	<s>dhire dhire sajili mu premika bhanra</s>
+	<s>ho chora chora aakhire to kajala ra gara</s>
+	<s>chati talu hrudaya ku chori kala moro</s>
+	<s>phoola re jhuntuchi mu kanta re hasuchi mu</s>
+	<s>han kalu tu diwana heli</s>
+	<s>ho,mana thila jaja bara banra chadhei</s>
+	<s>jadu kari mothu more nelu tu chadei</s>
+	<s>ho jeun ade chaheinle mu aakhi pau nahein</s>
+	<s>sata range megha aau endra dhanu chai</s>
+	<s>to paein jiunchi mu to paein maruchi mu</s>
+</lyrics>

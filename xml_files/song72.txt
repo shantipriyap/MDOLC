@@ -1,0 +1,48 @@
+<Song ID>72</Song ID>
+<Title>ete bhala mate pailu tu</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & diptirekha padhi</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>prem anand</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>basant raj samal</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>murali krishna</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>tarang cine productions</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>abhaya</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>ate mitha toro rago rusa</s>
+	<s>rago tole ate mahu barsha</s>
+	<s>mono tale hela jalmol</s>
+	<s>haso toro hato buna resomi rumal</s>
+	<s>hay to premo gajal gajal</s>
+	<s>to premo gajal gajal</s>
+	<s>swapno han tu swapno</s>
+	<s>dhire dhire tu asilu</s>
+	<s>ankhi sara basilu</s>
+	<s>nai galu moro mono</s>
+	<s>janha han janha</s>
+	<s>dhire dhire unnilu</s>
+	<s>deho sara chinha chinha</s>
+	<s>nilo nilo ankhi nisa nisa</s>
+	<s>tara kasi toro paro naksha</s>
+	<s>dino rati hela jhalmol</s>
+	<s>han chahani re chuna chuna</s>
+	<s>chumiki ra payal</s>
+	<s>to premo gajal gajal</s>
+	<s>to premo gajal gajal</s>
+	<s>basna hn tu basna</s>
+	<s>dhire dhire bahilu bato sara chunilu</s>
+	<s>mati hela suna suna</s>
+	<s>suna hnn tu suna</s>
+	<s>jhikmik ta rango re chamkilu ta bhagya re</s>
+	<s>ta bina mu chuna chuna</s>
+	<s>jhuma jhima lage sara dino</s>
+	<s>chuma chuma lage sara rati</s>
+	<s>aaki rango mote kala kolobolo</s>
+	<s>dunia re tu aka pua ti kamal</s>
+</lyrics>

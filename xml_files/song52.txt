@@ -1,0 +1,39 @@
+<Song ID>52</Song ID>
+<Title>maya re baya</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>papu pom pom & sabyasachi</Singers>
+<Gender(Singer)>male & male</Gender(Singer)>
+<Music Director>baidyanath dash</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>dr. nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>ramesh rout</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>sidharrth tv</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>tokata fasigala</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>furusatatre upara bala banei thila naari</s>
+	<s>kahaku kala kaali sabeni kahaku kala gori</s>
+	<s>cool coil chehera cool</s>
+	<s>laganti sina beautiful</s>
+	<s>hele tankara hisaba bhai koi nehni paya</s>
+	<s>nele nele aankhe kale kale julfo baali</s>
+	<s>chhati taku hurt kare hae tanka matka chali</s>
+	<s>lipstic marka hasaru jhare honey</s>
+	<s>tike hasidei saridebe sabu money</s>
+	<s>moon moon face moon</s>
+	<s>sahe ku sie karanti sunu</s>
+	<s>nahni ke jane tanka pachhare hei nahni theia</s>
+	<s>what is this</s>
+	<s>this is maya re baya</s>
+	<s>sabu ghatanara mulare ae naari</s>
+	<s>naari bina cinemata pura flop story</s>
+	<s>bhari gulu guli jete sabui cuty billi</s>
+	<s>miao miao kari bheja sabu khanti dealy</s>
+	<s>fulu fulu nakhara fulu</s>
+	<s>tankari pain hajare bhulu</s>
+	<s>chhati bhitare indecator dapa dapa bhaiya</s>
+</lyrics>

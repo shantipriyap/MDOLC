@@ -1,0 +1,63 @@
+<Song ID>63</Song ID>
+<Title>kanchi re kanchire</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>sourin bhatt & sohini mishra</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>abhijit majumdar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>tapas sargharia</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>tarang cine productions</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>hero no 1</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>chup chup gumsum e mana kahe</s>
+	<s>luchi luchi tate bhala pae</s>
+	<s>jete to tharu mu dure jaye</s>
+	<s>sete besi kain khoju thaye</s>
+	<s>ae ki rutu aiela tate mote chuinla</s>
+	<s>chati tale to painki hue kichi kichi re</s>
+	<s>kanchi re kanchi re</s>
+	<s>chaheinna mu kichi re</s>
+	<s>sara jibana ku mana nela</s>
+	<s>tate bachhi re</s>
+	<s>chup chup gumsum e mana kahe</s>
+	<s>luchi luchi tate bhala pae</s>
+	<s>jete to tharu dure jaye</s>
+	<s>sete besi kain khoju thaye</s>
+	<s>kebe tharu akhire mo toil delu ghara</s>
+	<s>mane pakeile mane padunahi mora</s>
+	<s>ake mila misa kaha dui hrudayara</s>
+	<s>apnara hela pare nida hela para</s>
+	<s>chhan chhan hal chal mo nida kahe</s>
+	<s>tu mora mitha swapna tiye</s>
+	<s>jebe jebe tate bhabi diye</s>
+	<s>bhabana mo nua ranga nie</s>
+	<s>sei nua ranga re aji bina meghare</s>
+	<s>topa topa prema tora kiye</s>
+	<s>dela chhinchi re</s>
+	<s>kanchi re kanchi re</s>
+	<s>chaheinna mu kichi re</s>
+	<s>sara jibana ku mana nela</s>
+	<s>tate bachhi re</s>
+	<s>tu jouthi na thibure mu seithi nahi</s>
+	<s>duniya ku asichi mu khali to pain</s>
+	<s>to chahani to ishra diye mote kahi</s>
+	<s>ama prema kali pain</s>
+	<s>haba gapa bahi</s>
+	<s>sunsun gungun to gita tiye</s>
+	<s>jete gaile bi adha rahe</s>
+	<s>tate saite mo palaka re</s>
+	<s>khusi re mo akhi oda hue</s>
+	<s>sei khusi pain kit u pakhe thaiki</s>
+	<s>khojibaku bhala lage</s>
+	<s>tate michi michi re</s>
+	<s>kanchi re kanchi re</s>
+	<s>chaheinna mu kichi re</s>
+	<s>sara jibana ku mana nela</s>
+	<s>tate bachhi re</s>
+</lyrics>

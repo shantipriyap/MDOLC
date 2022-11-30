@@ -1,0 +1,40 @@
+<Song ID>97</Song ID>
+<Title>aaina kebe michha kahena</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>babul supriyo</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>late saroj nanda</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>srikant gautam</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>jayprakash mohanty</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>sun music</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>aaina han han aaina kebe michha kahena,</s>
+	<s>sabu bele sata kahe</s>
+	<s>aaina re kachha badale nahi re</s>
+	<s>hele a chehera badali ja a re</s>
+	<s>chehera ha ha chehera kebe sata kahena,</s>
+	<s>sabubele michha kahe</s>
+	<s>rutu asi rutu chali gala pari</s>
+	<s>joubana chali jae</s>
+	<s>ho jani hue nahi kebe dhire dhire</s>
+	<s>rupa ranga jhadi jae</s>
+	<s>dina rati kichhi badale nahi re,</s>
+	<s>hele a samaya badali jae re</s>
+	<s>bayasa ha ha bayasa kebe luchhi rahena,</s>
+	<s>aaina re dhara pade</s>
+	<s>janha au hase nahi luchi jae</s>
+	<s>amabasya aakasha re</s>
+	<s>koili ta gita au gae nahi</s>
+	<s>aasadha re barasa re</s>
+	<s>surya chandra tara badale nahi re</s>
+	<s>sneha sradha prema badali jae re</s>
+	<s>aatita ha ha aatita kebe bhuli huena</s>
+	<s>sabu bele mane rahe.</s>
+</lyrics>

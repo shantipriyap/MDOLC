@@ -1,0 +1,38 @@
+<Song ID>9</Song ID>
+<Title>tu nua sayari</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>swayam padhi & sohini mishra</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>nirmal nayak</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>abhijit majumdar</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>ashok pati</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>tarang cine productions</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>sundergarh ra salman khan</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>tu nua sayari na nua kabita</s>
+	<s>mate pagala kalu aahista aahista</s>
+	<s>tora sei hansini rupa mo manare lekhuchi gapa</s>
+	<s>chahani re bhangi delu tu mo nirabata</s>
+	<s>luchei thili to naa ku mo othare</s>
+	<s>sei naa aaji gita te sajila dhire dhire</s>
+	<s>saeti thili tori premaku hrudayare</s>
+	<s>se prema aaji niswasa sajila mo chhatire</s>
+	<s>tu fula rutute na fula guldasta</s>
+	<s>prema tora kasturi pari</s>
+	<s>mana sara jauchi jhari</s>
+	<s>rati dina mahake bhari e jibanata</s>
+	<s>chala batare mitha naete tu muje sosa</s>
+	<s>mori premara aarambha khali tu..tu hi sesa</s>
+	<s>sei premaku pakhare paimu ete khusi</s>
+	<s>laguni aaji matiru aakasha dura besi</s>
+	<s>tu rupa janhate na nua sabita</s>
+	<s>tu emiti nida maena</s>
+	<s>tu nathile swapna aasena</s>
+	<s>ta bina buji huena mo aakhi pata</s>
+</lyrics>

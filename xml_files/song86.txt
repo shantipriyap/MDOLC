@@ -1,0 +1,53 @@
+<Song ID>86</Song ID>
+<Title>sunjara sunjara</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & ananya sritam nanda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>prem anand</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>basantraj samal</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>tapas sargharia</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>tarang cine productions</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>sunjara sunjara</s>
+	<s>sil sil to chehera</s>
+	<s>to paain to pain</s>
+	<s>nida nahin rati sara</s>
+	<s>sapanare tu asi</s>
+	<s>emiti tu galu misi</s>
+	<s>chhidigala chhidi gala</s>
+	<s>chhidigala chhidi gala</s>
+	<s>mo gajara</s>
+	<s>tote dekhidela pare</s>
+	<s>kahaku mun dekhi nahin</s>
+	<s>dekhi nahin</s>
+	<s>tote paigala pare</s>
+	<s>aau kichhi khoji nahin</s>
+	<s>sunjara sunjara</s>
+	<s>namkin to nakhara</s>
+	<s>to pain to pain</s>
+	<s>megha topa moti jhara</s>
+	<s>sara rati jeein baku</s>
+	<s>bhabanare rahibaku</s>
+	<s>miligala miligala</s>
+	<s>to aasaraa</s>
+	<s>tate katha dela pare</s>
+	<s>au kichhi katha nahinn</s>
+	<s>katha nahin</s>
+	<s>tate bujhigala pare</s>
+	<s>abujhata kichhi nahin</s>
+	<s>sunjara sunjara</s>
+	<s>sim sim to chehera</s>
+	<s>to pain to pain</s>
+	<s>jeebana ta bhara bhara</s>
+	<s>bhala pai gala pare</s>
+	<s>mun nahin mo pakhar</s>
+	<s>jhumeila jhumeila</s>
+	<s>to ishara</s>
+</lyrics>

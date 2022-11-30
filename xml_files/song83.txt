@@ -1,0 +1,37 @@
+<Song ID>83</Song ID>
+<Title>besharam a hrudaya</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>sushil dalai</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>mrutyunjaya mishra</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>pupun jena</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>gopinath sahoo & ashwini kumar das</Producer>
+<Gender(Producer)>male & male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>besharam a hrudaya mo katha mane na</s>
+	<s>tate dekhi kain badhe spandana janena</s>
+	<s>na dekhile tate kain badhe kasta janena</s>
+	<s>to prema re jalibaku sajichhi mun parwana</s>
+	<s>tate na dekhile dina sare nahin</s>
+	<s>ratita mo lage bisa</s>
+	<s>tu mitha pain mun to bina piasa</s>
+	<s>mentiba kemiti sosa</s>
+	<s>ki jadu kala mate to chehra janena</s>
+	<s>pagala mun to prema re dekhuchhi a jamana</s>
+	<s>to prema re jalibaku sajichhi mun parwana</s>
+	<s>parakhibu jadi parakhine mate</s>
+	<s>rahibani abasosa</s>
+	<s>mate paile to badaliba bhagya</s>
+	<s>jitijibu sara biswa</s>
+	<s>kacha pari mora prema</s>
+	<s>nahin tike chhalana</s>
+	<s>tu hi mora mula lakshya</s>
+	<s>baki sabu bahana</s>
+</lyrics>

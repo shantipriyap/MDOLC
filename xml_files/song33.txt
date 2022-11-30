@@ -1,0 +1,48 @@
+<Song ID>33</Song ID>
+<Title>wish you happy new year</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>jayashree dhal</Singers>
+<Gender(Singer)>female</Gender(Singer)>
+<Music Director>bidyadhar sahoo</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>alok dev</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>prem darshan</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>jayashree dhal</Producer>
+<Gender(Producer)>female</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>dhum machale zero night</s>
+	<s>dhum machale zero night</s>
+	<s>aa nachiba yaar</s>
+	<s>dhulki dhulki dj baja</s>
+	<s>bajale thoda shor</s>
+	<s>dhum machale zero night</s>
+	<s>aa nachiba yaar</s>
+	<s>dhulki dhulki dj baja</s>
+	<s>bajale thoda shor</s>
+	<s>nua barsha aanideu</s>
+	<s>khusi besumar</s>
+	<s>nua barsha aanideu</s>
+	<s>khusi besumar</s>
+	<s>wish you happy new year</s>
+	<s>kariba colourful</s>
+	<s>love sathire love kariba</s>
+	<s>love is beautyful</s>
+	<s>full time seluchi re</s>
+	<s>pakei daba thukul</s>
+	<s>jhumi jhumika khojiba khusi</s>
+	<s>habare mast cool</s>
+	<s>sabu dina thau dosti chhati tale pyar</s>
+	<s>harjit re matlab nahin life jienba full</s>
+	<s>nija swapna ra nije manika</s>
+	<s>jhul sa pare jhul</s>
+	<s>akasha tapi udiba aame</s>
+	<s>bhangiba sabu rule</s>
+	<s>libhei daba manaru jete</s>
+	<s>gala rati ra bhul</s>
+	<s>aaji masti karinahin kalibekhabar</s>
+</lyrics>

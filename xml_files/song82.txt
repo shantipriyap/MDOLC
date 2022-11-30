@@ -1,0 +1,40 @@
+<Song ID>82</Song ID>
+<Title>ene tene bulu bulu lagigala najara</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>not available</Singers>
+<Gender(Singer)>not available</Gender(Singer)>
+<Music Director>susant k</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>ene tene bulu bulu lagigala najara</s>
+	<s>mo chhatire dheu khele to prema ra juara</s>
+	<s>mana kahe bhijibaku to prema barsha re</s>
+	<s>niswas mo lage para tu eka nijara</s>
+	<s>kimiya kalu heli to deewana</s>
+	<s>to bina sathi mun kichhi chanhe na</s>
+	<s>rahichhu tu rahithibu mo aakhire</s>
+	<s>hua tujhse hua mujhe ishq hua re</s>
+	<s>hasa tora moti jhara lage mate niara</s>
+	<s>sei hasa haba mora jiebara sahara</s>
+	<s>rakhithili sata ranga mana tale luchei</s>
+	<s>indradhanu aankidela prema tuli bhijei</s>
+	<s>katuchhi dina na kate mo rati</s>
+	<s>hn laguni mana to bina sathi</s>
+	<s>spandan mo chale para to prema re</s>
+	<s>phula sina hasi thae prajapati chhuana re</s>
+	<s>mo sukha dukha sabu sathi tora nahi re</s>
+	<s>jiethiba jae tate rakhibi mun saiti</s>
+	<s>chhai pari sathe sathe rahithibi emiti</s>
+	<s>jibini bhuli tate katha dauchhi</s>
+	<s>hn to prema pai mun sabu paichhi</s>
+	<s>aasuthibi sathi hei sabu janma re</s>
+</lyrics>

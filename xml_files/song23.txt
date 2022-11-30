@@ -1,0 +1,41 @@
+<Song ID>23</Song ID>
+<Title>gum sum thila ee hrudaya</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & ira mohanty</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>sushil dalai</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>mrutyunjaya mishra</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>deepak roy</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>rajkishore lenka</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>gum sum thila ee hrudaya</s>
+	<s>to pain diwana heli</s>
+	<s>muskil thila ee jibana</s>
+	<s>to sahara paigali</s>
+	<s>aaji kali mun aau mo pakha re nahin</s>
+	<s>ore mahi ore mahi</s>
+	<s>mun khali to pain</s>
+	<s>o my dear you are very special to me</s>
+	<s>aakhi tora kichi kahe</s>
+	<s>hasa tora pakha ku tani nie</s>
+	<s>tate jebe dekhi die</s>
+	<s>sabu kichhi aape mun bhuli jae</s>
+	<s>aajanate nei galu mo mana chorei</s>
+	<s>aakhi tora kichi kahe</s>
+	<s>hasa tora pakha ku tani nie</s>
+	<s>tate jebe dekhi die</s>
+	<s>sabu kichhi aape mun bhuli jae</s>
+	<s>aajanate nei galu mo mana chorei</s>
+	<s>hata mora dhari nelu</s>
+	<s>jadugara kuhuka karidelu</s>
+	<s>sanga mora jebe helu</s>
+	<s>rati dina mahaka bharidelu</s>
+	<s>to pari kehi mate bhala pae nahin</s>
+</lyrics>

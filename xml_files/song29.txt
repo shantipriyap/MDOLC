@@ -1,0 +1,44 @@
+<Song ID>29</Song ID>
+<Title>tu mora kie ki</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>ananya sritam nanda</Singers>
+<Gender(Singer)>female</Gender(Singer)>
+<Music Director>prem anand</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>subrat swain & basant raj samal</Lyrics Author>
+<Gender(Lyrics Author)>male & male</Gender(Lyrics Author)>
+<Director>murli krishna</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>tarang cine productions</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>abhay</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>tu mora kie ki</s>
+	<s>tate khoje kahini ki</s>
+	<s>tor mora ki relation</s>
+	<s>na achhi dosti</s>
+	<s>na achhi dusmani</s>
+	<s>na mu tate meherban</s>
+	<s>tu swapna na sata</s>
+	<s>tu galpa na gita</s>
+	<s>tu prema na dhoka</s>
+	<s>tu bisa na amruta</s>
+	<s>na tu dusman na bhagaban</s>
+	<s>dhet ki confusion oh ki tension</s>
+	<s>janena mu ta naa ghara ta thikana</s>
+	<s>ajana tu mora tora mu ajana</s>
+	<s>tu mati na mukata</s>
+	<s>tu fula na kanta</s>
+	<s>tu pani na sosa</s>
+	<s>tu chithi na sandesa</s>
+	<s>kebe achhu kebe nahnu tu eithi</s>
+	<s>kebe puni dekha heu mu jauthi</s>
+	<s>tu bata na ghata</s>
+	<s>tu dura na pakha</s>
+	<s>tu hasa na luha</s>
+	<s>tu kuhu na koha</s>
+	<s>na tu dusman na bhagaban</s>
+	<s>dhet ki confusion oh ki tension</s>
+</lyrics>

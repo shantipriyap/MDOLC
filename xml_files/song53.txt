@@ -1,0 +1,40 @@
+<Song ID>53</Song ID>
+<Title>tu mo hero</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>human sagar & asima panda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>baida</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>dilip panda</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>chamarti srinivas rao</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>tu mo hero</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>aaji tharu start hela pyar ki gadi</s>
+	<s>ready ready tu ready mu bi ready</s>
+	<s>e dunia jadi pachare tu kan debu uttara</s>
+	<s>tu tu tu mo hero tu tu tu mo hero</s>
+	<s>mu mu mu ta hero mu mu mu ta hero</s>
+	<s>mar guli thile thau mami ki dady</s>
+	<s>pyar aama chalibare chhapara phadi</s>
+	<s>e love story mamalare tu kan hebure mora</s>
+	<s>are mora dil jania karidelu mate kinia</s>
+	<s>jebethu ta sathe love heichi</s>
+	<s>chhati tale ringtone ring hauchi</s>
+	<s>mu laila tu majunu kemitire kaha bujhunu</s>
+	<s>ta pain mana mo twist hauchi</s>
+	<s>miss kale missed call chali jauchi</s>
+	<s>kaha kan kahuchi jani aaji dhak dhak dil tora</s>
+	<s>emiti tu dewana khande khoje tate monday ru sunday</s>
+	<s>jebethu tate mu deli line</s>
+	<s>sabu dina lage mate valentine</s>
+	<s>hae tora premara cement jodi dela permanent</s>
+	<s>kemiti totharu hebi aalaga</s>
+	<s>jo hoga hai darling dekha jayega</s>
+	<s>are breaking news haba aae hit jodi aamara</s>
+</lyrics>

@@ -1,0 +1,30 @@
+<Song ID>94</Song ID>
+<Title>tike tike achinha tu</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>human sagar & diptirekha</Singers>
+<Gender(Singer)>male & femle</Gender(Singer)>
+<Music Director>premananda</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>arun mantri</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>tapas saragharia</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>deepak mishra</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>tu mo love story</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>tike tike achinha tu tike tike chinha</s>
+	<s>ene tene chalu chalu hata thari daki delu</s>
+	<s>kahi tote parilini naa hai na</s>
+	<s>tike tike ajana tu tike tike jana</s>
+	<s>badheilu jadi hata sathi hei kichi bata</s>
+	<s>mo sathi re chali jibu aaa aaa</s>
+	<s>dekha hue jebe jebe bhida re modo re</s>
+	<s>apana ra apana ra lagu mote re</s>
+	<s>oh bata ebe bhuli jaye tote mu dekhile</s>
+	<s>chalu chalu chalu chalu dhaka hue re</s>
+	<s>nida hele to sathe lage bhari bhala mote</s>
+	<s>laga re mu bhiji jaye chaa..hai chaa chaa</s>
+</lyrics>

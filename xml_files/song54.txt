@@ -1,0 +1,39 @@
+<Song ID>54</Song ID>
+<Title>first time gote jhia tu</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & nivedita</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>baidyanath dash</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>arun mantri</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>susanta mani</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>sitaram agrawalla & namita agrawalla</Producer>
+<Gender(Producer)>male & female</Gender(Producer)>
+<Movie_Album>laila o laila</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>first time gote jhia tu karilu pagala</s>
+	<s>tate khali khoji heli sanja thu sakala</s>
+	<s>tu jebe chahnidelu mo mana ku chhuin delu</s>
+	<s>mu aau nahni mora</s>
+	<s>first time gote pua tu karilu pagala</s>
+	<s>tate khali khoji heli sanja thu sakala</s>
+	<s>tu jebe mili galu nida mora chori kalu</s>
+	<s>bhuli gali bata mora</s>
+	<s>jebe tate bhabe tu kichhi kahila pari mate subhe</s>
+	<s>jebe aakhi mise sabuthi ta muhna khali mate dise</s>
+	<s>first time gote jhia tu lagilu sundara</s>
+	<s>ta muhnaru jhari gala golapi avira</s>
+	<s>tu jebe daki nelu sata ranga makhi delu</s>
+	<s>sata lage swapna mora</s>
+	<s>ude aaji ude ta dehara mitha basna chariaade</s>
+	<s>ae chala bate juade mu jae aaji tate bhete</s>
+	<s>first time gote jhia tu lagilu nijara</s>
+	<s>ta pakharu phere nahni aau mo najara</s>
+	<s>tu jebe hasi delu mo chatire basi galu.</s>
+	<s>kalu gote chhota ghara</s>
+	<s>first time gote jhia tu karilu pagala</s>
+</lyrics>

@@ -1,0 +1,48 @@
+<Song ID>26</Song ID>
+<Title>pyaar kuncham kuncham</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>mantu chhuriya & lipsa mohapatra</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>abhijit majumdar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>dr.nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>abhijit majumdar</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>tarang cine productions</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>golmal love</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>eak na eka din e kahani banegi</s>
+	<s>raja me tera tu rani banegi</s>
+	<s>whole night sunu thibi payeliya tora</s>
+	<s>chham chham chham</s>
+	<s>tate payar karibi kuncham kuncham</s>
+	<s>o my janam o my janam</s>
+	<s>payar karibi kuncham kuncham</s>
+	<s>are o jana kalu diwana</s>
+	<s>mana ta hela re phatichar</s>
+	<s>kamali phigar tora dekhile</s>
+	<s>badhigala dil ra temperechar</s>
+	<s>first love ra symptom eiya</s>
+	<s>tora jaha hue mora hue seiya</s>
+	<s>pyar kiya to darna kya re</s>
+	<s>aja khulam khula dharipaka baiya</s>
+	<s>haere lola pagala kala hatara chudi tora</s>
+	<s>khan khan khan</s>
+	<s>alo barbie doll</s>
+	<s>mora beauty queen</s>
+	<s>me tera hero tu heroine</s>
+	<s>to pain hardam bajuchhi</s>
+	<s>chhatire caller tune</s>
+	<s>kring kring kring</s>
+	<s>tu ta mora ladala lavar</s>
+	<s>to pain mana mora hue chhatapata</s>
+	<s>dil bhitare paste karibu</s>
+	<s>le le le lei l e</s>
+	<s>le mora photo</s>
+	<s>are tiktak re vairal heba</s>
+	<s>ama dance ta re</s>
+</lyrics>

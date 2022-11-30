@@ -1,0 +1,50 @@
+<Song ID>88</Song ID>
+<Title>toka nachuchi aji full mausam re</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>mantu chhuria</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>asad nizam</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>puspak parida</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>biren biren</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>rashmi ranjan nayak</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2021</Year>
+<lyrics>
+	<s>toka nachuchi aji full mausam re</s>
+	<s>kain hauchu tu ete tension re</s>
+	<s>chataru mailu aakhi thara</s>
+	<s>dil ta hela mo chinchatara</s>
+	<s>agala toka ra look tora</s>
+	<s>dekhu dekhu hela hangover</s>
+	<s>sorry sorry sorry sanga baji gala re</s>
+	<s>tamara ta katha barta thik nai au</s>
+	<s>jhia tu lo chokha, guaghia marka</s>
+	<s>hasa ru dhaluchu honey</s>
+	<s>tirichi chahani au tu deni</s>
+	<s>chadaki jae jawani</s>
+	<s>chata ade dekhi, ladeiki aakhi</s>
+	<s>dekhana jama futani</s>
+	<s>amari sahi re, chaliba nahi re</s>
+	<s>kahara manamani</s>
+	<s>aji ta eithi bobal heba</s>
+	<s>area ta sara dhuli udiba</s>
+	<s>ama sahi aji dulukiba</s>
+	<s>sahe sahe re para khela jamiba</s>
+	<s>upara ta hero bhitara kakar</s>
+	<s>lagana au tu bhaba</s>
+	<s>tham kina dhana paragana chinha</s>
+	<s>gala re to pasi jiba</s>
+	<s>eithi rahiba ama prosesation</s>
+	<s>jaha heba dekha jiba</s>
+	<s>emiti semiti toka nuha ea</s>
+	<s>dhamaka re darijiba</s>
+	<s>are alia hata re desi pila</s>
+	<s>laguchi re pura screw dhila</s>
+	<s>chanlage deni khula khula</s>
+	<s>nahale heba re full jhamela</s>
+</lyrics>

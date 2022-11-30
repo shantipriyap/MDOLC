@@ -1,0 +1,36 @@
+<Song ID>40</Song ID>
+<Title>diwana heli to paein</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>binayak gouda</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>bapu goswami</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>binayak gouda</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>amara muzik odia</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>diwana heli to paein pagala heli to paein</s>
+	<s>janu e sara duniya tu eka mori paein</s>
+	<s>e mana khali to paein e prema khali to paein</s>
+	<s>janu e sara duniya tu eka mori paein</s>
+	<s>eyi akhi akhi re kahi bulu tu mote bhala pau</s>
+	<s>jaha kali tu mote kahi sarichu kahuchi aaji mu</s>
+	<s>to sathe dine heba dekha e mana kahu thila</s>
+	<s>sayi mana puni haba chori kiye se jani thila</s>
+	<s>raati dina kahein tate khali e aakhi khoju thila</s>
+	<s>lagu thila prema heyi jiba satare heyi gala</s>
+	<s>mu mana deichi deyi sarichi tate chahun chahun</s>
+	<s>bhala pauchi tate kahein ki ete jani paru ni mu</s>
+	<s>sapana dekhuni aau jama dekhuchi tate khali</s>
+	<s>lage tike tike dhara ebe prathama prema boli</s>
+	<s>jebe thu jibane aasi moro sajilu tu nizara</s>
+	<s>tate chadi aau keun aade faruni mo nazara</s>
+	<s>mu deyichi maana debi zibana magile mote tu</s>
+	<s>to nahu jauthi sata kahuchi nahein sayithi mu</s>
+</lyrics>
