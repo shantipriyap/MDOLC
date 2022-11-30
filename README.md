@@ -5,7 +5,7 @@ Overview
 The repository contains the code/data of the released Multi Dialect Odia Song Lyric Corpus (MDOLC). The data is already splitted into train/dev/test set for the experiment. We also provided 230 songs in XML format for research purposes as shown below.
 
 <p align="center">
-  <img src="odia_lyric.png" width="200" height="100">
+  <img src="odia_lyric.png" width="350" height="350">
 </p>
 
 Model
@@ -29,7 +29,7 @@ Utilities (Skopt, sklearn, numpy, Zipfile, Pandas, Pickel)
 
 How to Run ?
 -------------
-The dialect detection code supports both CPU/GPU. For running in CPU/GPU mode, enable/disable the "is_gpu" flag to "True" or "False" inside the "lang_detect_santali.py" file. 
+The dialect detection code supports both CPU/GPU. For running in CPU/GPU mode, enable/disable the "is_gpu" flag to "True" or "False" inside the "lang_detect_odia_samabalpuri.py" file. 
 
 Usage: Execute the following command on the command line to run using CPU:
 ```
