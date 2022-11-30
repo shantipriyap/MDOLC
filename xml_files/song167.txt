@@ -1,0 +1,74 @@
+<Song ID>167</Song ID>
+<Title>desi pila</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>mantu chhuria & asima panda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>rehan kamal</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>pintu chhuria</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>manoj singh</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>tate dekhla dinu mor dilki rani</s>
+	<s>tor lagi mor dil deewana hela</s>
+	<s>tate dekhla dinu mor dilki rani</s>
+	<s>tor lagi mor dil deewana hela</s>
+	<s>believe kari lo mani ja lo</s>
+	<s>tor lagi mui pagla</s>
+	<s>o beby dil ra tajmahal thi</s>
+	<s>tate mumtaj banaba e desipila</s>
+	<s>o baby love raije</s>
+	<s>tate rani banaba e desi pila</s>
+	<s>tate dekhla dinu mor dil ka raja</s>
+	<s>tor lagi mor dil deewani hela</s>
+	<s>tate dekhla dinu mor dil ka raja</s>
+	<s>tor lagi mor dil deewani hela</s>
+	<s>believe kari re mani ja re</s>
+	<s>tui majnu muin tor laila</s>
+	<s>o babu mor love raja</s>
+	<s>mor dil ra raja tui desi pila</s>
+	<s>o babu mor love raja</s>
+	<s>mor dil raja tui desi pila</s>
+	<s>left angle re tui sweet disu</s>
+	<s>right angle re sharmili</s>
+	<s>low angle ra tor lachki chali dekhi</s>
+	<s>mor top angle ra dil dei deli han</s>
+	<s>left angle re tui superstar</s>
+	<s>right angle re rowdy</s>
+	<s>low angle ra tor style chali dekhi</s>
+	<s>mor top angle ra dil dei deli</s>
+	<s>a mor gulabo sun mor gulabo</s>
+	<s>tui mor paagali mui tor paagala</s>
+	<s>mui tor gulabo han gulabo</s>
+	<s>muin tor ladili tui mor ladla</s>
+	<s>o baby janitha e love raije</s>
+	<s>tate rani banaba e desi pila</s>
+	<s>o babu mor love raja</s>
+	<s>mor dil ra raja tui desi pila</s>
+	<s>o my sona only for you</s>
+	<s>mor dil bhitre love ra feelings heichhe</s>
+	<s>sun mor bebo o my bebo</s>
+	<s>mor dil thi tor love ra teer bajichhe</s>
+	<s>oye oye o my raja jee</s>
+	<s>love fever mate hei jaichhe</s>
+	<s>tui mor janu hebu boli suna</s>
+	<s>mor dhak dhak dil ta kahi dauchhe</s>
+	<s>sat janam tak a mor suna</s>
+	<s>mui hemi tor dilwaala</s>
+	<s>janam janam tak a mor suna</s>
+	<s>nain karbu mate akela</s>
+	<s>o baby janitha e love raije</s>
+	<s>tate rani banaba e desi pila</s>
+	<s>o babu mor love raja</s>
+	<s>mor dil ra raja tui desi pila</s>
+	<s>o baby dil ra tajmahal thi</s>
+	<s>tate mumtaj banaba e desi pila</s>
+	<s>babu mor love raja</s>
+	<s>mor dil raja tui desi pila</s>
+</lyrics>

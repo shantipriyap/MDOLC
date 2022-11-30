@@ -1,0 +1,41 @@
+<Song ID>140</Song ID>
+<Title>ja lo michei mana deli bujhei</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>shubhransu nayak</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>puspak parida</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>deepak kumar jena</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>nije aaji jale mun nijara jui</s>
+	<s>matalabi priya lo tori pain</s>
+	<s>ja lo michei mana deli bujhei</s>
+	<s>to parika priya mora darkar nahi</s>
+	<s>jaa lo michhei mana deli bujhei</s>
+	<s>to parika priya mora darkar nahi</s>
+	<s>mo niriha mana bhangi mundeilu papa</s>
+	<s>padiba lo to upare mo abhisapa</s>
+	<s>jani thile mana boli tora kichi nahi</s>
+	<s>bhul kari nathanty mun tate bhala pai</s>
+	<s>ja lo michei mana deli bujhei</s>
+	<s>to parika priya mora darkar nahi</s>
+	<s>jaa lo michhei eka paribi rahi</s>
+	<s>to parika priya mora darkar nahi</s>
+	<s>dhana tharu besi bada mana tie boli</s>
+	<s>bujhibu tu jaudina pasteibu khali</s>
+	<s>luhara ojana kete jana tate nahi</s>
+	<s>sethhi pain bodhhe mate delu tu kandei</s>
+	<s>ja lo michei mana deli bujhei</s>
+	<s>to parika priya mora darkar nahi</s>
+	<s>jaa lo michhhei smruti deli libhei</s>
+	<s>to parika priya mora darkar nahi</s>
+	<s></s>
+</lyrics>

@@ -1,0 +1,74 @@
+<Song ID>189</Song ID>
+<Title>tor bina banchbar ta</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>mantu chhuria</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>rehan kamal</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>pintu chhuria</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>pintu chhuria & akarsh pradhan</Producer>
+<Gender(Producer)>male & male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>tor bina banchbar ta</s>
+	<s>mote tk sikhei dei thitu</s>
+	<s>ee bejaan dil ta jiban pai thila</s>
+	<s>mujrim hei tahake mari delu</s>
+	<s>mui kana karmi tui bata lo</s>
+	<s>mui jee mi ki marmi tui bata lo</s>
+	<s>mui tor bina mari jimi re</s>
+	<s>ee dil sabke batbar path padhei dei thitu</s>
+	<s>aye priya tui daga diya alga hei</s>
+	<s>dekhei delu mote tor tor aukaat</s>
+	<s>tor bina banchbar ta</s>
+	<s>mote tk sikhei dei thitu</s>
+	<s>ee bejaan dil ta jiban pai thila</s>
+	<s>mujrim hei tahake mari delu</s>
+	<s>mui kana karmi tui bata lo</s>
+	<s>mui jee mi ki marmi tui bata lo</s>
+	<s>mui tor bina mari jimi re</s>
+	<s>ee dil sabke batbar path padhei dei thitu</s>
+	<s>aye priya tui daga diya alga hei</s>
+	<s>dekhei delu mote tor tor aukaat</s>
+	<s>he priya tui daga diya alga hei</s>
+	<s>dekhei delu mote tor tor aukaat</s>
+	<s>saccha aashiq saccha deewana</s>
+	<s>tar priyar biswase banchi rahi thisi</s>
+	<s>hele tor lekhe bewfa lagi</s>
+	<s>ee dil ta tadpi tadpi dhadku thisi</s>
+	<s>mor upare reham tk kari thitu lo</s>
+	<s>nijar dil ke thakbar ta batei dei thitu</s>
+	<s>mui bhi nilaj hasi hasu thiti</s>
+	<s>tor nua aashiq ke dekhi kari lo</s>
+	<s>aye priya tui daga diya alga hei</s>
+	<s>dekhei delu mote tor tor aukaat</s>
+	<s>he priya tui daga diya alga hei</s>
+	<s>dekhei delu mote tor tor aukaat</s>
+	<s>he priya priya tui daga diya diya</s>
+	<s>alga hei tui dekhei delu mote tor aukaat</s>
+	<s>dil juban thi tui thilu</s>
+	<s>tor khamoshi ke v mui suni pakau thili</s>
+	<s>sange hasbar ta chad sange kandu v thili</s>
+	<s>mor yaadas thi yaad kari rakhi thili tote</s>
+	<s>hele tui pura bhuli galu</s>
+	<s>mor kismat ra andhar duniya thi</s>
+	<s>tui masoom jan hei</s>
+	<s>premar kiran bhari thilu</s>
+	<s>hele tor aukaat dekhei kari lo</s>
+	<s>jaan thi v ta daag thisi aaj sabit kari delu</s>
+	<s>bewafi ta kana tor nu duniya sikhba lo</s>
+	<s>pyaar ra na thi tui gute kalank aau lo</s>
+	<s>prem ra ganga thi gadhbar ta sikhei thilu</s>
+	<s>aaj se pani budei mote mari delu lo</s>
+	<s>aye priya tui daga diya alga hei</s>
+	<s>dekhei delu mote tor tor aukaat</s>
+	<s>he priya tui daga diya alga hei</s>
+	<s>dekhei delu mote tor tor aukaat</s>
+	<s>he priya priya tui daga diya diya</s>
+	<s>alga hei tui dekhei delu mote tor aukaat</s>
+</lyrics>

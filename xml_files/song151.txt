@@ -1,0 +1,64 @@
+<Song ID>151</Song ID>
+<Title>dangabala re dangabala</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>madhab bhai</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>trishul bhanja</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>balmiki</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>kumar samson</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>kshirod mallik</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>dangabala re dangabala</s>
+	<s>dangabala</s>
+	<s>muin ta dangabala re</s>
+	<s>ho ho ho</s>
+	<s>kata dhari kari mare aahula re muin pare dangabala</s>
+	<s>gahata pari kale nemi pauna re muin pare dangabala</s>
+	<s>tui v dhangi muin v dhangara</s>
+	<s>jaubana tora rasa basa bhara</s>
+	<s>tui v dhangi muin v dhangara</s>
+	<s>jaubana tora rasa basa bhara</s>
+	<s>kale kale basi tha lo nain ha hala jhula</s>
+	<s>kata dhari kari mare aahula re muin pare dangabala</s>
+	<s>gahata pari kale nemi pauna re muin pare dangabala</s>
+	<s>aaha mor pani kuili (hun hun)</s>
+	<s>aaha mor pani kuili (hun hun)</s>
+	<s>mor aade tike chahinde lo dhana</s>
+	<s>sabu dukh jimi bhuli</s>
+	<s>band ke sundara kain (hun hun)</s>
+	<s>band ke sundara kain</s>
+	<s>nadi ke sundara dangabala go</s>
+	<s>jauthile danga bahi</s>
+	<s>kane pindhichhu lo gathian jhalaka</s>
+	<s>kathate kahemi dele tui mauka</s>
+	<s>kane pindhichhu lo gathian jhalaka</s>
+	<s>kathate kahemi dele tui mauka</s>
+	<s>sundiri chehra tor mate ta kala ghaela</s>
+	<s>kata dhari kari mare aahula re muin pare dangabala</s>
+	<s>gahata pari kale nemi pauna re muin pare dangabala</s>
+	<s>kala jaam dise pani e nani</s>
+	<s>kala jaam dise pani</s>
+	<s>maruchhe lahari saen saen kari</s>
+	<s>nain jibu dhana dari</s>
+	<s>kahar gharar tui nani (hun hun)</s>
+	<s>kahar gharar tui nani</s>
+	<s>kaen dusaguna karichhu lo kehinahi than dhari</s>
+	<s>deija lo tor pata thikana</s>
+	<s>usate kahuchhen nain kari mana</s>
+	<s>deija lo tor pata thikana</s>
+	<s>usate kahuchhen nain kari mana</s>
+	<s>lajakurilaha tui sabu ta jana paela</s>
+	<s>e kata dhari kari mare aahula re muin pare dangabala</s>
+	<s>gahata pari kale nemi pauna re muin pare dangabala</s>
+	<s>kata dhari kari mare aahula re muin pare dangabala</s>
+	<s>gahata pari kale nemi pauna re muin pare dangabala</s>
+	<s>kata dhari kari mare aahula re muin pare dangabala</s>
+	<s>gahata pari kale nemi pauna re muin pare dangabala</s>
+</lyrics>

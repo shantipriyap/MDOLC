@@ -1,0 +1,103 @@
+<Song ID>128</Song ID>
+<Title>srabana re srabana</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>bishnu mohan kabi & pragyan hota</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>aman</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>m. narendra</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>srabana re srabana</s>
+	<s>megha anibu</s>
+	<s>se meghare priya ku</s>
+	<s>bhijei dabu</s>
+	<s>srabana re srabana,</s>
+	<s>megha anibu</s>
+	<s>se meghare priya ku</s>
+	<s>bhijei dabu</s>
+	<s>bhijiba ku haere</s>
+	<s>se bhalapae</s>
+	<s>khusi hela premare</s>
+	<s>mate bhijae</s>
+	<s>se bhijile mu bhijibi</s>
+	<s>tu dhekhibu</s>
+	<s>srabana re srabana</s>
+	<s>megha anibu</s>
+	<s>se meghare priya ku</s>
+	<s>bhijei dabu</s>
+	<s>ta akhire tike</s>
+	<s>khusi dekhibaku</s>
+	<s>kete kathe mane</s>
+	<s>pade bhabibaku</s>
+	<s>bhari se abujha</s>
+	<s>bujhe nahin kichhi</s>
+	<s>aji jake taku</s>
+	<s>parilini bujhi</s>
+	<s>phaguna phaguna</s>
+	<s>ranga anibu</s>
+	<s>se rangare priya ku</s>
+	<s>rangei dabu</s>
+	<s>phaguna phaguna</s>
+	<s>ranga anibu</s>
+	<s>se rangare priya ku</s>
+	<s>rangei dabu</s>
+	<s>ranga khelibaku</s>
+	<s>se bhalapae</s>
+	<s>ta rangare mate se</s>
+	<s>rangei die</s>
+	<s>ta akhire ta othare</s>
+	<s>hasa dekhibu</s>
+	<s>srabana re srabana</s>
+	<s>megha anibu</s>
+	<s>se meghare priya ku</s>
+	<s>bhijei dabu</s>
+	<s>asaranti asa</s>
+	<s>hajare sapana</s>
+	<s>akhitara nai</s>
+	<s>akasha sapana</s>
+	<s>mana mani thile</s>
+	<s>se ati nijara</s>
+	<s>mane raga thile</s>
+	<s>nuhe se kahara</s>
+	<s>rajani lo rajani</s>
+	<s>jahna anibu</s>
+	<s>se jahna ku mo priya</s>
+	<s>hatare debu</s>
+	<s>rajani lo rajani</s>
+	<s>jahna anibu</s>
+	<s>se jahna ku mo priya</s>
+	<s>hatare debu</s>
+	<s>hate jahna paile</s>
+	<s>se heba khusi</s>
+	<s>khusi he mate</s>
+	<s>chanhiba hasi</s>
+	<s>se hasile mu hasibi</s>
+	<s>tu dekhibu</s>
+	<s>srabana re srabana</s>
+	<s>megha anibu,</s>
+	<s>se meghare priya ku,</s>
+	<s>bhijei dabu</s>
+	<s>srabana re srabana</s>
+	<s>megha anibu</s>
+	<s>se meghare priya ku</s>
+	<s>bhijei dabu</s>
+	<s>bhijiba ku haere</s>
+	<s>se bhalapae</s>
+	<s>khusi hela premare</s>
+	<s>mate bhijae</s>
+	<s>se bhijile mu bhijibi</s>
+	<s>tu dhekhibu</s>
+	<s>srabana re srabana</s>
+	<s>megha anibu</s>
+	<s>hun hun hun hun</s>
+	<s>la la la la</s>
+	<s></s>
+</lyrics>

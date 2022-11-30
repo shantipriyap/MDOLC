@@ -1,0 +1,48 @@
+<Song ID>187</Song ID>
+<Title>udi udi kete suraj aankhir aage</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>archana padhi</Singers>
+<Gender(Singer)>female</Gender(Singer)>
+<Music Director>ashesh dash</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>ghanasundar gartia</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>immesh immy</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>udi udi kete suraj aankhir aage budi gala na</s>
+	<s>chhai rutu aasikari  kete bol phiri gala na</s>
+	<s>udi udi kete suraj aankhir aage budi gala na</s>
+	<s>chhai rutu aasikari  kete bol phiri gala na</s>
+	<s>hele nai aayelu tui phiri maruchhein mui tote jhuri jhuri</s>
+	<s>maruchhein mui tote jhuri jhuri</s>
+	<s>uda uda aankhir pata jhari jhari aankhir pani</s>
+	<s>mann jhure tote dhana uaans jhure jenta puni</s>
+	<s>tui ta mor aankhir sapan</s>
+	<s>jen sapan bhangi gala na</s>
+	<s>bhanga sapan judi judi</s>
+	<s>tor baat mui jugichhein dhana</s>
+	<s>dukh darad saani hei</s>
+	<s>aankhal sabu sarigala na</s>
+	<s>mahaku thilin jahar mahake</s>
+	<s>se gach bhi ta marigala na</s>
+	<s>hele nai aayelu tui phiri re</s>
+	<s>maruchhein mui tote jhuri jhuri</s>
+	<s>aaji bhi mui takichhein re</s>
+	<s>nai phiru boli jaani</s>
+	<s>bhide thai khujuchhein re</s>
+	<s>nai paayein boli jani</s>
+	<s>jadi tui dekhuthibu</s>
+	<s>andhar ratir tara hei</s>
+	<s>bujhi jibu kenta kari</s>
+	<s>tor bine maruchhein</s>
+	<s>mui tor mor piratir fagu dihun kebhe nai chhade na</s>
+	<s>chhadi jiba tote tor chhayein mui kebhe nai chhadein na</s>
+	<s>hele nai aayelu tui phiri</s>
+	<s>maruchhei mui tote jhuri jhuri</s>
+</lyrics>

@@ -1,0 +1,58 @@
+<Song ID>185</Song ID>
+<Title>tor gulabi cehera kala mote baura</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>nil sagar & archana padhi</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>radhe gardia</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>bablu bag</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>rajiv gond</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>tor gulabi cehera kala mote baura</s>
+	<s>dheere dheere hang hei gala</s>
+	<s>tor gulabi cehera kala mote baura</s>
+	<s>dheere dheere love hei gala</s>
+	<s>he kansi aayela dil mor aankh hela</s>
+	<s>hai re naba chaela bani ja mor laila</s>
+	<s>deewana bani gali gali</s>
+	<s>mor ladli mor pagali mor gelehi raani</s>
+	<s>bhola bhola cehera tor kala impress</s>
+	<s>tui aau mor sona babu mui tor princess</s>
+	<s>deewani bani gali gali</s>
+	<s>mor hero tui mor raja tui</s>
+	<s>mui gelehi raani</s>
+	<s>mor sundri mor bauri mor gelehi raani</s>
+	<s>hai re tor love ra perfume</s>
+	<s>lagei de mor gudia rani</s>
+	<s>hnn hnn hn tor prem bagiche</s>
+	<s>phul hei mui mahuku thimi</s>
+	<s>tor dil ra jail thi kaid kari</s>
+	<s>lagei de premar hath kadi</s>
+	<s>bandhi rakhi thimi prem dori</s>
+	<s>nia jibu babu mote chadi</s>
+	<s>deewana bani gali gali</s>
+	<s>mor beauty mor cuetty</s>
+	<s>mor gelehi rani</s>
+	<s>mor babu tui mor sona tui</s>
+	<s>mui gelehi raani</s>
+	<s>ae he aa nindia mor udi gala re</s>
+	<s>kalu kain jaadu</s>
+	<s>hnn hnn premar range mote</s>
+	<s>rangei de mor rangila babu</s>
+	<s>nakhara tor tauba tauba</s>
+	<s>tui mor pyaari dilruba</s>
+	<s>lagei delu kain mahani</s>
+	<s>bani gali tor deewani</s>
+	<s>deewana bani gali gali</s>
+	<s>mor janu tui mui sunu tui</s>
+	<s>mor gelehee raani</s>
+	<s>tor jaanu mui tor sunu mui</s>
+	<s>mui gelehee raani</s>
+</lyrics>

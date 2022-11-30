@@ -1,0 +1,28 @@
+<Song ID>110</Song ID>
+<Title>mun tamaku bhala paye bhala paye bhala paye</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>kumar bapi & tapu mishra</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>swarup naik</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>swarup naik</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>mun tamaku bhala paye,bhala paye,bhala paye</s>
+	<s>aah aakaso pruthibi pari badalo bijuli pari</s>
+	<s>mu chaluthibi saathe saathe tuma hato dhari</s>
+	<s>pado re pado tie misei tie haba</s>
+	<s>kabitaro nadi tie hoi bahijiba</s>
+	<s>sei nadiro nadiro mu hebi toh bhaunri</s>
+	<s>indradhanu ra bagicha re kariba ghara</s>
+	<s>kheluthibo niti jahinre rango ra juaro</s>
+	<s>indradhanu ra bagicha re kariba ghara</s>
+	<s>sei juaro ,juare bhaasiba dhiri dhiri</s>
+</lyrics>

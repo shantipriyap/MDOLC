@@ -1,0 +1,29 @@
+<Song ID>120</Song ID>
+<Title>jaubana ra surya mukhi kholo go kholo tumari akhi</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>not available</Singers>
+<Gender(Singer)>not available</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>jaubana ra surya mukhi kholo go kholo tumari akhi</s>
+	<s>usma ae kirana ra anuthi chuna re uthago phuti uthago phuti</s>
+	<s>jaubana ra surya mukhi</s>
+	<s>merun tuma smita ra rekha haladi mukha rupara sikha</s>
+	<s>aji ae sakhale heugo dekha</s>
+	<s>khara ra kanla prutha upare nijaku lekhi nijaku lekhi</s>
+	<s>jaubana ra surya mukhi</s>
+	<s>jhadiba agaru utha bikasi doli khelu tuma arupa kanti</s>
+	<s>barnila abha uthu jalasi</s>
+	<s>alua uttapara uschhabe tume ruhago sakhi ruhago sakhi</s>
+	<s>jaubamna ra surya mukhi</s>
+</lyrics>

@@ -1,0 +1,99 @@
+<Song ID>182</Song ID>
+<Title>aa suna gharu baharia</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>umakant barik & lipsa mohapatra</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>bhakta bhaban</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>lalu baba & umashankar panigrahi</Producer>
+<Gender(Producer)>male & male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>aa re aa re aa re aa re</s>
+	<s>jo wada kiya woh nibhana padega</s>
+	<s>ruthe zamana cahe roothe khudai</s>
+	<s>tumko aana padega aa</s>
+	<s>tumko aana padega</s>
+	<s>aaila uma haire uma</s>
+	<s>tor baat duare nachu che tor</s>
+	<s>sundara baura</s>
+	<s>tor baat duare nachu che tor</s>
+	<s>sundara baura</s>
+	<s>aa suna gharu bahria</s>
+	<s>aa suna gharu bahria re</s>
+	<s>aa suna gharu bahria</s>
+	<s>tote tike dekhle sate</s>
+	<s>kete bhaal lagba mote</s>
+	<s>tote tike dekhle sate</s>
+	<s>kete bhal lagba mote</s>
+	<s>maan heuche chanchania</s>
+	<s>aa suna gharu bahria</s>
+	<s>aa suna gharu bahria re</s>
+	<s>aa suna gharu bahria</s>
+	<s>doli saja ke rakhna</s>
+	<s>mehendi laga ke rakhna</s>
+	<s>tui hebu mor dhana re suna kania</s>
+	<s>aa suna gharu bahria</s>
+	<s>aa suna gharu bahria re</s>
+	<s>aa suna gharu bahria</s>
+	<s>ghare rahi nia hela ki</s>
+	<s>bahare rahi nia hela</s>
+	<s>ee pagla mote sabu bele</s>
+	<s>katha suna kari dela</s>
+	<s>ee pila ee pila ee pila ma mote ta</s>
+	<s>kahi jai nia dela mote kala hinista</s>
+	<s>mui hela na aatha ee pila ee pila</s>
+	<s>heuche abujha jaha bujhle bhi</s>
+	<s>heuche bajha bajha bajha bajha</s>
+	<s>premi mane re pagla thisan</s>
+	<s>kaharir katha ta nia mansan</s>
+	<s>jaha ke dil thi basei thisan</s>
+	<s>tahake besi bhal paisan</s>
+	<s>he dhan daulat nia mange tote</s>
+	<s>dekhle usat hei jimi</s>
+	<s>tui dekhu thile tui hasu thile</s>
+	<s>utki utki nachu thimi</s>
+	<s>ghamandi gumani jadi aau tui</s>
+	<s>jiddi bala gharar jhia</s>
+	<s>mui bhi jiban thi kebhe hari nia</s>
+	<s>jiddi bala gharar pua solid</s>
+	<s>ate zor mate tadpauchu lo</s>
+	<s>ghare kenta dum dhari acchu</s>
+	<s>kandili nani naram dilwali mor</s>
+	<s>thik time thi luki jaichu</s>
+	<s>ee mauka dubara nia mile guriya</s>
+	<s>aa suna gharu bahria</s>
+	<s>aa suna gharu bahria re</s>
+	<s>aa suna gharu bahria</s>
+	<s>he sabu pila mankar</s>
+	<s>girlfriend acchan lo</s>
+	<s>khali kor sanam tui nia na</s>
+	<s>udas mane mui akela nachu che</s>
+	<s>adhura adhura lagla na</s>
+	<s>gute phale ghar ta gute phale lover tor</s>
+	<s>kaha ke chunu che j kaha</s>
+	<s>ee ta prem parikhya kari de faisala</s>
+	<s>dhana mor chup chup nia raha solid</s>
+	<s>tor deewana akule dakuche lo</s>
+	<s>sahiba tor majoori chadi de</s>
+	<s>aaibu ki nia khabar pathei de lo</s>
+	<s>nahele pura breakup karide</s>
+	<s>tui nia aaile zindagi bhar katha nia hebu ja</s>
+	<s>tor thanu muji jauche duria</s>
+	<s>tor thanu mui jauche duria re</s>
+	<s>tor tha nu mui jauche duria</s>
+	<s>mui gharu sate bahari aaile sundra baura</s>
+	<s>aa nachma hai go rasia</s>
+	<s>ae aa nachma hai go rasia re</s>
+	<s>aa nachma hai go rasia</s>
+	<s>aa nachma hai re mor suna re</s>
+	<s>aa nachma hai go rasia</s>
+	<s>aa nachma hai re mor suna re</s>
+	<s>aa nachma hai go rasia solid</s>
+</lyrics>

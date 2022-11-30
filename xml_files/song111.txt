@@ -1,0 +1,35 @@
+<Song ID>111</Song ID>
+<Title>odhani odhani</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>ira mohanty</Singers>
+<Gender(Singer)>female</Gender(Singer)>
+<Music Director>malay mishra</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>ganeswar mohapatra</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>srikant gautam</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>faguna mate ranga dala re rangei delani</s>
+	<s>srabana mate megha jhula re jhulei delani</s>
+	<s>haire moro nua odhani kuade mate nauchhitaani</s>
+	<s>moro nua odhani kuade mate nauchhitaani</s>
+	<s>paunji moro pado re rahi phulei helani</s>
+	<s>jhumuka moro kanoku chumi jhumei galani</s>
+	<s>emiti bayasa janena mate dela kie</s>
+	<s>janena mate dela kie</s>
+	<s>chaiti pabana manaku mo ethi sethi thoe</s>
+	<s>manaku mo ethi sethi thoe</s>
+	<s>badalo mate taani nebaku haato bulinali</s>
+	<s>aakasho mate udijibaku hato tharilani</s>
+	<s>sindura pindhiki bahu pari chale nai nai</s>
+	<s>gajara bandhini bhanaro ku doro laage kahin</s>
+	<s>bhanaro ku doro laage kahin</s>
+	<s>punei chando mathaku moro tikili delani</s>
+	<s>baulo phula buda chuinbo baula helani</s>
+</lyrics>

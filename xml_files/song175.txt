@@ -1,0 +1,72 @@
+<Song ID>175</Song ID>
+<Title>itaa ta aaye sambalpurir maja</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>mantu chhuria</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>mantu & subodh maharana</Music Director>
+<Gender(Music Director)> male &	male</Gender(Music Director)>
+<Lyrics Author>amulya dansana</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>ramprashad chhuria</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>rasarkeli mailajada bajle chutku chuta</s>
+	<s>lage e desi dil bhitre mahani atha</s>
+	<s>nache e deba jaduu amar thane re</s>
+	<s>jai jai sambalpuri aaye jagat jita</s>
+	<s>sunitha sunitha</s>
+	<s>suni pakale nachi pakabu re</s>
+	<s>janitha janitha</s>
+	<s>de tambi enna idhu summa dance panarom madri iruku</s>
+	<s>eta ta aaye sambalpurir maja</s>
+	<s>namaskar radio ra sidha prasarana apan mankar nike</s>
+	<s>chaha piba phuki phuki paan khaiba kale</s>
+	<s>jete disko bajle b amar sambalpurir tale</s>
+	<s>amar baja bajhsi desi kuse duru sunau thisi</s>
+	<s>chate dulki gale dulduli chati dulku thisi</s>
+	<s>kia heba etar sari kahar nai chale bahaduri</s>
+	<s>anta halee jhulee nachbu sate kamal desi pari</s>
+	<s>sabku kari desi fida re fida</s>
+	<s>baja amar raja re raja</s>
+	<s>misa tor mann k misa pai jhumka</s>
+	<s>jete nachle b e mann abujha</s>
+	<s>hnta amar baja re baja</s>
+	<s>anokha sabkar lagi aaye ta anokha</s>
+	<s>kia manar rani ena kia mmanar raja</s>
+	<s>kuari hau ki budhi aai nati hau ki aja</s>
+	<s>utki utki kari sabhe nachi desan</s>
+	<s>jete bele baji aisi sambalpuriir baja</s>
+	<s>sambalpuri sunle mann nije jagi heba</s>
+	<s>bajigale dulduli kamal kari deba</s>
+	<s>tk sambil hei dekh, chane asi kari dekh</s>
+	<s>tor tike ranche nai full josh badhee deba</s>
+	<s>sambalpuri nuhe khali dhol nisan tasa thi</s>
+	<s>ethi matir mahak mahakee tor dihi cool cool</s>
+	<s>jadi mehsush nai kari bar bar bele bhaya</s>
+	<s>volume badhee kari kane tel dei sun</s>
+	<s>sambalpuri sabkar ne chul badhee desi</s>
+	<s>hasi khusi thi amar sange samil hesi</s>
+	<s>etar power janbar ache bele bhaya sun</s>
+	<s>eta baji gale ape ape god hali jaisi</s>
+	<s>khali enu nai desh bidhese etar charcha</s>
+	<s>jen na sunbu sambalpuri, subhsi farcha farcha</s>
+	<s>ethir lagi ame sabhe chati piti kahesu</s>
+	<s>eta ta aaye sambalpurir maja</s>
+	<s>amar jalwa</s>
+	<s>jalwa jalwa jalwa</s>
+	<s>jalwa thi mahani re</s>
+	<s>jhum barabar jhum re raja barabar jhum re raja</s>
+	<s>lagba tate jnta amar rista purani</s>
+	<s>nach jhama jham nach re bhaya jhamajham nach re bhaya</s>
+	<s>budha v kahesi asigala jawani</s>
+	<s>heeeee eheeeeee heeeeee</s>
+	<s>nananana nanana na na na na</s>
+	<s>nananana eheeheeeee heeeee</s>
+	<s>nananana nananana na na na he</s>
+	<s>eta ta aaye sambalpurir maja</s>
+</lyrics>

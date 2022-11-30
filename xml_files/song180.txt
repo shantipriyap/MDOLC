@@ -1,0 +1,59 @@
+<Song ID>180</Song ID>
+<Title>sawaria sawaria</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>santanu</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>sriram luhar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>jatindra pradhan</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>tuna chandan</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2009</Year>
+<lyrics>
+	<s>he he han</s>
+	<s>hai re doli thi tate baseikari</s>
+	<s>lal udhuni udhei kari</s>
+	<s>hai re doli thi tate baseikari</s>
+	<s>lal udhuni udhei kari</s>
+	<s>tor sang sahelir bhilu tate muin</s>
+	<s>nemi re gorian</s>
+	<s>sawaria sawaria muin tor sawaria</s>
+	<s>hai re doli thi tate baseikari</s>
+	<s>lal udhuni udhei kari</s>
+	<s>tor sang sahelir bhilu tate muin</s>
+	<s>nemi re gorian</s>
+	<s>sawaria sawaria muin tor sawaria</s>
+	<s>sawarian sawarian muin tor sawarian</s>
+	<s>e mor sajani lo</s>
+	<s>mehendi makhi alata makhi basithibu tui chakhi lo</s>
+	<s>sapana bhari tor akhi hai</s>
+	<s>sapana bhari tor akhi</s>
+	<s>dewani lo</s>
+	<s>baja bajei rani sajei</s>
+	<s>man ke demi bhijei lo</s>
+	<s>laje tui jibu lajei</s>
+	<s>hai re kani thi ganthi pakei kari</s>
+	<s>sinthi sendura makhei kari</s>
+	<s>tor maa bua nu gali gaan nu nemi lo gurian</s>
+	<s>sawaria sawaria muin tor sawaria</s>
+	<s>sawarian sawarian muin tor sawarian</s>
+	<s>e sajani lo</s>
+	<s>jaan raije tara fule lo</s>
+	<s>banami tor lagi ghara lo</s>
+	<s>nain pade kahar najara hai</s>
+	<s>nain pade kahar najara</s>
+	<s>dewani dill deichhen bhal paichhen</s>
+	<s>jaan b magle demi lo</s>
+	<s>chala bate phul bichhami</s>
+	<s>hai re chhati thi tate lukei kari</s>
+	<s>piratir maja chakhei kari</s>
+	<s>e muin saath janam tor</s>
+	<s>sange rahemi,khaichhen re kiria hai</s>
+	<s>sawaria sawaria muin tor sawaria</s>
+	<s>sawarian sawarian muin tor sawarian</s>
+</lyrics>

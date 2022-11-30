@@ -1,0 +1,81 @@
+<Song ID>163</Song ID>
+<Title>tar nua hero dela tate chhadi</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>umakant batik</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>hemanta kathar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>pappu bhai</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>shashi & shree</Producer>
+<Gender(Producer)>male & female</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>a tui daulat ra soukin helu boli</s>
+	<s>mor jiban dia pyar ke galu bhuli</s>
+	<s>he a tui daulat ra soukin helu boli</s>
+	<s>mor jiban dia pyar ke galu bhuli</s>
+	<s>ho jenta dhoka delu tui mate</s>
+	<s>senta daga mili gala tate</s>
+	<s>kane hela je pher kandi kandi</s>
+	<s>kane hela je pher kandi kandi</s>
+	<s>kan dhari kahu chu lo sorry</s>
+	<s>tor nua hero kain dela tate chadi</s>
+	<s>mor paske pher aaichu lo phiri</s>
+	<s>tor nua hero kain dela tate chadi</s>
+	<s>mor paske pher aaichu lo phiri</s>
+	<s>jen dinu tui galu chali</s>
+	<s>sat dau che tor nua saheli</s>
+	<s>aare jen dinu tui galu chali</s>
+	<s>sat dau che, tor nua saheli</s>
+	<s>mui aau nai na khali</s>
+	<s>bhag malmali</s>
+	<s>twon aadu ghae aaebu ja re buli</s>
+	<s>nua handsome te jiba tate mili</s>
+	<s>tor nua hero kain dela tate chadi</s>
+	<s>mor paske pher aaichu lo phiri</s>
+	<s>jen dusman mor bani galu</s>
+	<s>jebhu delu mate chadi</s>
+	<s>rista thare bhangi gale</s>
+	<s>hesi kain lo aau judi</s>
+	<s>he tate chanhu thili dil se</s>
+	<s>tor irada nai parli bujhi</s>
+	<s>prem pyar sabu jhut aae</s>
+	<s>sabit karlu re bedardi</s>
+	<s>kanaa ta thare badi hajasi</s>
+	<s>second time thi chalak rahesi</s>
+	<s>kanaa ta thare lo badi hajasi</s>
+	<s>second time thi chalak rahesi</s>
+	<s>sor paichen bolli</s>
+	<s>mor nua heroin sange jaau thile</s>
+	<s>tui kanje mrsu jali jali</s>
+	<s>mor nua heroin sange jaau thile</s>
+	<s>tui kanje mrsu jali pudi</s>
+	<s>are mornu side helu jalim</s>
+	<s>bharasa kali jahake</s>
+	<s>se bhi tor nu side marla</s>
+	<s>bachi lo alga kaha ke kenta</s>
+	<s>he jie jenta pyar karsi</s>
+	<s>senta hi pyar se paesi</s>
+	<s>dusra kahar dil bhangle</s>
+	<s>nijar dil bhi henta bhangsi</s>
+	<s>jai che lo sukhi tor sundri sakal</s>
+	<s>paelu dhoka je tor hela akal</s>
+	<s>jai che lo sukhi tor sundri sakal</s>
+	<s>paelu dhoka je tor hela akal</s>
+	<s>gharke ja ja pagli</s>
+	<s>suibu ja</s>
+	<s>tor nua hero kain dela tate chadi</s>
+	<s>mor paske pher aaichu lo phiri</s>
+	<s>tor nua hero kain dela tate chadi</s>
+	<s>mor paske pher aaichu lo phiri</s>
+	<s>tor nua hero kain dela tate chadi chadi chadi</s>
+	<s>mor paske pher aaichu lo phiri</s>
+	<s>tor nua hero kain dela tate chadi</s>
+	<s>mor paske pher aaichu lo phiri</s>
+	<s>side mar chal chal hawa aane de</s>
+</lyrics>

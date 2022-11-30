@@ -1,0 +1,82 @@
+<Song ID>136</Song ID>
+<Title>mu aji kanduchi jemiti tu kali kandinbu</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>ganapati</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>pinkun jena</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>nagen & manas</Producer>
+<Gender(Producer)>male & male</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>tu sindura pindhilu kemiti lo</s>
+	<s>bedire basilu kemiti</s>
+	<s>tu sasughara galu kemiti lo</s>
+	<s>tu badhu besa helu kemiti</s>
+	<s>tu` sindura pindhilu kemiti lo</s>
+	<s>bedire basilu kemiti</s>
+	<s>tu sasughara galu kemiti lo</s>
+	<s>tu badhu besa helu kemiti</s>
+	<s>basara ratira seja re</s>
+	<s>soilu aau ka sathi re</s>
+	<s>basara ratira seja re</s>
+	<s>soilu aau ka sathi re</s>
+	<s>mo prema ku karili</s>
+	<s>prema ku karili</s>
+	<s>kaha kaha pain eti loo</s>
+	<s>mun aaji jaluchhi jemiti hn</s>
+	<s>tu kali jalibu semiti</s>
+	<s>mun aaji kanduchhi jemiti</s>
+	<s>hn tu kali kandibu semiti</s>
+	<s>prema tike pain mate</s>
+	<s>tu badhya karithilu</s>
+	<s>swartha sarigala pare tu mate lo</s>
+	<s>maribaku chhadigalu lo</s>
+	<s>maribaku chhadigalu</s>
+	<s>hn to tharu aarambha prema</s>
+	<s>tu karidelu sesa</s>
+	<s>tu bhulijaichhu mun bhuliparuni</s>
+	<s>to pain pieuchhi bisa lo</s>
+	<s>to pain pieuchhi bisa</s>
+	<s>michha swapna kete dekhei</s>
+	<s>chaligalu mate bhandei</s>
+	<s>michha swapna kete dekhei</s>
+	<s>chaligalu mate bhandei</s>
+	<s>tu hasuchhu aaji lo</s>
+	<s>hasuchhu aaji lo</s>
+	<s>pai tu jibana sathi loo</s>
+	<s>mun aaji jaluchhi jemiti hn</s>
+	<s>tu kali jalibu semiti</s>
+	<s>mun aaji kanduchhi jemiti</s>
+	<s>hn tu kali kandibu semiti</s>
+	<s>saralia bhabi mate</s>
+	<s>tu chaligalu thaki</s>
+	<s>mo abhisapa re jinna jaka</s>
+	<s>heiparibuni sukhi lo</s>
+	<s>heiparibuni sukhi</s>
+	<s>hai topain khelana prema</s>
+	<s>tu kheli phingidelu</s>
+	<s>beimani priya beimani kari</s>
+	<s>mo tharu durei galu lo</s>
+	<s>mo tharu durei galu</s>
+	<s>bandhu ru sajilu bairi</s>
+	<s>pachharu marilu tu chhuri</s>
+	<s>bandhu ru sajilu bairi</s>
+	<s>pachharu marilu tu chhuri</s>
+	<s>mo bhala paiba nathila lo una</s>
+	<s>deigalu bada sasti lo</s>
+	<s>mun aaji jaluchhi jemiti hn</s>
+	<s>tu kali jalibu semiti</s>
+	<s>mun aaji kanduchhi jemiti</s>
+	<s>hn tu kali kandibu semiti</s>
+	<s>mun aaji jaluchhi jemiti hn</s>
+	<s>tu kali jalibu semiti</s>
+	<s>mun aaji kanduchhi jemiti</s>
+	<s>hn tu kali kandibu semiti</s>
+</lyrics>

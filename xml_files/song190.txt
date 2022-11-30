@@ -1,0 +1,51 @@
+<Song ID>190</Song ID>
+<Title>premare katidebi manare to tike</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>	after year 1990</Period>
+<Singers>not available</Singers>
+<Gender(Singer)>not available</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>premare katidebi manare to tike</s>
+	<s>kheliba rati dina aakhire lo kete</s>
+	<s>janichhi paribuni nei mora wiket</s>
+	<s>gahali kahin karu kari mate target</s>
+	<s>katha tike jadi heigali dehaku neuchhu kahin bhari</s>
+	<s>sahaja nuhenre dhariba ta uduchhi mun prajapati pari</s>
+	<s>tirichhi najar rasake kamar mate aau luchani</s>
+	<s>udi udi udi han jae to kani</s>
+	<s>phula na kahide tu phula danee</s>
+	<s>hae udi udi udi han jae mo kani</s>
+	<s>mun chalile dohale rajadhanee</s>
+	<s>to pain aanidebi jadi thare kahidabu</s>
+	<s>patiaala shalabara banarasee silaka shadhaee</s>
+	<s>tate ranee karibaku jaha kahibu karibi</s>
+	<s>manija mo katha kahuchhi hata jodai</s>
+	<s>tate dekhi jadi hasideli manaku karuchhu kahin bhari</s>
+	<s>sahaja nuhere patiba ta paribuni mate chori kari</s>
+	<s>to pain diyara kamali phigara rakhei dauni</s>
+	<s>udi udi udi han jae to kani</s>
+	<s>phula na kahide tu phula danee</s>
+	<s>udi udi udi han jae mo kani</s>
+	<s>mun chalile dohale rajadhanee</s>
+	<s>tu deshee lutei kahibaru phutani</s>
+	<s>ghatibani kichhi tu janitha ghatana</s>
+	<s>tu jete jaha kale kichhi shunibi nahin</s>
+	<s>to chal nooaa nooaa lage sabu puruna</s>
+	<s>manija manija katha mora heigale lo tu thare raji</s>
+	<s>pagala mun pura helinire kete dina ru mun khoji khoji</s>
+	<s>hata to najara habani asara shunani to kahanee</s>
+	<s>udi udi udi hae jae mo kani</s>
+	<s>mun chalile dohale rajadhanee</s>
+	<s>udi udi udi han jai to kani</s>
+	<s>phula na kahide tu phula danee</s>
+</lyrics>

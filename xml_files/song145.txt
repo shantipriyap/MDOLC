@@ -1,0 +1,74 @@
+<Song ID>145</Song ID>
+<Title>phone karuchhe mate daily daily</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>jasobanta sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>mahendra meher</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>lokanath bagarti</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>balaram beshra</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>bbmusic</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>bhet padma bali</s>
+	<s>call karuchhe mate daily daily</s>
+	<s>bhet padma bali</s>
+	<s>phone karuchhe mate daily daily</s>
+	<s>bhet padma bali</s>
+	<s>call karuchhe mate daily daily</s>
+	<s>bhet padma bali</s>
+	<s>busy tike hele re</s>
+	<s>waiting thile re</s>
+	<s>not reachable hele re</s>
+	<s>mobile switch off thile re</s>
+	<s>deu thisi kete gali</s>
+	<s>phone karuchhe mate mor lover</s>
+	<s>bhet padma bali</s>
+	<s>call karuchhe mate mor pagili</s>
+	<s>bhet padma bali he</s>
+	<s>ho bhal pauchhe mate kete re</s>
+	<s>mor phulei sajani</s>
+	<s>nai dekhe le chhene ghade re</s>
+	<s>miss call karu thisi rani</s>
+	<s>bhal pauchhe mate kete re</s>
+	<s>mor phulei sajani</s>
+	<s>nai dekhe le chhene ghade re</s>
+	<s>miss call karu thisi rani</s>
+	<s>busy tike hele re</s>
+	<s>waiting thile re</s>
+	<s>not reachable hele re</s>
+	<s>mobile switch off thile re</s>
+	<s>deu thisi kete gali</s>
+	<s>phone karuchhe mate mor lover</s>
+	<s>bhet padma bali</s>
+	<s>call karuchhe mate mor pagili</s>
+	<s>bhet padma bali he</s>
+	<s>ho chahun chhe mate kete re</s>
+	<s>mor ta hela diwani</s>
+	<s>ho basi thisi man ke mari re</s>
+	<s>nai katha hele rani</s>
+	<s>ho chahun chhe mate kete re</s>
+	<s>mor ta hela diwani</s>
+	<s>ho basi thisi man ke mari re</s>
+	<s>nai katha hele rani</s>
+	<s>busy tike hele re</s>
+	<s>waiting thile re</s>
+	<s>not reacheable hele re</s>
+	<s>mobile switch off thile re</s>
+	<s>deu thisi kete gali</s>
+	<s>phone karuchhe mate mor lover</s>
+	<s>bhet padma bali</s>
+	<s>bhet padma bali</s>
+	<s>call karuchhe mate mor pagili</s>
+	<s>bhet padma bali</s>
+	<s>ho…phone karuchhe mate daily daily</s>
+	<s>bhet padma bali</s>
+	<s>bhet padma bali</s>
+	<s>call karuchhe mate daily daily</s>
+	<s>bhet padma bali</s>
+</lyrics>

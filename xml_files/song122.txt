@@ -1,0 +1,31 @@
+<Song ID>122</Song ID>
+<Title>tuma akhi bhasa kahuthila jaha</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>not available</Singers>
+<Gender(Singer)>not available</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>	not available</Year>
+<lyrics>
+	<s>tuma akhi bhasa kahuthila jaha,se dina pahili dekha re</s>
+	<s>mo akhi sabu padhi nai thila esara deba bahana re</s>
+	<s>na mu jani thili tumaku na tame chinhi thila  mote</s>
+	<s>tathapi kahein ki sei dina tharu eyi mana khali tumaku khoje</s>
+	<s>ekutia jebe nirabe basayi dhire tame kara anamana</s>
+	<s>lage dein jibi sabu jhada jhanja kehi kari paribeni mana</s>
+	<s>na tame asuthila agei  na mu jauthili pachei</s>
+	<s>tathapi kahein tama mo samparka kunje madhure madhupa gunje</s>
+	<s>ghana andhakare tama muhan mote tofa jannha pari lage</s>
+	<s>sei jochanare momana mukure mu tumara chabi aanke</s>
+	<s>na mu thili tuma bandhu na tame thila bhabi badhu</s>
+	<s>tathapi kemiti mani ku kanchana, kanchana ku mani sanjogo saje</s>
+	<s>tuma akhi bhasa</s>
+</lyrics>

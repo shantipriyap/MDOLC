@@ -1,0 +1,54 @@
+<Song ID>166</Song ID>
+<Title>mor lover mast aaye</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>kundal k chhura and manbi</Singers>
+<Gender(Singer)>male & male</Gender(Singer)>
+<Music Director>barun bag</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>barun bag</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>f.a digital</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>life ra lucky chand tor nam</s>
+	<s>mor janu re o my janu re</s>
+	<s>tor lagi kurban tui maan</s>
+	<s>sara jahan re o my baby re</s>
+	<s>life ra lucky chand tor nam</s>
+	<s>mor janu re o my janu re</s>
+	<s>good morning message karsi aar dekhle kahesi hey</s>
+	<s>mor gale pappi dei kahesi dhana go bey</s>
+	<s>mor lover mor lover mast aaye re</s>
+	<s>mor lover mast aaye re</s>
+	<s>day night call karsi mate miss you jannu kahesi</s>
+	<s>mate chocolate teddy die mate love you love you kahe se re</s>
+	<s>mor baby mor baby mast aae re</s>
+	<s>mor sona mast aae re</s>
+	<s>mor lover mast aaye re</s>
+	<s>palti gale tar beauti chera dekhle dil ke milsi sukun</s>
+	<s>tike se phulei hele man kandu thisi re heart ra dhun se mo dehar khun</s>
+	<s>ho o se mor pyar puja, dilwala yar re</s>
+	<s>i am sure kebe nai chade hat re</s>
+	<s>se mor handsome boy imandar hero aaye</s>
+	<s>mor dukh nei tar khusi mate desi re</s>
+	<s>tar bhabna tike aaele dil garden garden hue</s>
+	<s>tar aakhi buji dele mor rati suru hue re</s>
+	<s>mor lover mor lover mast aaye re</s>
+	<s>mor lover mast aaye re</s>
+	<s>ho o mor kami cahat sabu feel kasi re bujhi nesi mor majburi ke</s>
+	<s>mui ragi gale hansi manei nesi re hele mor upre kebe nai rage re</s>
+	<s>sweet leap thi tar mulki hansi dekhle re active hei jaesi mor lazy mind</s>
+	<s>creazy karsi tar aankhi anokha number one beauty se mor sambalpuri quine</s>
+	<s>tar look aete sate south hero aae take lover paai mate lucky feel hue re</s>
+	<s>mor sona mor babu mast aaye re</s>
+	<s>mor sundru best aaye re</s>
+	<s>mor lover mast aaye re</s>
+	<s>mor lover cute aaye re</s>
+	<s>mor cutie super aaye re</s>
+	<s>mor hero mor jann aaye re</s>
+</lyrics>

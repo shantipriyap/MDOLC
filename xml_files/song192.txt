@@ -1,0 +1,78 @@
+<Song ID>192</Song ID>
+<Title>nalia tale balia jhuri khalbalala</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>shantanu sahu & shital sahu</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>the orchard music</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>nalia tale balia jhuri khalbalala</s>
+	<s>nani panata kani khelei kari</s>
+	<s>panata kani khelei kari</s>
+	<s>chapki paka</s>
+	<s>bane kari dhari thibu re nani</s>
+	<s>pichili jiba</s>
+	<s>bane kari dhari thibu re nani</s>
+	<s>pichili jiba</s>
+	<s>pani dhare dhare kete jagana</s>
+	<s>balia jhuri ke helana kala</s>
+	<s>pani dhare dhare kete jagana</s>
+	<s>balia jhuri ke helana kala</s>
+	<s>helana kala</s>
+	<s>hat bajigale tanti re pila tatki jiba</s>
+	<s>aye hay bane kari dhari thibu re nani</s>
+	<s>pichili jiba</s>
+	<s>bhija bhija tora golapi gala lo</s>
+	<s>golapi gala</s>
+	<s>duhi gala jani nani tora</s>
+	<s>chahani kal pagala</s>
+	<s>ho chudi jhalamala disuche lala</s>
+	<s>lo disuche lala</s>
+	<s>nalia pani thi dhui maji hei</s>
+	<s>heuchi gela</s>
+	<s>nani panata kani khelei kari</s>
+	<s>panata kani khelei kari</s>
+	<s>chapki paka</s>
+	<s>hat bajigale tanti re pila tatki jiba</s>
+	<s>bale kari dhari thibu re nani</s>
+	<s>pichili jiba</s>
+	<s>rupa rangi tora balia jhuri lo</s>
+	<s>balia jhuri</s>
+	<s>suna rangi mora suneli</s>
+	<s>sapana khele bhaunri</s>
+	<s>debu bele tora manke ghuri lo</s>
+	<s>manke ghuri</s>
+	<s>rakhithibi sate manara akhi jatana kari</s>
+	<s>nani panata kani khelei kari</s>
+	<s>panata kani khelei kari</s>
+	<s>chapki paka</s>
+	<s>bale kari dhari thibu re nani</s>
+	<s>pichili jiba</s>
+	<s>hat bajigale tanti re pila chamki jiba</s>
+	<s>nalia tale balia jhuri khalbolala</s>
+	<s>nani panata kani khelei kari</s>
+	<s>panata kani khelei kari</s>
+	<s>chapki paka</s>
+	<s>bnle kari dhari thibu re nani</s>
+	<s>pichili jiba</s>
+	<s>bane kari dhari thibu re nani</s>
+	<s>pichili jiba</s>
+	<s>pani dhare dhare kete jagana</s>
+	<s>balia jhuri ke helana kala</s>
+	<s>pani dhare dhare kete jagana</s>
+	<s>balia jhuri ke helana kala</s>
+	<s>helana kala</s>
+	<s>hat bajigale tanti re pila tatki jiba</s>
+	<s>aye hay bane kari dhari thibu re nani</s>
+	<s>pichili jiba</s>
+	<s>hat bajigale tanti re pila tatki jiba</s>
+</lyrics>

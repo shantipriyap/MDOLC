@@ -1,0 +1,73 @@
+<Song ID>149</Song ID>
+<Title>hai tor nili nili akhi ke suna</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>umakant barik & amrita nayak</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>kamalesh chakrabarty</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>kamalesh chakrabarty</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>shaktiswora mohapatra</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>gountia sunil kumar patel</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>hai tor nili nili akhi ke suna</s>
+	<s>dine nain dekhele nure diwana</s>
+	<s>hai tor nili nili akhi ke suna</s>
+	<s>dine nain dekhele nure diwana</s>
+	<s>tate jiban dei chahun chhen suna</s>
+	<s>tate nain paile chadmi jawana</s>
+	<s>tate jiban dei chahun chhen suna</s>
+	<s>tate nain paile chadmi jawana</s>
+	<s>tate kete o</s>
+	<s>tate kete muin bhal pauchhen</s>
+	<s>mor manar katha man ke jana</s>
+	<s>tate kete muin bhal pauchhen</s>
+	<s>mor manar katha man ke jana</s>
+	<s>tui mor jiban tui mor sapan</s>
+	<s>tor sange jina sange mar na</s>
+	<s>tate chahun chhen bhal muin pauchhen</s>
+	<s>kenta bujhami tate sajana</s>
+	<s>hai tor nili nili akhi ke suna re</s>
+	<s>dine nain dekhele nure diwana</s>
+	<s>tate kete muin bhal pauchhen</s>
+	<s>mor manar katha man ke jana</s>
+	<s>tate dely dekhuthimi tate bhal pauthimi</s>
+	<s>tate bhabi nei chhen mor dunian</s>
+	<s>tate dekhi din saru tate nei rait pau</s>
+	<s>tor bina jina manena</s>
+	<s>muin b tate bhal paesi tor sapan dekhuthisi</s>
+	<s>mor chhati tale lekhichhen tor naa</s>
+	<s>mor jiban mor sabu tate dei kari dhana</s>
+	<s>mor prem ke deichhen tor naa</s>
+	<s>kenta rahemi ekla janian</s>
+	<s>tate bhabi neichhen mor dunian</s>
+	<s>kenta rahemi ekla janian</s>
+	<s>tate bhabi neichhen mor dunian</s>
+	<s>tate kete muin bhal pauchhen</s>
+	<s>mor manar katha man ke jana jana</s>
+	<s>hai tor nili nili akhi ke suna</s>
+	<s>dine nain dekhele nure diwana</s>
+	<s>tui mor jiban sathi premi kale tui ete</s>
+	<s>kenta rahemi tate bhulei</s>
+	<s>mor chhatira spandane mor akhira sapane</s>
+	<s>khali tor naa deichhen lekhi</s>
+	<s>tate nei mor jiban tate dekhi mor sapan</s>
+	<s>kenta banchimi muin bhuli</s>
+	<s>jete din banchithimi tate bhal pauthimi</s>
+	<s>kiria kari kahuchhen sathi</s>
+	<s>mor nu tui durei gale sajana</s>
+	<s>sabu bhuli jaesi muin tor bina</s>
+	<s>mor nu tui durei gale sajana</s>
+	<s>sabu bhuli jaesi muin tor bina</s>
+	<s>hai tor nili nili akhi ke suna</s>
+	<s>dine nain dekhele nure diwana</s>
+	<s>tate kete muin bhal pauchhen</s>
+	<s>mor manar katha man ke jana</s>
+	<s>hai tor nili nili akhi ke suna</s>
+	<s>dine nain dekhele nure diwana</s>
+</lyrics>

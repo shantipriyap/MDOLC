@@ -1,0 +1,73 @@
+<Song ID>132</Song ID>
+<Title>mo ghara bata dei</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>kuldip pattanayak</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>asad nizam</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>tapu nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>mo ghara bata dei</s>
+	<s>chali jau hasi dei</s>
+	<s>dina sara bhabi rahi parena</s>
+	<s>tu hate bahi dhari</s>
+	<s>chahun jebe pheri pheri</s>
+	<s>rati sara bhabi soi hue na</s>
+	<s>kete dina kaha emiti chaliba</s>
+	<s>kiye kaha katha kemiti bujhiba</s>
+	<s>maja na saja kahide na</s>
+	<s>mo ghara bata dei</s>
+	<s>chali jau hasi dei</s>
+	<s>dina sara bhabi rahi parena</s>
+	<s>mana tale luchi thae</s>
+	<s>jou katha tora</s>
+	<s>sei katha akhiru to</s>
+	<s>bujhi hei jae</s>
+	<s>bata kebe sare nahi</s>
+	<s>thikana re mora</s>
+	<s>pada tora mo batare</s>
+	<s>kahin rahi jae</s>
+	<s>sabu jani ajana tu</s>
+	<s>kichi jani nahun</s>
+	<s>jie pachare mo katha</s>
+	<s>chinhi nahi kahu</s>
+	<s>muhan muhin hele</s>
+	<s>muhan poti dau</s>
+	<s>ishara re puni</s>
+	<s>dekha haba tu kahu</s>
+	<s>maja na saja kahide na</s>
+	<s>mo ghara bata dei</s>
+	<s>chali jau hasi dei</s>
+	<s>dina sara bhabi rahi parena</s>
+	<s>au kaha sathe jebe</s>
+	<s>gapi gapi jebe chahun</s>
+	<s>kemiti sahiba deha</s>
+	<s>emiti tu hau</s>
+	<s>mote lage ai achu</s>
+	<s>asile je jau</s>
+	<s>mote chadi eka eka</s>
+	<s>kemiti tu rahu</s>
+	<s>to nirabata ke badhuchi</s>
+	<s>ja abe</s>
+	<s>sata kaha jaleibu</s>
+	<s>au kaha kebe</s>
+	<s>padha padhi saru</s>
+	<s>kari nebi sathi</s>
+	<s>ati hei gale</s>
+	<s>kare deba eti</s>
+	<s>maja na saja kahide na</s>
+	<s>mo ghara bata dei</s>
+	<s>chali jau hasi dei</s>
+	<s>dina sara bhabi rahi parena</s>
+	<s>tu hate bahi dhari</s>
+	<s>chahun jebe pheri pheri</s>
+	<s>rati sara bhabi soi hue na</s>
+</lyrics>

@@ -1,0 +1,59 @@
+<Song ID>142</Song ID>
+<Title>tofa chandini re jebe laguthila</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & aseema panda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>asad nizam</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>tapu nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>k.murali krishna</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>adikanda sahu</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>tofa chandini re jebe laguthila</s>
+	<s>to dehe gerua ranga</s>
+	<s>sahari ei mana to gaan pabana re</s>
+	<s>shayari toluthila to mitha sapana re</s>
+	<s>prema aakashe hasuthila megha</s>
+	<s>tofa chandini re jebe bajuthila</s>
+	<s>mo pade paunji aaga</s>
+	<s>tofa chandini re jebe bajuthila</s>
+	<s>mo pade paunji aaga</s>
+	<s>rupeli otha dhare to naa sabada re</s>
+	<s>mahaka bharuthila to nua darada re</s>
+	<s>prema aakashe hasuthila megha</s>
+	<s>tofa chandini re jebe laguthila</s>
+	<s>to dehe gerua ranga</s>
+	<s>dari dari jebe mote chanhuthilu</s>
+	<s>laje laje jali sari jauthilu</s>
+	<s>dari dari jebe mote chanhuthilu</s>
+	<s>laje laje jali sari jauthilu</s>
+	<s>dara laguthila kale kea dekhi</s>
+	<s>ghare kahidaba hei raja sakhi</s>
+	<s>luchile ei prema se kn luchi pare</s>
+	<s>sahaje dhara pade e katha duniya re</s>
+	<s>kea chhatila deha sara ranga</s>
+	<s>tofa chandini re jebe laguthila</s>
+	<s>to dehe gerua ranga</s>
+	<s>tofa chandini re jebe bajuthila</s>
+	<s>mo pade paunji aaga</s>
+	<s>mana nei mora thaki debu nahin</s>
+	<s>katha jebe delu deha mora chhuin</s>
+	<s>mana nei mora thaki debu nahin</s>
+	<s>katha jebe delu deha mora chhuin</s>
+	<s>munha sanja bele rana dei kahe</s>
+	<s>nei jibi aadi tate bhala pae</s>
+	<s>nahuli nai pari mo mana bahi kar</s>
+	<s>chagali fula pari mo deha basuthae</s>
+	<s>jhurimaruchhi neijaa aaga</s>
+	<s>tofa chandini re jebe laguthila</s>
+	<s>to dehe gerua ranga</s>
+	<s>tofa chandini re jebe bajuthila</s>
+	<s>mo pade paunji aaga</s>
+	<s></s>
+</lyrics>

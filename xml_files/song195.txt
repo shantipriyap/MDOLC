@@ -1,0 +1,46 @@
+<Song ID>195</Song ID>
+<Title>kuhuli kuhuli jaluchhe nia</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>ashish kumbhar & anamika acharya</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>trisul bhanja</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>bibhu das</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>manoj singh</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>husen</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>a nab chhaeli chikni gali</s>
+	<s>mukla bale gajra mali</s>
+	<s>karti tate sangar juli</s>
+	<s>gija gini khinki khita, deidere tor nam pata</s>
+	<s>a rasiya tupi bala, bina chabir khulsu tala</s>
+	<s>pindhami tate baran mala</s>
+	<s>gija gini khinki khita</s>
+	<s>deidere tor nam pata</s>
+	<s>ken parare achhe guri</s>
+	<s>kahata tar ghara re kahata tar ghara</s>
+	<s>e sahare naina kehi</s>
+	<s>tor lekhe sundara ga tor lekhe sundara</s>
+	<s>rup raijar pari re kia heba tor sari</s>
+	<s>chali ta tor sulha ana hasi chauda bhari</s>
+	<s>tak dul dul bajle baja</s>
+	<s>lagsi tate nura khuja</s>
+	<s>jahin thile mor manar raja</s>
+	<s>gija gini khinki khita</s>
+	<s>deidere tor nam pata</s>
+	<s>kain mahani lagei delu</s>
+	<s>mailu kain mantara re mailu kain mantara</s>
+	<s>han chhadi deli na aran pani rasiya jadugara</s>
+	<s>lagsi baye baye re nai dekhle ghai</s>
+	<s>haye lagsi matere dekhikari tor chhai</s>
+	<s>kuhuli kuhuli jaluchhe nia</s>
+	<s>mui bar hele tui kania</s>
+	<s>jali gale jali jau dunia</s>
+	<s>gija gini khinki khita deidere tor nam pata</s>
+</lyrics>

@@ -1,0 +1,81 @@
+<Song ID>170</Song ID>
+<Title>jen dinu pailu</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>not available</Singers>
+<Gender(Singer)>not available</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>he he he</s>
+	<s>kete aasha karithili tate</s>
+	<s>kaen helaja bhuligalu mate</s>
+	<s>tor lagi mui sabu chhadili</s>
+	<s>tui kaen helaje chhadi</s>
+	<s>galu mate mate mate mate</s>
+	<s>hethir lagi ta bujhasi bo natia</s>
+	<s>jen dinu pailu nani nua lovara</s>
+	<s>chiri delu phadi delu</s>
+	<s>re mor love letara</s>
+	<s>chiri delu phadi delu</s>
+	<s>go mor love letara</s>
+	<s>chiri delu phadi delu</s>
+	<s>phadi delu love letara</s>
+	<s>chiri delu phadi delu</s>
+	<s>go mor love letara</s>
+	<s>kharcha kari nai parili paisa patara</s>
+	<s>chiri delu phadi delu</s>
+	<s>phadi delu love letara</s>
+	<s>chiri delu phadi delu go mor love letara</s>
+	<s>bholi bhali thilu sat kahu</s>
+	<s>thillu hei galu tui michhei</s>
+	<s>kabat kune luki kandu thilu</s>
+	<s>dhana mor katha ke hetei</s>
+	<s>bholi bhali thilu sat kahu</s>
+	<s>thillu hei galu tui michhei</s>
+	<s>kabat kune luki kandu thilu</s>
+	<s>dhana mor katha ke hetei</s>
+	<s>tor hero nu mui ta</s>
+	<s>achhen ta besi sundara</s>
+	<s>delete kari delu kaenje mobile numbara</s>
+	<s>chiri delu phadi delu</s>
+	<s>chiri delu love letara</s>
+	<s>chiri delu phadi delu</s>
+	<s>go mor love love letara</s>
+	<s>chiri delu phadi delu</s>
+	<s>go mor love love letara</s>
+	<s>chiri chiri chiri phadi delu love letara</s>
+	<s>biha nai hele bhagi jima bali</s>
+	<s>kari thilu tui kiriaa</s>
+	<s>abhe lukaar aage gali deu thisu</s>
+	<s>mui pare gute michhua</s>
+	<s>biha nai hele bhagi jima bali</s>
+	<s>kari thilu tui kiriaa</s>
+	<s>abhe lukaar aage gali deu thisu</s>
+	<s>mui pare gute michhua</s>
+	<s>mor bina kahuthilu khaeimi jahara</s>
+	<s>tor bahen ke baneithilu midiatara</s>
+	<s>chiri delu phadi delu re mor love letara</s>
+	<s>chiri delu phadi delu</s>
+	<s>go mor love love letara</s>
+	<s>jen dinu pailu nani nua lovara</s>
+	<s>chiri delu phadi delu</s>
+	<s>go mor love letara</s>
+	<s>chiri delu phadi delu</s>
+	<s>re mor love letara</s>
+	<s>chiri delu phadi delu</s>
+	<s>phadi delu love letara</s>
+	<s>chiri delu phadi delu</s>
+	<s>go mor love letara</s>
+	<s>chiri delu phadi delu</s>
+	<s>phadi delu love letara</s>
+	<s>chiri delu phadi delu go mor love letara</s>
+</lyrics>

@@ -1,0 +1,30 @@
+<Song ID>121</Song ID>
+<Title>sapana sagare prema boita re kahaku ba khoju thaye</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>not available</Singers>
+<Gender(Singer)>not available</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>	not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>sapana sagare prema boita re kahaku ba khoju thaye</s>
+	<s>niti asu taye sata daria ru kiye jane  kahein jaye</s>
+	<s>ati niraba re kaha paein puni eka eka gita gaye</s>
+	<s>mu benami banika tiye, mu benami  bnika tiye</s>
+	<s>tuma nila akhi ayina ra nilima,ethi nila sagara</s>
+	<s>tuma nali othuu jhare jeun mukuta ethi ta ganta ghara</s>
+	<s>mukuta sejare soi nilima re bhasi mote mo kahani kuhe</s>
+	<s>mu benami banika tiye,mu benami banika tiye</s>
+	<s>tuma esara re jharu thila phaguna bhangi sabu alasa</s>
+	<s>ebe akhiru jharu chi mo shrabana pee sabu harasa</s>
+	<s>shrabana re bhiji phaguna ku khoje ejibana sesa jaein</s>
+	<s>mu benami banika tiye, mu benami banika tiye</s>
+</lyrics>

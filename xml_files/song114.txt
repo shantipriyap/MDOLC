@@ -1,0 +1,44 @@
+<Song ID>114</Song ID>
+<Title>suneli suneli khara toh muhan sara</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>sonu nigam</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>deepak kumar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>debdas chhotray</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>suneli suneli khara toh muhan sara</s>
+	<s>kebe disu golapi tu kebe disu gora</s>
+	<s>toh othoru  jhari pade hasa chuna chuna</s>
+	<s>toh aakhi  mo aaina</s>
+	<s>mate toh udei nie pabana jhulana</s>
+	<s>phula pindhei die mo dehe gohana</s>
+	<s>tume mo paakhe thile mu kichi chahena</s>
+	<s>jete mun janichi tate</s>
+	<s>setiki tanuchu mate</s>
+	<s>hatare dharichu sate reshami dori</s>
+	<s>doso nuhe eka mora</s>
+	<s>tume bi to jadu goro</s>
+	<s>tume toh karicha mate mo pakhu chori</s>
+	<s>sabu kichi uthe jii tume dele chuin</s>
+	<s>patara sabuja hue bhari jaaie noi</s>
+	<s>mane mane nachhi jaie mo mana maina</s>
+	<s>pabana jauchi bahi</s>
+	<s>taa mana ra mahu machhi dakiba payin</s>
+	<s>mu bi baschi athi</s>
+	<s>toh chahani chora chiti</s>
+	<s>mo dui hatare dhari padhiba payin</s>
+	<s>oo tume dele chuin laage</s>
+	<s>bhala khali bhala</s>
+	<s>katha kahe phula gachha</s>
+	<s>hasidiye phula</s>
+	<s>khali khali lage ethi sabu tuma bina</s>
+</lyrics>

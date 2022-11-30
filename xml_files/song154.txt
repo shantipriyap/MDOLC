@@ -1,0 +1,68 @@
+<Song ID>154</Song ID>
+<Title>nuakhai asichhe priya</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>prakash jal</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>hemanta kathar & brundaban meher</Music Director>
+<Gender(Music Director)>male & male</Gender(Music Director)>
+<Lyrics Author>khage bandichor</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>baraske thare aasichhe bhai</s>
+	<s>aamar nuakhai</s>
+	<s>baras jakar hasi khusi milan heba aaech bhai</s>
+	<s>baraske thare aasichhe bhai</s>
+	<s>aamar nuakhai</s>
+	<s>baras jakar hasi khusi milan heba aaech bhai</s>
+	<s>kure patare nuan chihira</s>
+	<s>bhab biswas milan bhara</s>
+	<s>kure patare nuan chihira</s>
+	<s>bhab biswas milan bhara</s>
+	<s>bhab dia nia aamar parampara</s>
+	<s>nuakhai aasichhe priya</s>
+	<s>chali aa aa aa</s>
+	<s>gute thane khaima nuan</s>
+	<s>dekhi aa aa aa</s>
+	<s>ganesh puja dekhi mudia mari</s>
+	<s>panchami dine lo aame</s>
+	<s>sange nua kahima dhana</s>
+	<s>ho jete dukh thile b thau sabu bhuli</s>
+	<s>e para se para ke lo</s>
+	<s>juhar hema hei bandhana</s>
+	<s>nuakhai nua sabke juhara</s>
+	<s>jaldi jaldi jima gharu bahara</s>
+	<s>nuakhai nua sabke juhara</s>
+	<s>jaldi jaldi jima gharu bahara</s>
+	<s>e nua luga kapda pindhi jima chala</s>
+	<s>nuakhai aasichhe priya</s>
+	<s>chali aa aa aa</s>
+	<s>gute thane khaima nuan</s>
+	<s>dekhi aa aa aa</s>
+	<s>paschhim odishar e parab</s>
+	<s>ghare ghare janichhan aamar nuakhai</s>
+	<s>mili misi rahema bhai</s>
+	<s>ho</s>
+	<s>juga juga itihase lekha thiba</s>
+	<s>aamar ie sate parampara</s>
+	<s>thiba jete din jan tara</s>
+	<s>gan gan nu sabu jete sahara</s>
+	<s>gauthibe nuakhai gita sura</s>
+	<s>gan gan nu sabu jete sahara</s>
+	<s>gauthibe nuakhai gita sura</s>
+	<s>pitha pana khaima chala jaldi bahara</s>
+	<s>nuakhai aasichhe priya</s>
+	<s>chali aa aa aa</s>
+	<s>gute thane khaima nuan</s>
+	<s>dekhi aa aa aa</s>
+	<s>nuakhai aasichhe priya</s>
+	<s>chali aa aa aa</s>
+	<s>gute thane khaima nuan</s>
+	<s>dekhi aa aa aa</s>
+</lyrics>

@@ -1,0 +1,66 @@
+<Song ID>165</Song ID>
+<Title>tui mor nua dunia</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>kundal ku chhura</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>udhaba naik & kunta bag</Music Director>
+<Gender(Music Director)>male & male</Gender(Music Director)>
+<Lyrics Author>surath jani</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>dharma singh jani & chandini jani</Producer>
+<Gender(Producer)>male & female</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>mere ankho ki nind ban gaye ho tum</s>
+	<s>mere hontho ki hansi ban gaye ho tum</s>
+	<s>mee sansho ki sansh ban gaye ho tum</s>
+	<s>mere jine ki dawa ban gaye ho tum</s>
+	<s>tumhare hone se dhadka ta he dil</s>
+	<s>na hone se rukjata hai</s>
+	<s>mere mere jine ki wajah sirf tum ho</s>
+	<s>tui dhana re mor nua dunia</s>
+	<s>tui eka mor jiban sathia</s>
+	<s>tui dhana re mor nua dunia</s>
+	<s>tui eka mor jiban sathia</s>
+	<s>tui dhana re mor nua dunia</s>
+	<s>tui eka mor jiban sathia</s>
+	<s>tui nai bujhi paru chu</s>
+	<s>nai jani paru chu</s>
+	<s>mor baki jinndegi tor sange bitami</s>
+	<s>bhagban pakhe mange duaaa</s>
+	<s>aashiq banei delu mate dhire dhire sathi</s>
+	<s>awsome tor cehera dhana gale male mali</s>
+	<s>aashiq banei delu mate dhire dhire sathi</s>
+	<s>awsome tor cehera dhana gale male malii</s>
+	<s>e jamin ru asman tak tarif karuthibe ga tor</s>
+	<s>tor pakhe ga dil wala chanhu thiba</s>
+	<s>jiban sara tui suna tui khali mor</s>
+	<s>tui suna tui khali mor</s>
+	<s>tate kie dekhle sathi tar aaenkh ke demi phutei</s>
+	<s>jigar bala himat wala tor pyar thi mental hela</s>
+	<s>aage pache thimi mui chaeen re tor aage pache thimi mui chaeen</s>
+	<s>sarmili ankho wali mera nindia le gai</s>
+	<s>adhiraton mai tu mera dil le gayi</s>
+	<s>tor nena churala re chaina</s>
+	<s>dil kya kare jab kisi ko kisi se pyar ho jae</s>
+	<s>jane kanha kab kisi ko kisi se pyar ho jae</s>
+	<s>ooo ooo ooo ooo</s>
+	<s>tor sang paele sanam,sarthak heba mor jiban</s>
+	<s>jane jana gelhei suna dil aae mor aashiyaana</s>
+	<s>sange bitami janam re tor sange bitami janam</s>
+	<s>tor mitha pirati ra khayal dil ke mor karu che sawal</s>
+	<s>phule phule lade gele basi thima bedi sale</s>
+	<s>dhadku thiba re dhadkan lo amar dhadku thiba dhadkan</s>
+	<s>dil thila re banjara tui delu re sahara</s>
+	<s>dil thila re banjara tui delu re sahara</s>
+	<s>tor hant k dhari mui sange chaluu thimi</s>
+	<s>promise karu che re priya</s>
+	<s>kashiq banei delu mate dhire dhire sathi</s>
+	<s>awsome tor cehera dhana gale male mali</s>
+	<s>aashiq banei delu mate dhire dhire sathi</s>
+	<s>awsome tor cehera dhana gale male malii</s>
+</lyrics>

@@ -1,0 +1,40 @@
+<Song ID>112</Song ID>
+<Title>alata sindura sankha</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>mohammad aziz</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>alata sindura sankha</s>
+	<s>aajithu toh payin tini lakhman rekha</s>
+	<s>suna bhauni lo mo suna bhauni</s>
+	<s>pade katha mora bhuli jibuni</s>
+	<s>bhaghra jiha payin</s>
+	<s>bhai bhauni thilu aame tolo upara</s>
+	<s>gate pakhi ro thilu aame duiti poro</s>
+	<s>a ghara dekhichi pila dino aamoro</s>
+	<s>agona dekhichi dhuli khelo aamoro</s>
+	<s>di aakhire dui dharo</s>
+	<s>jamuna ganga se ganga re bhasi jaaie kagojo danga</s>
+	<s>se ganga re bhasi jaaie kagojo danga</s>
+	<s>hato ganthi padi gale kie jaane kebe aau haba lo dekha</s>
+	<s>mate deichu ete sukha kebe kandini</s>
+	<s>fulo re chalichi mu kebe kanta madini</s>
+	<s>mate deichu ete sukha kebe kandini</s>
+	<s>tu bapo tu mo bau aei mo bapo ghara</s>
+	<s>toh choda kie achhi a dunia re moro</s>
+	<s>jhia bida karuchu tu bapa maa saaji</s>
+	<s>pado dhuli nei toro jauchi aaji</s>
+	<s>jiban re sukha dukha bhogibaku haba jaha</s>
+	<s>kapile lekha</s>
+</lyrics>

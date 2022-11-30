@@ -1,0 +1,39 @@
+<Song ID>113</Song ID>
+<Title>tu mo akhira tara</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>ira mohanty</Singers>
+<Gender(Singer)>female</Gender(Singer)>
+<Music Director>malaya mishra</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>sanjay nayak</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>pramod kumar swain</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>tu kotie motire mo gotie hira</s>
+	<s>tu mo dukha ratirre ro sukh asara</s>
+	<s>asure barasa asure khara</s>
+	<s>bato hau jete kanta bhara</s>
+	<s>maa ro panata sato ghera hoi rahibo toh deho sara re</s>
+	<s>tu mo akhira tara</s>
+	<s>kolo aganaare tu kala kanhei</s>
+	<s>peto puri jaie tate anei</s>
+	<s>pade katha kahhidele tu khnei</s>
+	<s>rankuni ghare mo jhare rupa punei</s>
+	<s>karithili kete puniya para</s>
+	<s>mo bahu dolire delu dhara</s>
+	<s>jete jhuleile mono bujhu nahi</s>
+	<s>mo dino rati adhura</s>
+	<s>noi sukhi gale kande nauri mana</s>
+	<s>toh muha sukhile kaande mo jibono</s>
+	<s>duniya kahile kahu kansa pitolo</s>
+	<s>tu mora khanti suna gola ro malo</s>
+	<s>surajo nasudino sara</s>
+	<s>ratire nathau janha tara</s>
+	<s>maaa ro ashiso rasaani heiki rahibo toh bato sara</s>
+</lyrics>

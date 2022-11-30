@@ -1,0 +1,37 @@
+<Song ID>127</Song ID>
+<Title>chupi chupi mane mane ase jiye momana re</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>imran & kheya</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>sudip kumar dip</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>chupi chupi mane mane ase jiye momana re</s>
+	<s>aaji mu janili siye tu,siye tu</s>
+	<s>han luchi luchi bele bele ase jiye eakhai re</s>
+	<s>aaji mu janili siye tu,siye tu siye tu</s>
+	<s>kichi mitha katha thila seyi katha geeta hela</s>
+	<s>se geeta ra sura helu tu,siye tu,</s>
+	<s>mana thila jaja bara bata thila dura</s>
+	<s>chali mo hata dhari sathi tiye hoyi</s>
+	<s>han chalu chalu pada gani  parilini jani</s>
+	<s>kebe tu jayichu ete nizara mo hoyi</s>
+	<s>ho emiti laguchi mote bhala payi aaji tate</s>
+	<s>kichi dina jein jibi mu,siye tu,</s>
+	<s>mana moro khaju thila pagala bhanra</s>
+	<s>bata chahein basi thili phoola tiye hoyi</s>
+	<s>ho duniare emitika nahein ta sikuli</s>
+	<s>padma tharu bhanra ku rakhiba dureyi</s>
+	<s>ho mahu barasare bhiji pagala premika saji</s>
+	<s>mo kolo re soyi thibu tu,</s>
+	<s>siye tu</s>
+</lyrics>

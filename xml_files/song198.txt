@@ -1,0 +1,39 @@
+<Song ID>198</Song ID>
+<Title>kandala mate ishq tera</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>jasobanta and deepa</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>mantu sagar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>sarat budek</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>purna chandra negi</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>tor lagi jhare akhir dhara ho ho ho  ho</s>
+	<s>aau kie heba mor sahara ho ho ho ho</s>
+	<s>he manija bujhija sathiya phiriaa</s>
+	<s>kandala mate ishq tera rulala mate ishq tera satala mate ishq tera ho sathiya</s>
+	<s>bholi bhali chehera dekhi love kali je tate</s>
+	<s>rahigalu ken sahare nuruchhe re kete</s>
+	<s>sate kana nai asu ke satasu je ete</s>
+	<s>bhal tofa delu mate jiban sara</s>
+	<s>kandala mate ishq tera rulala mate ishq tera satala mate ishq tera ho sathiya</s>
+	<s>ho begunah premi ke bekhatir karidelu</s>
+	<s>bepanah pyar mor thokar mari palei galu</s>
+	<s>wada kari intezaar karei thilu</s>
+	<s>ulti bi nai dekhi muhu mudi chali galu</s>
+	<s>he manija bujhija sathiya phiriaa</s>
+	<s>kandala mate ishq tera rulala mate ishq tera satala mate ishq tera ho sathiya</s>
+	<s>ho jhumura nai lage tor katha bhabi dele</s>
+	<s>tathapi takichhe aaebu re jebhe hele</s>
+	<s>ho aawara deewana pagal tor sabu bele</s>
+	<s>dakuchhe phiriaa dekha de tike hele</s>
+	<s>he manija bujhija sathiya phiriaa</s>
+	<s>kandala mate ishq tera rulala mate ishq tera satala mate ishq tera ho sathiya</s>
+</lyrics>

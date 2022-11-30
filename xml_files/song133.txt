@@ -1,0 +1,40 @@
+<Song ID>133</Song ID>
+<Title>e mana mo mana re mana mo mana</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>japani</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>pramod parida</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>e mana mo mana re mana mo mana</s>
+	<s>kain dinare dekhuchu suna sapana</s>
+	<s>e mana mo mana re mana mo mana</s>
+	<s>kahin uansee khojuchhu punei janha</s>
+	<s>pheri gala jie pheri baku aau</s>
+	<s>nahni ta mana</s>
+	<s>e mana mo mana re mana mo mana</s>
+	<s>bhari saralia bhari tu niriha luchi luchi kain piuchu luha</s>
+	<s>ho bhari bei mani bhari se nirdaya</s>
+	<s>bhangi dei gala ta, hrudaya</s>
+	<s>bhuli gala jie buli chahnibaku</s>
+	<s>nahni ta mana</s>
+	<s>e mana mo mana re mana mo mana</s>
+	<s>kahniki ete tu pauchu re bhala</s>
+	<s>sie ki bujhiba ta prema mula</s>
+	<s>ho oo oo</s>
+	<s>swartha sari gale kie ba kahara madhu</s>
+	<s>sala ethi ekaa mo nijara</s>
+	<s>bhulijare taku swarthapara siye</s>
+	<s>e mana mo mana re mana mo mana</s>
+	<s>to mana to mana to mana to mana</s>
+	<s></s>
+</lyrics>

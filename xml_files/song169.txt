@@ -1,0 +1,78 @@
+<Song ID>169</Song ID>
+<Title>sambalpuri mahua</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>mantu chhuria</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>rehan kamal & mantu chhuria</Music Director>
+<Gender(Music Director)>male & male</Gender(Music Director)>
+<Lyrics Author>amulya dansana</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>ramprashad chhuria</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>hey he he a aamku samal matir chhua</s>
+	<s>kahesan dunia</s>
+	<s>mahua man</s>
+	<s>katha re aame sambalpuria</s>
+	<s>jhum jhum jhumei desu</s>
+	<s>hey</s>
+	<s>aame sara dunia</s>
+	<s>loov loov loobhei desu</s>
+	<s>aame mahani dia</s>
+	<s>bhulei desu gaanar sure re</s>
+	<s>nachei desu bajar tale re</s>
+	<s>lagsu aame sabku re badhia, badhia, badhia</s>
+	<s>hey ae</s>
+	<s>aame sambalpuria</s>
+	<s>hey ae</s>
+	<s>aame sambalpuria</s>
+	<s>nadi amar mahanadir jhare hira moti</s>
+	<s>samlei gudi huma dhama des bides re kirti</s>
+	<s>sundri nanir dhalia khusa beke gajar mali</s>
+	<s>kane jhupa nake dali payeba kene dekhi</s>
+	<s>mahani paka gamcha amar saptapar saree</s>
+	<s>pindhle budha chakachak sundri lagsi budhi</s>
+	<s>bara mase tera parab dekhta badhi badhi</s>
+	<s>samalpuria chalsu sate mecha mudi mudi</s>
+	<s>chumku chuma anta malka</s>
+	<s>sundri ankhi kahesi katha</s>
+	<s>payejhal cham cham lagsi mahani atha</s>
+	<s>raja amar baja aae dulduli baja</s>
+	<s>kindri kindri nachle lagsi maja</s>
+	<s>kahanri jayesu ame re</s>
+	<s>hei faguna dhuka</s>
+	<s>ame ta samalpuria</s>
+	<s>man ta amar sachha</s>
+	<s>kenu payeba amar lekhe re</s>
+	<s>khusir milan samkar sange re</s>
+	<s>kete sundar aamar dunia dunia dunia</s>
+	<s>hey ae</s>
+	<s>aame sambalpuria</s>
+	<s>hey ae</s>
+	<s>aame sambalpuria</s>
+	<s>heaaaaaa heaaaaaa</s>
+	<s>manr bhabna amar gute</s>
+	<s>akhir sapan amar gute</s>
+	<s>matir lagi garab karsu kete</s>
+	<s>par nae karu kahake</s>
+	<s>ame prem thi bandhsu sabke</s>
+	<s>sarag lekhe dharti amar sate</s>
+	<s>amar range range rangei desu</s>
+	<s>ame rang rangia</s>
+	<s>ame jhal mal jhalsu thisu</s>
+	<s>hei jana gunia</s>
+	<s>ame ta mahanar raja re</s>
+	<s>nae pade amku khuja</s>
+	<s>jenu khujle ame thia hey thia re thia</s>
+	<s>hey ae</s>
+	<s>ame samalpuria</s>
+	<s>hey ae</s>
+	<s>ame samalpuria</s>
+	<s>hey ae</s>
+	<s>ame samalpuriaaaa</s>
+</lyrics>

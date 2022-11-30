@@ -1,0 +1,58 @@
+<Song ID>197</Song ID>
+<Title>suru anta lamba beni</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>prakash jal</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>hemanta kathar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>bijay kumar sahish</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>narayan raut</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>suru anta lamba beni tumar dhana suru anta lamba beni</s>
+	<s>pade paejala bale maliphula</s>
+	<s>benir majhi khuchichha khirpini ho sanga gelhei rani</s>
+	<s>gadhe demi hira mudar pani a gadhe demi hira mudar pani ho sanga gelhei rani</s>
+	<s>chutku chuta henua kurta magur machhar mudi</s>
+	<s>nai rahe mui ghar juen tar aeba parsamudi</s>
+	<s>kali pindhithila terikat sadhi nai terikat sadhi go terikat sadhi</s>
+	<s>a phul padithila dhadi dhadi lalicha ada ilaichi</s>
+	<s>benir majhi khuchichha khirpini ho sanga gelhei rani</s>
+	<s>sarabana masar jhari barasa ne maruchhe kete bijuli</s>
+	<s>chhina chhina laguthisi dhanamali nai thile sangar juli</s>
+	<s>sarabana masar jhari barasa ne maruchhe kete bijuli</s>
+	<s>chhina chhina laguthisi dhanamali nai thile sangar juli</s>
+	<s>ball mela kari aele tame chali</s>
+	<s>baal mela kari aele tame chali go</s>
+	<s>kaen sabun makhuachha tame ho sanga sargi danga</s>
+	<s>buli jima kali sundri dangar ho ho bulijima kali sundri dangar bijepur raj khariara</s>
+	<s>dekhei nemi chandan jatra chala ho dhana raj khariara</s>
+	<s>nua bandhar thanu tuli anidemi tate rani padam phula</s>
+	<s>mude khuchi kari mor sange dhana heuthibu lada gela gela gela</s>
+	<s>nua bandhar thanu tuli ani demi tate rani padam phula</s>
+	<s>mude khuchi kari mor sange dhana heuthibu lada gela go</s>
+	<s>ajay phal dukanu angur ghini demi</s>
+	<s>ajay phal dukanu angur ghini demi tamku</s>
+	<s>tui khauthibu bhukar bele sajani gubha mandara</s>
+	<s>maridelu tui piratir sara a mari delu tui piratir sara mor rani gubha mandara</s>
+	<s>suru anta lamba beni tumar go dhana gubha mandara</s>
+	<s>suru anta lamba beni tumar dhana suru anta lamba beni</s>
+	<s>pade paejala bale maliphula</s>
+	<s>benir majhi khuchichha khirpini ho sanga gelhei rani</s>
+	<s>gadhe demi hira mudar pani a gadhe demi hira mudar pani ho sanga gelhei rani</s>
+	<s>gadhe demi hira mudar pani ho sanga gelhei rani</s>
+	<s>chutku chuta henua kuta magur machhar mudi</s>
+	<s>nai rahe mui ghar juen tar aeba parsamudi</s>
+	<s>kali pindhithila terikat sadhi nai terikat sadhi go terikat sadhi</s>
+	<s>a phul padithila dhadi dhadi lalicha ada ilaichi...</s>
+	<s>dekhei nemi chandan jatra chala ho dhana raj khariara</s>
+	<s>maridelu tui piratir sara mor dhana gubha mandara</s>
+	<s>kaen sabun makhuachha tume ho sanga sargi danga</s>
+	<s>benir majhi khuchichha khirpini ho sanga gelhei rani</s>
+</lyrics>

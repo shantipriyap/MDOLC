@@ -1,0 +1,84 @@
+<Song ID>161</Song ID>
+<Title>a mor pardesi babu</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>sanjukta nag tandi & umakanta barik</Singers>
+<Gender(Singer)>female & male</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>ananta bag</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>sanjukta nag tandi</Producer>
+<Gender(Producer)>female</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>a mor pardesi babu</s>
+	<s>a mor gaon ki chori</s>
+	<s>a mor pardesi babu</s>
+	<s>a mor gaon ki chori</s>
+	<s>a mor pardesi babu</s>
+	<s>tor familly mate banalu</s>
+	<s>a mor pardesi babu</s>
+	<s>tor familly mate banalu</s>
+	<s>akhir tor maksat pura kalu</s>
+	<s>chumbak lekhe mate tani nelu</s>
+	<s>akhir tor maksat pura kalu</s>
+	<s>chumbak lekhe mate tani nelu</s>
+	<s>babu pardesi nai kaha besi</s>
+	<s>mor thanu mate churalu</s>
+	<s>a mor gaon ki chori</s>
+	<s>tui no doubt nijar hei galu</s>
+	<s>a mor pardesi babu</s>
+	<s>tui handshek ru husband helu</s>
+	<s>part one thi mana kari pyar kali feel</s>
+	<s>part two thi sorry kahi sapideli dil</s>
+	<s>part one thi mana kari pyar kali feel</s>
+	<s>part two thi sorry kahi sapideli dil</s>
+	<s>bhal paai kari kebe nai dari</s>
+	<s>hetir lagi mate paelu</s>
+	<s>a mor gaon ki chori familly bani galu</s>
+	<s>a mor pardesi babu</s>
+	<s>tor better half mate banalu</s>
+	<s>sukhe bi tor dukhe bi tor</s>
+	<s>sabu bele sange thimi</s>
+	<s>by chance kebe tension hele</s>
+	<s>tor hansi dekhi hansi demi</s>
+	<s>dunia sara charcha hela</s>
+	<s>jendinu tumar mui heli</s>
+	<s>hetir lagi ta pher ghae thare mui</s>
+	<s>pardesi babu banali</s>
+	<s>kanli ganr tukel boli kete hansi chen</s>
+	<s>hansi hansi sesh ke mui rasi jaai chen</s>
+	<s>kanli ganr tukel boli kete hansi chen</s>
+	<s>hansi hansi sesh ke mui rasi jaai chen</s>
+	<s>gute janam nuhe janam janam dunhe</s>
+	<s>katha dei katha rakhlu</s>
+	<s>a mor gaon ki chori familly bani galu</s>
+	<s>a mor gaon ki chori familly bani galu</s>
+	<s>a mor pardesi babu</s>
+	<s>tor better half mate banalu</s>
+	<s>upar bala jutei dela</s>
+	<s>kismat thi mui tor thili</s>
+	<s>chati tale sabu bele</s>
+	<s>dhadkan kari rakhi deli</s>
+	<s>tumar kule sui kari</s>
+	<s>jiban sara hansu thimi</s>
+	<s>mathar bindi mor chamku thiba</s>
+	<s>bhagban thane dip jalami</s>
+	<s>a mor pardesi babu go kahi</s>
+	<s>i love u kahi de j sunmi ghae mui</s>
+	<s>a mor pardesi babu go kahi</s>
+	<s>i love u kahi de j sunmi ghae mui</s>
+	<s>tate nuri nuri kete kandi kari</s>
+	<s>bada dukhe mor helu</s>
+	<s>a mor gaon ki chori</s>
+	<s>tui no doubt nijar hei galu</s>
+	<s>a mor pardesi babu</s>
+	<s>my heart is beating for you</s>
+	<s>a mor gaon ki chori familly bani galu</s>
+	<s>a mor pardesi babu</s>
+	<s>this life is belongs to you</s>
+</lyrics>

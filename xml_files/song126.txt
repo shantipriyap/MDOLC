@@ -1,0 +1,49 @@
+<Song ID>126</Song ID>
+<Title>gala re lagi gala ranga dhire dhire</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>sourin & nivedita</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>bikas das</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>bapu goswami</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>sudhanshu mohan sahu</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>sitaram agrawal</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>gala re lagi gala ranga dhire dhire</s>
+	<s>lagei delu aare prema re</s>
+	<s>gala re bhiji gala basna dhire dhire</s>
+	<s>bhijei delu aare prema re</s>
+	<s>to rupa re aaji mu diwana</s>
+	<s>to hasa re aaji mu dwani</s>
+	<s>thare aasi chuein jaa re</s>
+	<s>prema re prema re, prema re prema re</s>
+	<s>dhire dhire jebanare moro aasilu</s>
+	<s>dhire dhire sapana re dekha tu delu</s>
+	<s>mo priya re,mo priya re</s>
+	<s>dhire dhire hrudaya re jaga kinilu</s>
+	<s>dhire dhire etaa thoei ghara tolilu</s>
+	<s>mo sathi re, mo sathi re</s>
+	<s>tu sajilu mo mana masuka</s>
+	<s>ha tu para mote mo samuka</s>
+	<s>thare mana nai jaa re</s>
+	<s>prema re prema re, m- prema re prema re</s>
+	<s>dhire dhire sata range suruja helu</s>
+	<s>dhire dhire mitha mitha daraja delu</s>
+	<s>mo sathi re mo sathi re</s>
+	<s>dhire dhire phulaka re phulei helu</s>
+	<s>dhire dhire to hasa re bhulei delu</s>
+	<s>mo priya re mo priya re</s>
+	<s>to khara dina chita khara re</s>
+	<s>mu sajibi  pani topa re</s>
+	<s>thare asi bahi jaa re</s>
+	<s>han prema re prema re</s>
+	<s>prema re prema re</s>
+	<s></s>
+	<s></s>
+</lyrics>

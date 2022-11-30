@@ -1,0 +1,41 @@
+<Song ID>106</Song ID>
+<Title>bhijei dei jaa thare</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>human sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>asad nizam</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>arun mantri</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>bhijei dei jaa thare</s>
+	<s>priya ta pramo barshare</s>
+	<s>aaji ea saradunia jolile jolu irshare</s>
+	<s>tote chanhi</s>
+	<s>soi nahi</s>
+	<s>mu kali ratire</s>
+	<s>oo tote chanhi</s>
+	<s>thaa poche jete dure</s>
+	<s>athare athare</s>
+	<s>tu nahu sobuta adha</s>
+	<s>bahudino hein adha</s>
+	<s>daro mora mu ta bina</s>
+	<s>mono maro sukhila mati</s>
+	<s>chita toro deija chati</s>
+	<s>koru kani tu bahana</s>
+	<s>eka eka lage eka ta bina sathire</s>
+	<s>aaji ea saradunia jolile jolu irshare</s>
+	<s>tu thore asibu boli</s>
+	<s>mote asi dakibu boli</s>
+	<s>khola achi mo jharoka</s>
+	<s>kohe ashi sharbon rutu</s>
+	<s>mone kani rakhichu kintu</s>
+	<s>mote badhere adhika</s>
+</lyrics>

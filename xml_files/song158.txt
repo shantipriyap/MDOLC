@@ -1,0 +1,61 @@
+<Song ID>158</Song ID>
+<Title>dunia se tujhko chura ke</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>kundal k chhura & manvi</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>hemanta kathar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>muralidhar sagaria & nilakantha nayak</Lyrics Author>
+<Gender(Lyrics Author)>male & male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>independent</Gender(Producer)>
+<Movie_Album>2020</Movie_Album>
+<Year>nan</Year>
+<lyrics>
+	<s>o re mor jania re a mor jania re</s>
+	<s>tor lagi pagal bajha re</s>
+	<s>dunia se tujhko chura ke</s>
+	<s>rakhlunga dil mai chupa ke</s>
+	<s>dunia se tujhko chura ke</s>
+	<s>rakhlunga dil mai chupa ke</s>
+	<s>mor pyar raja re mor dil thi rahi ja</s>
+	<s>kete bhal paesu tui han mate kahi ja</s>
+	<s>mui tor diwani nadan re</s>
+	<s>a mor dil thi tor naa ache re</s>
+	<s>kanje tui nai bujhu re</s>
+	<s>dunia se tujhko chura ke</s>
+	<s>rakhlunga dil mai chupa ke</s>
+	<s>aamar e kahani sat kahuchen rani</s>
+	<s>tate kie dekhi dele aaeba sunami re</s>
+	<s>aaeba sunamii</s>
+	<s>sat kahu chen raja mor katha joumani</s>
+	<s>mor hate tui hat rakhi kar meherbani</s>
+	<s>kar meherbani</s>
+	<s>mor pyar raja re mor dil thi rahi ja</s>
+	<s>kete bhal paesu tui, han mate kahi ja</s>
+	<s>mui tor diwani nadan re</s>
+	<s>a mor dil thi tor naa ache re</s>
+	<s>kanje tui nai bujhu re</s>
+	<s>dunia se tujhko chura ke</s>
+	<s>rakhlunga dil mai chupa ke</s>
+	<s>tui hele raji chal jima dur bhagi</s>
+	<s>tui jadi sat debu jitijimi baji re</s>
+	<s>jitijimi baji</s>
+	<s>dil deichen tate mor jann dei demi</s>
+	<s>bhagban ke tor naa hate mor lekhami re</s>
+	<s>hate mor lekhami</s>
+	<s>mor pyar raja re mor dil thi rahi ja</s>
+	<s>kete bhal paesu tui han mate kahi ja</s>
+	<s>mui tor diwani nadan re</s>
+	<s>a mor dil thi tor naa ache re</s>
+	<s>kanje tui nai bujhu re</s>
+	<s>dunia se tujhko chura ke</s>
+	<s>rakhlunga dil mai chupa ke</s>
+	<s>a mor dil thi tor naa ache re</s>
+	<s>kanje tui nai bujhu re</s>
+	<s>dunia se tujhko chura ke</s>
+	<s>rakhlunga dil mai chupa ke</s>
+</lyrics>

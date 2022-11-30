@@ -1,0 +1,63 @@
+<Song ID>144</Song ID>
+<Title>tate ghichi nebe rasia pila</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>umakant barik & lipsa mohapatra</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>kumar pintu</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>aditya sahoo</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>rakesh & srinu</Director>
+<Gender(Director)>male & male</Gender(Director)>
+<Producer>tarang music</Producer>
+<Gender(Producer)>compant</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>are haldi makhi nai gadhbu guri re</s>
+	<s>tate ghichi nebe rasia pila</s>
+	<s>haldi makhi nai gadhbu</s>
+	<s>style besi nai marbu</s>
+	<s>haire mor kansi aenla hai</s>
+	<s>tate ghichi nebe ghichi nebe</s>
+	<s>ghichi nebe lo rasia pila</s>
+	<s>tate ghichi nebe lo rasia pila</s>
+	<s>he dhanupali tukel muin na monalisa</s>
+	<s>kachikali mor jawani itli sambar dosa</s>
+	<s>nain karbu mate hamela</s>
+	<s>chitki jibu re dhangara pila</s>
+	<s>chitki jibu re dhangara pila</s>
+	<s>he he</s>
+	<s>lal taha taha oth tor gulapi phul</s>
+	<s>rasabati dhana tui rasa mahul</s>
+	<s>dekhla dinu tate heichhen pagal</s>
+	<s>haire mor kansi amul</s>
+	<s>enta katha nain kahebu hai mor janu</s>
+	<s>mui tor lele tui mor majunu</s>
+	<s>tor lagi dewani dill ta mora</s>
+	<s>haire mor desi mahula</s>
+	<s>feshion besi nain karbu</s>
+	<s>gaja phul nain pindhbu</s>
+	<s>haire mor kansi aenla</s>
+	<s>tate ghichi nebe re rasia pila</s>
+	<s>tate ghichi nebe re rasia pila</s>
+	<s>are chitki jibu re dhangara pila</s>
+	<s>han chitki jibu re dhangara pila</s>
+	<s>he he</s>
+	<s>muin dewani tor lagi ore majnu</s>
+	<s>pyar ka mamala tui jama bujhunu</s>
+	<s>sapan dekhei tate rati dinu</s>
+	<s>jien nai pare to binu</s>
+	<s>he muin hemi tor raja guri tui mor rani</s>
+	<s>lagei dela dhana mate prem mahani</s>
+	<s>tor lagi pagal dill ta lo mor</s>
+	<s>hai re mor suna hirini</s>
+	<s>patli kamar latchki anta</s>
+	<s>lageidebi pyar chhita</s>
+	<s>nain karbu mate hamela</s>
+	<s>chitki jibu re dhangara pila</s>
+	<s>chitki jibu re dhangara pila</s>
+	<s>tate ghichi nebe lo rasia pila</s>
+	<s>chitki jibu re dhangara pila</s>
+</lyrics>

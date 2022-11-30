@@ -1,0 +1,96 @@
+<Song ID>150</Song ID>
+<Title>e mor bela sambalpuri</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>umakant barik</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>male</Producer>
+<Gender(Producer)>independent</Gender(Producer)>
+<Movie_Album>2009</Movie_Album>
+<Year>nan</Year>
+<lyrics>
+	<s>bela ru ru</s>
+	<s>he bela ru ru</s>
+	<s>a mor bela ru</s>
+	<s>he chik chik chik tor debri gala</s>
+	<s>chik chik chik tor bhujni gala</s>
+	<s>he chik chik chik tor debri gala</s>
+	<s>chik chik chik tor bhujni gala</s>
+	<s>tate dekhi aame helu pagala</s>
+	<s>a bela</s>
+	<s>ja ja ja</s>
+	<s>a mor bela re bela</s>
+	<s>kete heuchhu gela</s>
+	<s>hai go bela re bela</s>
+	<s>kete heuchhu gela</s>
+	<s>a chik chik chik tor debri gala</s>
+	<s>chik chik chik tor bhujni gala</s>
+	<s>tate dekhi aame helu pagala</s>
+	<s>a bela</s>
+	<s>ja ja ja</s>
+	<s>a mor bela re bela</s>
+	<s>kete heuchhu gela</s>
+	<s>hai go bela re bela</s>
+	<s>kete heuchhu gela</s>
+	<s>tike chahali nain hele</s>
+	<s>tor gali nain sunle</s>
+	<s>rati jhumra nain lage</s>
+	<s>hai re rati jhumra nain lage</s>
+	<s>rati jhumra nain lage hai go rati jhumra nain lage</s>
+	<s>huda huda rasia pila</s>
+	<s>adha tor pachaade</s>
+	<s>adha tor ta aage</s>
+	<s>hai re adha tor ta aage</s>
+	<s>mis mis kala lamba bala</s>
+	<s>jhil mil jhil mil jhalamala</s>
+	<s>mis mis kala lamba bala</s>
+	<s>jhil mil jhil mil jhalamala</s>
+	<s>tate dekhi aame helu pagala</s>
+	<s>a bela</s>
+	<s>ja ja ja</s>
+	<s>a mor bela re bela</s>
+	<s>kete heuchhu gela</s>
+	<s>hai go bela re bela</s>
+	<s>kete heuchhu gela</s>
+	<s>lala la</s>
+	<s>tike sundry achhu j</s>
+	<s>kete karsu futani</s>
+	<s>tui ta badhe siani</s>
+	<s>hai re tui ta badhe siani</s>
+	<s>tui ta badhe siani hai tui ta badhe siani</s>
+	<s>hai tor lagi aame nuhen</s>
+	<s>aamar lagi lo tui</s>
+	<s>ita janitha nani</s>
+	<s>hai re ita janitha nani</s>
+	<s>aamar katha hetei kari</s>
+	<s>heu thibu kala bala</s>
+	<s>aamar katha hetei kari</s>
+	<s>heu thibu kala bala</s>
+	<s>tate dekhi aame helu pagala</s>
+	<s>a bela</s>
+	<s>ja ja ja</s>
+	<s>a mor bela re bela</s>
+	<s>kete heuchhu gela</s>
+	<s>hai go bela re bela</s>
+	<s>kete heuchhu gela</s>
+	<s>he chik chik chik tor debri gala</s>
+	<s>chik chik chik tor bhujni gala</s>
+	<s>he chik chik chik tor debri gala</s>
+	<s>chik chik chik tor bhujni gala</s>
+	<s>tate dekhi aame helu pagala</s>
+	<s>a bela</s>
+	<s>ja ja ja</s>
+	<s>a mor bela re bela</s>
+	<s>kete heuchhu gela</s>
+	<s>hai go bela re bela</s>
+	<s>kete heuchhu gela</s>
+	<s>hai go bela re bela</s>
+	<s>kete heuchhu gela</s>
+	<s>ja ja ja</s>
+</lyrics>

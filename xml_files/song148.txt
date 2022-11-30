@@ -1,0 +1,79 @@
+<Song ID>148</Song ID>
+<Title>paro re paro e mor paro re paro</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>umakanta barik</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>bhakata prasad barik</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>hrusikesh naik</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>jaggu & bhakta</Director>
+<Gender(Director)>male & male</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>1990</Year>
+<lyrics>
+	<s>e nua paro aeichhe tar beheka beheka chali he</s>
+	<s>e only one beauty chal lovely tar style he</s>
+	<s>kahin jauchhu</s>
+	<s>kahin jauchhu tu guri taro taro</s>
+	<s>kahin jauchhu tu guri taro taro</s>
+	<s>paro re paro e mor paro re paro</s>
+	<s>paro re paro e mor paro re paro</s>
+	<s>tor chahani mahani misa</s>
+	<s>hai hai tor mulki hasa</s>
+	<s>tor chahani mahani misa</s>
+	<s>hai hai tor mulki hasa</s>
+	<s>e ajkel tukel mane na</s>
+	<s>style marte hen je marte hen je</s>
+	<s>athania marte hen</s>
+	<s>ar gute katha kahun</s>
+	<s>chehera pe mekap dalte hen je dalte hen je</s>
+	<s>pura pechpechatel dalte hen</s>
+	<s>nua paro aeichhe tar beheka beheka chali he</s>
+	<s>e only one beauty chal lovely tar style he</s>
+	<s>paro re paro e mor paro re paro</s>
+	<s>paro re paro e mor paro re paro</s>
+	<s>sundry dewnai gelhei sajani</s>
+	<s>kari desu re pagala</s>
+	<s>thare dekhi dele</s>
+	<s>aakhi jhuruthisi tor chehera jhalamala lo</s>
+	<s>e cham cham tar paijhala re…khan khan tar chudi</s>
+	<s>nain dekhela dhangara b ta deksi mudi mudi</s>
+	<s>hate khan khan khan</s>
+	<s>pade cham cham cham</s>
+	<s>tike chahare dei chadhei lekhe jaisi udi udi</s>
+	<s>tui hasle khil khilasi chaka muhun lusku lusa</s>
+	<s>tui hasle khil khilasi chaka muhun lusku lusa</s>
+	<s>e maar kiria baap ka maal nalia met e</s>
+	<s>e ladka mane ledki manku dekh ke</s>
+	<s>sukha bhata thi buhate hen je buhate hen je</s>
+	<s>ketni kete jhal</s>
+	<s>nua paro aeichhe tar beheka beheka chali he</s>
+	<s>e only one beauty chal lovely tar style he</s>
+	<s>paro re paro e mor paro re paro</s>
+	<s>paro re paro e mor paro re paro</s>
+	<s>michhe michhe tui karsu futani</s>
+	<s>hai hai re mor building bali</s>
+	<s>dine nain dine kahebu mate lo</s>
+	<s>tumar lagi maruchhen bali lo</s>
+	<s>e jhil mil tor nili nili nena nasili</s>
+	<s>jhim kalia badal lekhe eyebrow kajali</s>
+	<s>kebhe lachki kamaria kebhe tirchi najaria</s>
+	<s>aare sabu heart ke sabu dill ke</s>
+	<s>ghayal kare malmali</s>
+	<s>kajli akhi kajal misa</s>
+	<s>jie dekhle lagsi nisa</s>
+	<s>kajli akhi kajal misa</s>
+	<s>jie dekhle lagsi nisa</s>
+	<s>e pare mobile dharenga to jio</s>
+	<s>nain dharenga to maro</s>
+	<s>enta single single kete din ghumenga</s>
+	<s>kahake hele to pyar karo</s>
+	<s>go paro</s>
+	<s>nua paro aeichhe tar beheka beheka chali he</s>
+	<s>e only one beauty chal lovely tar style he</s>
+	<s>paro re paro e mor paro re paro</s>
+</lyrics>

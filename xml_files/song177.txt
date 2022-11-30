@@ -1,0 +1,56 @@
+<Song ID>177</Song ID>
+<Title>udigala udajahaja</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>madhab bhai</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>trisul bhanja</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>kittu bhai</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>manoj singh</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>ashok pradhan & abinash pradhan</Producer>
+<Gender(Producer)>male & male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>sundrimuhen tor kuanri laja</s>
+	<s>udigala udajahaja</s>
+	<s>kete hauchu lo sajhabajha</s>
+	<s>udigala udajahaja</s>
+	<s>a mor pyar bali pyar tk deija lo</s>
+	<s>dil bali dil tike deija</s>
+	<s>a mor pyar bali pyar tk deija lo</s>
+	<s>dil bali dil tike deija deija</s>
+	<s>pasu dekhee demi jahn mamu suruja</s>
+	<s>sundrimuhen tor kuanri laja</s>
+	<s>udigala udajahaja</s>
+	<s>kete hauchu lo sajhabajha</s>
+	<s>udigala udajahaja</s>
+	<s>kete usad hei dakuche lo mui</s>
+	<s>heu6e lo priya priya</s>
+	<s>selfie uthee tor hero mui</s>
+	<s>dekhuthitin sakalpua</s>
+	<s>ghagrabali smile tk deija lo</s>
+	<s>mehndi laga hate tor neija</s>
+	<s>lekhichen lo tate mui love letera</s>
+	<s>sundrimuhen tor kuanri laja</s>
+	<s>udigala udajahaja</s>
+	<s>kete hauchu lo sajhabajha</s>
+	<s>udigala udajahaja</s>
+	<s>tor hasi tiker lagi</s>
+	<s>tor khusi tiker lagi</s>
+	<s>joker mui bani jimi lo</s>
+	<s>gela hau thitin sapan dekhu thitin</s>
+	<s>tor kule suikari</s>
+	<s>baju thiba sambalpuri baja</s>
+	<s>tui ranii hele mui raja</s>
+	<s>baju thiba dhol nisan baja lo</s>
+	<s>tui rani hele mui raja raja</s>
+	<s>nei jimi sange dhana makhee sindura</s>
+	<s>sundrimuhen tor kuanri laja</s>
+	<s>udigala udajahaja</s>
+	<s>kete hauchu lo sajhabajha</s>
+	<s>udigala udajahaja</s>
+</lyrics>

@@ -1,0 +1,37 @@
+<Song ID>125</Song ID>
+<Title>mana huye jiba paein tama sathe bahu dure ho</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>babul supriyo</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>bikas das</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>satya ranjan das</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>sitaram agrawal</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>mana huye jiba paein tama sathe bahu dure ho</s>
+	<s>kehitata  nathibe chinhein kehi ta nathibe jani</s>
+	<s>aamo naa ki thikana puni,panibeni kehi jani</s>
+	<s>ho mana huye jiba paein tama sathe bahu dure</s>
+	<s>gaan ganda dhana bila sahara ku chadi</s>
+	<s>aage aage chali thiba puni aamo gadi</s>
+	<s>o kye kete dura bata jau thiba tara</s>
+	<s>aamo pare kaharibi nathiba najara</s>
+	<s>aamo jiba ra thikana puni paribeni kehi jani</s>
+	<s>ho mana huye jiba paein tama sathe bahu dure</s>
+	<s>gadi jayi lagi jiba ajana sahare</s>
+	<s>misi jiba ame puni manisa bhidare he</s>
+	<s>choto eka ghara heba sahara sesare</s>
+	<s>tama chada kehi aau nathibe pakhare</s>
+	<s>aama katha ki khabara puni, hy paribeni kehi jani</s>
+	<s>ho mana huye jiba paein tama sathe bahu dure</s>
+	<s>kehita nathibe chinhein kehita nathibe jani</s>
+	<s>aamo naa ki thikana puni paribeni kehi jani</s>
+	<s></s>
+</lyrics>

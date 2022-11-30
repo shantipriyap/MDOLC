@@ -1,0 +1,42 @@
+<Song ID>101</Song ID>
+<Title>hatare to hata de</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & sital kabi</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>bimugdha das</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>soumya ranjan bal</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>milan jaysingh</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>sanjay sahoo</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>hatare to hata de</s>
+	<s>thare mate chuin de</s>
+	<s>najara re najara</s>
+	<s>misei tu de</s>
+	<s>ajji kahuchi kahuchi</s>
+	<s>mu bhala pauchhi</s>
+	<s>tate rani kari rakhibi</s>
+	<s>mu katha dauchhi</s>
+	<s>tate bhala paichi</s>
+	<s>tate premo payin</s>
+	<s>anumati dei deichi</s>
+	<s>chahin dele hrudayare kichi hauchii</s>
+	<s>moti tu hira moti</s>
+	<s>sethipayin mane deli mo saiti mo saiti</s>
+	<s>raati rati jaie biti</s>
+	<s>sara raati chein chein mu bhabuchhi mu bhabuchhi</s>
+	<s>tate pakhe paii aaji kali sabu bhulichhi</s>
+	<s>adinare indradhanu jhalisi jauchi jhalisi jauchi</s>
+	<s>laakhi aakhi jaie laakhi</s>
+	<s>dekhi dele thare toh sauki toh sauki</s>
+	<s>bachhi anichi mu bachhi</s>
+	<s>duniaru bhala mu parakhi mu parakhi</s>
+	<s>toh haate anni chando debi katha dauchhi</s>
+	<s>sherimli deheru toro mukta jharuchhi</s>
+</lyrics>

@@ -1,0 +1,37 @@
+<Song ID>105</Song ID>
+<Title>sholati phaguna asi tote chuin dela pare</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>subhashish mahakud</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>saroj nanda</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>srikant gautam</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>srikant gautam</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>srikant gautam</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>sholati phaguna asi tote chuin dela pare</s>
+	<s>saree tu pindhilu jau dino</s>
+	<s>chalu thilu tike tike jhuntu thilu tike tike</s>
+	<s>dekhili mu tote sei dino</s>
+	<s>sei dinu pagalo heichi aei mono</s>
+	<s>vabuchi mu ta katha rati dino</s>
+	<s>ta ankhi re ankhi misei chahili tote hasi hasi</s>
+	<s>tu lajo re lajeigalu jhaunli galu besi besi</s>
+	<s>muho toro ferei nelu jebe dekhilu prathomo thoro</s>
+	<s>dori dori pakhoku jai mu pacharili na ti toro</s>
+	<s>jharka kholi lu jau dino</s>
+	<s>megho hela jhipi jhipi gali pado tipi tipi</s>
+	<s>chit deli tote deli sei dino</s>
+	<s>tu paglo karichu mote mo chati tole lage nia</s>
+	<s>mu dekhuci sapone tote mo ankhi age khali dhunna</s>
+	<s>amo ghare adho rati re sabu loko soila pare</s>
+	<s>tote vabi lekhe kabita fika janho aluore</s>
+	<s>rati besi hei gale tara mane luchi gale rusi jai jau dino janho</s>
+	<s>sara rati basi basi vabe ta katha basi</s>
+</lyrics>

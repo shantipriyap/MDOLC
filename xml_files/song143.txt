@@ -1,0 +1,40 @@
+<Song ID>143</Song ID>
+<Title>nani sambalpuri</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>mantu chhuria</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>rehan kamal</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>pintu chhuria</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>shaktiswora mohapatra</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>ramprasad chhuria</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>prem ra mahani laagi gala</s>
+	<s>bechara dil ta mor bekabu hela</s>
+	<s>bada badmash tui lo</s>
+	<s>rahi nai delu ekela</s>
+	<s>tor badmashi laagi</s>
+	<s>fasigala e dilwala</s>
+	<s>tor tirchi najariyan k dekhi kari sunare hei gali mui hei gali tor pagala</s>
+	<s>e nani diwana mate banei dela</s>
+	<s>chehera makhmali chehera makhmali tor chehera makhmali a mor suna sunku suna re</s>
+	<s>ishara sarmili tor ishara sharmili a mor suna sunku suna re</s>
+	<s>kanjusi wala tor tike smile thi bhari achhe e dunia saraa</s>
+	<s>tor juban ta band thile b suna sabu kahi dauchhe tor ishara</s>
+	<s>prem wala gunda gardi tor</s>
+	<s>kidnap kala dilke mor</s>
+	<s>dekhei premar chhura</s>
+	<s>tor mul mulki hansi k dekhi kari sunare hei gali mui hei gali tor pagala</s>
+	<s>e nani dewana mate banei dela</s>
+	<s>tui mor laagi madam sir bani galu re jebhe join kali tor prem pathsala</s>
+	<s>tor e pyari amiri thi oh janude biki hei gala tor e dilwala</s>
+	<s>tor premar bhul bhulaiya thi bhulei delu mate tui kari awara</s>
+	<s>tor chakhi chahani k mui dekhi kari sunare hei gali mui hei gali tor pagala</s>
+	<s>e nani diwana mate banei dela</s>
+</lyrics>

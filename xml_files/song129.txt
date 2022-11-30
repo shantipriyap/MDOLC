@@ -1,0 +1,56 @@
+<Song ID>129</Song ID>
+<Title>pagal bhaanra mu lo tu phagurani</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & jyotirmayee nayak</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>japani</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>bapu goswami</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>pagal bhaanra mu lo tu phagurani</s>
+	<s>to sathe lekha mora kete kahani</s>
+	<s>anamika naika mu tu jajabar</s>
+	<s>to upare dinarati mo najar</s>
+	<s>to pain sakala nidua nidua</s>
+	<s>mana mausimi meghuaa meghuaa</s>
+	<s>tate jete padhe sete mile anaad</s>
+	<s>tu prema barnabod</s>
+	<s>to prema barnabodha haye re</s>
+	<s>to prema branabodha</s>
+	<s>to prema barnabodha haye re</s>
+	<s>to prema branabodha</s>
+	<s>thumuru thumuru padare</s>
+	<s>tora paunji sabada</s>
+	<s>mora choreila nida mora hajeila nidaa</s>
+	<s>ho ghumuru ghumuru</s>
+	<s>katha ta tora mahuli surei</s>
+	<s>mora rati gala nei mun paru nahi soyi</s>
+	<s>tu rajakumari kou kabitara</s>
+	<s>tu niti ete kayi deyide utara</s>
+	<s>tu eka jibara gote sabda</s>
+	<s>to prema barnabodha haye re</s>
+	<s>to prema branabodha</s>
+	<s>to prema barnabodha haye re</s>
+	<s>to prema branabodha</s>
+	<s>madhura madhura to payi</s>
+	<s>lage adhira jibana</s>
+	<s>tu chhati ra spandantu akhi ra sapana</s>
+	<s>are are nijara nijara laguchi</s>
+	<s>ebe adhura phaguna</s>
+	<s>tu jieba karana tu khusi re melana</s>
+	<s>feriba bata mo jaichi mun bhuli</s>
+	<s>to bate chaluchi kayi aji kali</s>
+	<s>tu mora khara barsha sita hemanta</s>
+	<s>to prema barnabodha hann</s>
+	<s>ho to prema branabodha</s>
+	<s>haaye to prema barnabodha haye re</s>
+	<s>to prema branabodha</s>
+</lyrics>

@@ -1,0 +1,97 @@
+<Song ID>181</Song ID>
+<Title>duru dekhele re dhana</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>santanu</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>duru dekhele re dhana</s>
+	<s>tumar gura gura gal</s>
+	<s>paske aayele bari heu chhe</s>
+	<s>paudar ra kamal</s>
+	<s>duru dekhele re dhana</s>
+	<s>tumar gura gura gal</s>
+	<s>paske aayele bari heu chhe</s>
+	<s>paudar ra kamal</s>
+	<s>he aame jani galuna re</s>
+	<s>nai phasu naga</s>
+	<s>he aame jani ganula na re</s>
+	<s>nai phasu naga</s>
+	<s>kalar laga bal</s>
+	<s>nai hala na nai halana rumal re tume</s>
+	<s>dui nambar mal</s>
+	<s>nai halana rumal re tume</s>
+	<s>dui nambar mal</s>
+	<s>duru dekhele re dhana</s>
+	<s>tumar gura gura gal</s>
+	<s>paske aayele bari heu chhe</s>
+	<s>paudar ra kamal</s>
+	<s>sunduri tume nai na</s>
+	<s>tumke saju chhe beuty palara</s>
+	<s>tame tame makhi chha</s>
+	<s>kain atara</s>
+	<s>ho sunduri tume nai na</s>
+	<s>tumke saju chhe beuty palara go</s>
+	<s>jani chhu go aame</s>
+	<s>tame makhi chha kai atara</s>
+	<s>he tumar sabu ta nakali</s>
+	<s>gala jana padi</s>
+	<s>tumar sabu ta nakali</s>
+	<s>gala jana padi</s>
+	<s>sukha munga dal</s>
+	<s>nai hala na nai halana rumal re tume</s>
+	<s>dui nambar mal</s>
+	<s>nai halana rumal re tume</s>
+	<s>dui nambar mal</s>
+	<s>duru dekhele re dhana</s>
+	<s>tumar gura gura gal</s>
+	<s>paske aayele bari heu chhe</s>
+	<s>paudar ra kamal</s>
+	<s>sajo bajo tumar jana padu chhe</s>
+	<s>sajo singara</s>
+	<s>nai base kebhe kagaj phule ta</s>
+	<s>kala bhamara</s>
+	<s>sajo bajo tumar jana padu chhe</s>
+	<s>sajo singara</s>
+	<s>nai base kebhe kagaj phule ta</s>
+	<s>kala bhamara</s>
+	<s>he tume palithin jari go</s>
+	<s>nai na sundiri</s>
+	<s>palithin jari go nai na sundiri</s>
+	<s>sabu ta bhejal</s>
+	<s>nai hala na…nai halana rumal re tume</s>
+	<s>dui nambar mal</s>
+	<s>nai halana rumal re tume</s>
+	<s>dui nambai mal</s>
+	<s>duru dekhele re dhana</s>
+	<s>tumar gura gura gal</s>
+	<s>paske aayele bari heu chhe</s>
+	<s>paudar ra kamal</s>
+	<s>duru dekhele re dhana go</s>
+	<s>tumar gura gura gal</s>
+	<s>paske aayele bari heu chhe</s>
+	<s>paudar ra kamal</s>
+	<s>he aame jani galu na re</s>
+	<s>nai phasu naga</s>
+	<s>aame jani galu na re</s>
+	<s>nai phasu naga</s>
+	<s>kalar laga bal</s>
+	<s>nai hala na nai halana rumal re tume</s>
+	<s>dui nambari mal mal</s>
+	<s>nai halana rumal re tume</s>
+	<s>dui nambar mal</s>
+	<s>nai halana rumal re tume</s>
+	<s>dui nambari mal go</s>
+	<s>nai halana rumal re tume</s>
+	<s>dui nambar mal</s>
+</lyrics>

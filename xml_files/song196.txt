@@ -1,0 +1,62 @@
+<Song ID>196</Song ID>
+<Title>tate fursat thi patami</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>suesh suna & ipsita sahu</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>kamlesh chakraborty</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>dilip singh</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>jogesh jojo</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>sumanta kok</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>tor ignor ke kam kar</s>
+	<s>love smile start kar</s>
+	<s>bhal nuhese attitude</s>
+	<s>feelings wala baat kar</s>
+	<s>nai nai thi hesi pyar</s>
+	<s>kain karuchhu inkar</s>
+	<s>love you re barambar</s>
+	<s>nai ha rishmi</s>
+	<s>tate fursat thi patami</s>
+	<s>kam se kam kar sharam</s>
+	<s>kain heuchhu tui malar malar</s>
+	<s>mui nuhe tor janam</s>
+	<s>nai kar re tui latar patar</s>
+	<s>nai samjha mate yar</s>
+	<s>nai hue na mate pyar</s>
+	<s>pachhe asi baar baar</s>
+	<s>nai kar rishmi</s>
+	<s>tate fursat thi batami</s>
+	<s>o jete gali debu sete pachhe bulmi sor rakhi thibu</s>
+	<s>hm jete satabu sete satami ape sudhuri jibu</s>
+	<s>a mor sundri sanam</s>
+	<s>dil kare welcome tui ajana</s>
+	<s>o tate bujhale nai bujhuchhu tui pagala deewana</s>
+	<s>nai chale manmani</s>
+	<s>deewanapan tor nai batana</s>
+	<s>mate tui hentei</s>
+	<s>bhal paibar ta chhadi dena</s>
+	<s>hentehi bimui  fida tor lagi re dil ruba</s>
+	<s>chehera tor tauba tauba jaadu mahani</s>
+	<s>tate fursat thi patami</s>
+	<s>han tate fursat thi batami</s>
+	<s>a mor mummy daddy tor phatu dekhi</s>
+	<s>tate like karichhan</s>
+	<s>ho raha silent katha manija</s>
+	<s>nai badha uljhan</s>
+	<s>o tui jahakale mui agree achhen sahejadi rani</s>
+	<s>o tui bhabuchhu mui januchhe bhael patijimi</s>
+	<s>nai karbu harkate time aile aape answer demi</s>
+	<s>mui bilku anjana nai jane muk tor nakhrami</s>
+	<s>hei paren mui malmalia</s>
+	<s>hele nuhese gulmalia</s>
+	<s>tike tike mui chulbulia</s>
+	<s>karsin nakhrami</s>
+	<s>tate fursat thi patami</s>
+</lyrics>

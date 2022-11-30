@@ -1,0 +1,58 @@
+<Song ID>152</Song ID>
+<Title>e mor bauri tor lagi mari jimi lo</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>jasobant saga</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>benu</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>benu</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>dinesh</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>independent</Gender(Producer)>
+<Movie_Album>2017</Movie_Album>
+<Year>nan</Year>
+<lyrics>
+	<s>e mor bauri tor lagi mari jimi lo</s>
+	<s>mari jimi suna marijimi</s>
+	<s>e mor bauri tor lagi mari jimi lo</s>
+	<s>mari jimi suna marijimi</s>
+	<s>mui tor pagala tui pagili</s>
+	<s>mui tor diwana tui diwani</s>
+	<s>mui tor pagala tui pagili</s>
+	<s>tor lagi mui mor lagi tui</s>
+	<s>e mor bauri hoo</s>
+	<s>e mor bauri tor lagi mari jimi lo</s>
+	<s>mari jimi suna mari jimi</s>
+	<s>e mor bauri tor lagi mari jimi lo</s>
+	<s>mari jimi suna mari jimi</s>
+	<s>ho nisha nisha tui ke misa</s>
+	<s>tar priyar lagi pagala bi dui dine banijesi</s>
+	<s>ho mor aage kia jadi tate dekhi dele</s>
+	<s>kalja khan khan hei jesi</s>
+	<s>tui mor ashiq mui ashiq</s>
+	<s>mui tor raja ea tui rani</s>
+	<s>mui tor raga ea tui ragini</s>
+	<s>tui mor feel aau tui mor dil</s>
+	<s>e mor bauri hoo</s>
+	<s>e mor bauri tor lagi mari jimi lo</s>
+	<s>mari jimi suna mari jimi</s>
+	<s>e mor bauri tor lagi mari jimi lo</s>
+	<s>mari jimi suna marijimi</s>
+	<s>tate mui bhal paesi tote chahensi</s>
+	<s>tui mor dukha dunianr sathi</s>
+	<s>sabu tukel dhoka desan</s>
+	<s>tui dhoka debu ke kahide re mor bauri</s>
+	<s>kebhe suna dhoka nai debu</s>
+	<s>alaga kahar katha nai manbu</s>
+	<s>alaga pilar phande nai padbu</s>
+	<s>jadi dhoka debu mad kaibu</s>
+	<s>e mor bauri hoo</s>
+	<s>e mor bauri tor lagi mari jimi lo</s>
+	<s>mari jimi suna mari jimi</s>
+	<s>e mor bauri tor lagi mari jimi lo</s>
+	<s>mari jimi suna mari jimi</s>
+	<s>hooo hooo la la</s>
+</lyrics>

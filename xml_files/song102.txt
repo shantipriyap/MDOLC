@@ -1,0 +1,34 @@
+<Song ID>102</Song ID>
+<Title>tate bhala paibara hajare karana</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>baidyanath dash</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>arun mantri</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>tate bhala paibara hajare karana</s>
+	<s>kau karan mu kahibi</s>
+	<s>etiki janichi jeinthiba jaaien</s>
+	<s>tate hin bhala paibi</s>
+	<s>niriha niriha toh dui aakhire</s>
+	<s>hajei deichhi thikona moro</s>
+	<s>aaina kahuchii chehera sundara</s>
+	<s>mo payin sundara hrudaya toro</s>
+	<s>toh dui aakhire mori duniya</s>
+	<s>kahaku kahin chahinbi</s>
+	<s>hajare tara ku kali mu ekathi</s>
+	<s>tathapi kebe se helani se jahna</s>
+	<s>aneko ichha ku akathi kari mu</s>
+	<s>painathili toh pari mana</s>
+	<s>sikhei delu tu mote toh jeinba</s>
+	<s>toh pari nuhe kehi bi</s>
+</lyrics>

@@ -1,0 +1,81 @@
+<Song ID>147</Song ID>
+<Title>tor pyar chhadi kari dunia thi</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>prakash jal</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>sushanta mangaraj</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>sapne kheti</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>mangaraj creation</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>he jane jana</s>
+	<s>tor pyar chhadi kari dunia thi</s>
+	<s>aare kaisa jina</s>
+	<s>he mor suna</s>
+	<s>sabu dinar lagi teri baho main jeena marna</s>
+	<s>he</s>
+	<s>ja mate chhadi kari tui</s>
+	<s>kandei kari rulei kari,man mani kari,khate sui kari</s>
+	<s>kandi kandi kari,sabu sahi kari</s>
+	<s>dam dhari kari,sabu bhuli kari</s>
+	<s>kenta rahebu</s>
+	<s>nain re nain rahi paren</s>
+	<s>nain re nain rahi paren</s>
+	<s>tor bina rahi nain pare,banchi nain pare</s>
+	<s>kichhi kari jimi,mari piti demi,kati hani demi</s>
+	<s>sabu jail demi,nije jail jimi,pagal hei jimi</s>
+	<s>kenta sahebu</s>
+	<s>suna re sahi nian paren</s>
+	<s>suna re sahi nian paren</s>
+	<s>muin tor pagala tate kahuchhen</s>
+	<s>muin tor apne tate kahuchhen….</s>
+	<s>tate muin hen</s>
+	<s>dala dala bhal pauchhen</s>
+	<s>dala dala bhal paile badhia ae go</s>
+	<s>mor lagi ta pagala hele bhal ae go</s>
+	<s>tate muin re</s>
+	<s>bhugli bhugli love karuchhen</s>
+	<s>bhugli bhugli love kale badhia ae go</s>
+	<s>mor hei kari pase thile..bhal ae go</s>
+	<s>sabu dine tor pyar mohabat mor lagi thau</s>
+	<s>alga kahake dekhbu bele tor akhi futi jau</s>
+	<s>aau kahake dill dele chhati jail jau</s>
+	<s>mor akhire tui achhu re</s>
+	<s>akhi futba kahin</s>
+	<s>jen chhatine tui basichhu</s>
+	<s>se chhati jalba kahin</s>
+	<s>muin tor pagala tate kahuchhen</s>
+	<s>muin tor sundara tate kahuchhen</s>
+	<s>tate muin re</s>
+	<s>dala dala bhal pauchhen</s>
+	<s>dala dala bhal paile badhia ae go</s>
+	<s>mor lagi ta pagala hele bhal ae go</s>
+	<s>tate muin re</s>
+	<s>bhugli bhugli love karuchhen</s>
+	<s>bhugli bhugli love kale badhia ae go</s>
+	<s>mor hei kari pase thile bhal ae go</s>
+	<s>he saath janamar sathi lo muin tor pyasa badal</s>
+	<s>ragi gale muin sara dunian ke karmi ghayal</s>
+	<s>pagal pagal hai re muin tor sundara pagal</s>
+	<s>muin tor sundri rani</s>
+	<s>tui mor sundara pagal re</s>
+	<s>tor paglami dekhi</s>
+	<s>dill thi hesi halchal</s>
+	<s>muin tor pagala tate kahuchhen</s>
+	<s>muin tor sundara tate kahuchhen</s>
+	<s>tate muin re</s>
+	<s>dala dala bhal pauchhen</s>
+	<s>dala dala bhal paile badhia ae go</s>
+	<s>mor lagi ta pagala hele bhal ae go</s>
+	<s>tate muin re</s>
+	<s>bhugli bhugli love karuchhen</s>
+	<s>bhugli bhugli love kale badhia ae go</s>
+	<s>mor hei kari pase thile bhal ae go</s>
+</lyrics>

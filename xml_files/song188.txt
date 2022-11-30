@@ -1,0 +1,48 @@
+<Song ID>188</Song ID>
+<Title>o mor dil ke bekabu aji kari galu tui</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>sushil mahanand</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>sushil mahanand</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>chanda charan suna</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>raj nihal</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>o mor dil ke bekabu aji kari galu tui</s>
+	<s>kenu aelu aelu aelu aelu tui</s>
+	<s>pahela dekhane mor dil luti nelu</s>
+	<s>deewana heli muin tor lagi re</s>
+	<s>second time jebe muin tote dekhli</s>
+	<s>love hei gala mate tor sange re</s>
+	<s>high heels pindhi baby</s>
+	<s>laguchhu tui pura top re</s>
+	<s>jate aachan tukel sabu</s>
+	<s>tor nu aye pura flop re</s>
+	<s>a mate deewana kalu re</s>
+	<s>he mor chhin udeai nelu re</s>
+	<s>o tui mor jaan guri re</s>
+	<s>tui mor aau re</s>
+	<s>o mor dil ke bekabu aji kari galu tui</s>
+	<s>kenu aelu aelu aelu aelu tui</s>
+	<s>blue eyes re tor kala chashma</s>
+	<s>dei kari guri tui sabku chakma</s>
+	<s>padi thibe tor pachhe hajare hele</s>
+	<s>hele janitha guri muin tor deewana</s>
+	<s>pagal hela e</s>
+	<s>love re gui tor padi re</s>
+	<s>bijay anand e song ra</s>
+	<s>dei chan jani tha beat re</s>
+	<s>a mote deewana kalu re</s>
+	<s>he mor chhin udeai nelu re</s>
+	<s>o tui mor jaan guri re</s>
+	<s>tui mor aau re</s>
+	<s>o mor dil ke bekabu aji kari galu tui</s>
+	<s>kenu aelu aelu aelu aelu tui</s>
+</lyrics>

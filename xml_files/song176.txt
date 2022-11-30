@@ -1,0 +1,72 @@
+<Song ID>176</Song ID>
+<Title>rimjhim pani barsu thila</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>iswara deep</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>late gagan bihari bag</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>male</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>manoj singh</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>he mote pyar hei galare</s>
+	<s>ek ajnabi hasina sange re</s>
+	<s>kese bhoolun wo din</s>
+	<s>kese bhoolun wo mulakaten</s>
+	<s>he gute tukelte ta asuthila</s>
+	<s>tar dihi sara bhijuthila</s>
+	<s>he gute tukelte ta asuthila</s>
+	<s>tar dihi sara bhijuthila</s>
+	<s>mor ne gute chhata mate magla chhata</s>
+	<s>mor ne gute chhata mate magla chhata</s>
+	<s>phir kana hela</s>
+	<s>rim jhim pani barsu thila re</s>
+	<s>rim jhim pani barsu thila</s>
+	<s>hate mor hath dei dela</s>
+	<s>akhi mor akhi misei dela</s>
+	<s>hawa aela bele chadak marla bele</s>
+	<s>mor chhati ne ta latki gala</s>
+	<s>phir kana hela</s>
+	<s>rim jhim pani barsu thila re</s>
+	<s>rim jhim pani barsu thila</s>
+	<s>enta sundri tukel gute mui jibane kebhe bi dekhi nai thili</s>
+	<s>jenta isara kari mate kahela hae re serious diwana mui heli</s>
+	<s>e ankhi tar ta sarabi ankhi ke dekhi</s>
+	<s>sagar ashiq hei gali</s>
+	<s>se din se mulakat ke mui kebhe bi bhuli nai parli</s>
+	<s>mor ne gute chhata</s>
+	<s>mate magla chhata</s>
+	<s>mor ne gute chhata</s>
+	<s>mate magla chhata</s>
+	<s>rim jhim pani barsu thila re</s>
+	<s>rim jhim pani barsu thila</s>
+	<s>e barsa ketebele chadi gala se hasina</s>
+	<s>mote tar phone number dela</s>
+	<s>tata bye bye mui kari deli</s>
+	<s>se mate ulti ulti dekhu thila</s>
+	<s>ohh khana pina jina haram helana</s>
+	<s>tar ta chehera ke bhali bhali</s>
+	<s>kebhe asi kari mate kaheba i love you</s>
+	<s>diwana rahiche mui taki</s>
+	<s>mor ne gute chhata mate magla chhata</s>
+	<s>phir kana hela</s>
+	<s>rim jhim pani barsu thila re</s>
+	<s>rim jhim pani barsu thila</s>
+	<s>laje laje heu thila dil thi mor basi thila</s>
+	<s>mate chadbar ke duria jibar ke se man nai karuthila</s>
+	<s>phir kana hela</s>
+	<s>rim jhim pani barsu thila re</s>
+	<s>rim jhim pani barsu thila</s>
+	<s>tip tip pani barsu thila re</s>
+	<s>tip tip pani barsu thila</s>
+	<s>jhim jhim pani barsu thila re</s>
+	<s>jhim jhim pani barsu thila</s>
+	<s>rim jhim pani barsu thila re</s>
+	<s>rim jhim pani barsu thila</s>
+</lyrics>

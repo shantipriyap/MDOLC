@@ -1,0 +1,42 @@
+<Song ID>153</Song ID>
+<Title>rasarkeli bo</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>jithu & bithika</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>jitendra</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>anubhol bibhar</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>panini pragyan</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>odisha live web</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2007</Year>
+<lyrics>
+	<s>rasarkeli bo</s>
+	<s>sambalpuri sadhi ke re deuli paka dhadi re,deuli paka dhadi</s>
+	<s>sambalpuri sadhi ke re deuli paka dhadi</s>
+	<s>kuanri dihen pindhi thile jauthisi jadi</s>
+	<s>kane ta karana fula</s>
+	<s>nake jhara guna</s>
+	<s>kuanri pajhal baju thisi,gude jhumku jhuma</s>
+	<s>aare baju thile dasara badya dhula ta</s>
+	<s>baju thile dasara badya dhula ta</s>
+	<s>baje ta mahuri ken tiri ri ri ri</s>
+	<s>aare nachidema rasarkeli sate ta</s>
+	<s>nachidema rasarkeli sate ta</s>
+	<s>kindiri kindiri kaen tiri ri ri ri</s>
+	<s>rasarkeli bo</s>
+	<s>mahanadir ujal pani dise jhalamala re dise jhalamala</s>
+	<s>mahanadir ujal pani dise jhalamala</s>
+	<s>aare gadhibudi aame sate daula daula</s>
+	<s>chali jaensun puja thali dharikari hate</s>
+	<s>mahanadir khandi sate maar gudi achhe…</s>
+	<s>aare maar chhada sindur fula makhele</s>
+	<s>maar chhada sindur fula makhele</s>
+	<s>usat lage mana kaen chaka janha re</s>
+	<s>usku usha lusku lusha sangata</s>
+	<s>sambalpuri rakhi thisu aame mane re,…</s>
+</lyrics>

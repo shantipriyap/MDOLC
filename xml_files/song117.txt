@@ -1,0 +1,46 @@
+<Song ID>117</Song ID>
+<Title>hai re mun galini mari</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & dipti rekha padhi</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>prem anand</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>subrat swain</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>tu mote kichhi kahinu</s>
+	<s>mun tate kichhi kahini</s>
+	<s>tu mate bhala lagilu</s>
+	<s>mun tate bhala lagili</s>
+	<s>ei bhala lagibata bodhe</s>
+	<s>mote mari sarilani adhe</s>
+	<s>chhuin de tu niswas mo aasiba feri</s>
+	<s>hae re hae mun galini mari</s>
+	<s>hae re hae mun galini mari</s>
+	<s>hae re hae mun galini mari</s>
+	<s>hae re hae mun galini mari</s>
+	<s>kemiti e aakarshana</s>
+	<s>pani ru paban jaae</s>
+	<s>sabubele khijuthae</s>
+	<s>khas kichhi nahin karan</s>
+	<s>kemiti e aakarshana</s>
+	<s>matira mahaka jaae</s>
+	<s>mana khali tate chanhe</s>
+	<s>manu nahin kichhi bara</s>
+	<s>tu mate tike chhuinchhu</s>
+	<s>mun tate tike chhuinchhi</s>
+	<s>tu mate tike chanhilu</s>
+	<s>mun tate tike chanhili</s>
+	<s>ei tike chanhibata bodhe</s>
+	<s>mate mari sarilani adhe</s>
+	<s>chhuin de tu niswas mo aasiba feri</s>
+	<s>hae re hae mun galini mari</s>
+	<s></s>
+</lyrics>

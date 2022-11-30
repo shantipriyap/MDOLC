@@ -1,0 +1,40 @@
+<Song ID>103</Song ID>
+<Title>balika badhu</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>babul supriya</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>abhijit majumdar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>tuna chandan</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>tu kahile chando ku ani</s>
+	<s>karidebi toh matharo chandan bindu</s>
+	<s>tu kahile nidare toro</s>
+	<s>sabu raati jhareibi purnomi indu</s>
+	<s>bhul bujhibuni mate pilatidinaru tate</s>
+	<s>mane mane bhabichi mu balika badhu</s>
+	<s>balika badhu</s>
+	<s>ajhatia pila dino lie maage tara jhanha</s>
+	<s>kie maage kandhei</s>
+	<s>hele mo aakhire rahichu eka tu</s>
+	<s>aau kichhi maagi naahi</s>
+	<s>ajhatia pila dino lie maage tara jhanha</s>
+	<s>doso dabuni mate</s>
+	<s>mu badalini sate</s>
+	<s>mo aakhire a jain tu</s>
+	<s>choto bele aamo ghare ghele ghele</s>
+	<s>kahithile bahu karibe tate</s>
+	<s>se micha ghelo mo jibana sajichhi</s>
+	<s>bhuliparuni mu sate</s>
+	<s>kete karuchu kumaro</s>
+	<s>pherei de mo piladino</s>
+	<s>puni thare hei jaa mu</s>
+</lyrics>

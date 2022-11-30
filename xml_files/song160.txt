@@ -1,0 +1,51 @@
+<Song ID>160</Song ID>
+<Title>first time jebhe tate dekhi thili</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>not available</Singers>
+<Gender(Singer)>not available</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>first time jebhe tate dekhi thili</s>
+	<s>mate cute love hei thila</s>
+	<s>janitha janitha mor sundri rani</s>
+	<s>mue tor sundra raja</s>
+	<s>hey love jodi heba kismet belu</s>
+	<s>hele dunia manuchan eta saja</s>
+	<s>amar love jodi banei kari ga</s>
+	<s>dunia ke batei dema love ra maja</s>
+	<s>eta karu lo wada</s>
+	<s>jebhe dulhan hei kari thibu ga</s>
+	<s>palei ayeba dulha raja</s>
+	<s>hey bulakhetar tela rakhi thimi</s>
+	<s>mali lekhe suna nae bhab bu</s>
+	<s>bhamar phul lekhe tor akhe pakhe thimi</s>
+	<s>a mor suna mate nae kandabu</s>
+	<s>he love jodi mankar love story thin</s>
+	<s>dunia kahesan eta bekar bali</s>
+	<s>ame amar jodi ke anta banama</s>
+	<s>jenta jamana kaheba eta sua sari</s>
+	<s>eta karu lo wada</s>
+	<s>jebhe dulhan hei kari thibu ga</s>
+	<s>palei ayeba dulha raja</s>
+	<s>nijar pyar ke dulhan banabar mauka</s>
+	<s>sacha premi mane payi parsan</s>
+	<s>amku lovely jodi bali dunia kaheba</s>
+	<s>dekhbu mor phulei pyari sanam</s>
+	<s>hey baja baju thiba lo mauj masti heba</s>
+	<s>asi gale tor rajar barati</s>
+	<s>tor paribar nu chadei anmi lo</s>
+	<s>au banami tate jiban sathi</s>
+	<s>eta karuche lo wada</s>
+	<s>jebhe dulhan hei kari thibu ga</s>
+	<s>palei ayeba dulha raja</s>
+</lyrics>

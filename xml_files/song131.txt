@@ -1,0 +1,44 @@
+<Song ID>131</Song ID>
+<Title>niswasa ta bina mora chalena</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar & nivedita</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>baidyanath dash</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>arun mantri</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>sitaram agrawal & namita agrawal</Producer>
+<Gender(Producer)>male & female</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>niswasa ta bina mora chalena</s>
+	<s>biswasa ta bina kichhi hue na</s>
+	<s>kichhi nuhne mu ta bina</s>
+	<s>dhire dhire lage mate ete bhla pae tate</s>
+	<s>bhulile bi bhuli parena</s>
+	<s>niswasa ta bina mora chalena</s>
+	<s>biswasa ta bina kichhi hue na</s>
+	<s>kichhi nuhne mu ta bina</s>
+	<s>juade jae mu tate hi pae mu</s>
+	<s>sakalu sanja jae</s>
+	<s>tate hi chahne mu</s>
+	<s>tu mora dunia tu mora pruthibi</s>
+	<s>laguchi  sabu bele tu thile mu thibi</s>
+	<s>sakala ta bina mora pahena</s>
+	<s>spandana ta bina mora chalena</s>
+	<s>kichhi nuhne mu ta bina</s>
+	<s>gadhili ta sathe emiti samparka</s>
+	<s>sapana ta bina dekhi huena</s>
+	<s>jibana ta bina bhabi huena</s>
+	<s>laguchu tu mora prema ra konark</s>
+	<s>tu thile kahniki sabu ta sundara</s>
+	<s>ta bina duniata lage ta andhara</s>
+	<s>kichhi nuhne mu ta bina</s>
+	<s>tu thile mo samne kahaku e jibanare</s>
+	<s>chahnile bi chahni parena</s>
+	<s>kichhi nuhne mu ta bina</s>
+</lyrics>

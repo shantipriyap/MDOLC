@@ -1,0 +1,77 @@
+<Song ID>183</Song ID>
+<Title>tatala chaha</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>raju nanda & sanju mohanty</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>manoj singh</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>phuki phuki peu tha tui</s>
+	<s>tatala chaha ke</s>
+	<s>phuki phuki peu tha tui</s>
+	<s>hn phuki phuki peu tha tui</s>
+	<s>tatala chaha ke</s>
+	<s>phuki phuki peu tha tui</s>
+	<s>janli na tor ishara</s>
+	<s>tor ee thara nara</s>
+	<s>janli na tor ishara</s>
+	<s>tor ee thara nara</s>
+	<s>are kain j mote gali desu</s>
+	<s>aha aha are kain j mote gali desu</s>
+	<s>daada ra sali re</s>
+	<s>phuki phuki peu che mui</s>
+	<s>hn phuki phuki peu tha tui</s>
+	<s>tatala chaha ke</s>
+	<s>phuki phuki peu tha tui</s>
+	<s>ae ae oye oye</s>
+	<s>smile</s>
+	<s>ghidi ghidi maru che bijili go</s>
+	<s>dhaka dhaka karu che mor chati</s>
+	<s>ghidi ghidi maru che bijili go</s>
+	<s>dhaka dhaka karu che mor chati</s>
+	<s>are mann janu che manar katha rani lo</s>
+	<s>are mauka dele khuli mui kaheti</s>
+	<s>tala patra khara khara pila re</s>
+	<s>mahula patara chaka chaka</s>
+	<s>are juri jhuri bhali maru thisi ga</s>
+	<s>aaji pai che re se mauka</s>
+	<s>are pani dekhi dekhi bhuli jibu susa</s>
+	<s>ae nani bhali bhali pahi jiba ee rati ta</s>
+	<s>are kete rusa phula hesu</s>
+	<s>kabata kili re</s>
+	<s>phuki phuki peu che mui</s>
+	<s>hn phuki phuki peu tha tui</s>
+	<s>tatala chaha ke</s>
+	<s>phuki phuki peu tha tui</s>
+	<s>ae ae ae oye oye oye oye</s>
+	<s>smile</s>
+	<s>pani gale dara dara pila re</s>
+	<s>tote jhuri aanu che ga jara</s>
+	<s>hai go pani gale dara dara pila re</s>
+	<s>tote jhuri aanu che ga jara</s>
+	<s>accha bhadar kanu uthi acche megha re</s>
+	<s>nia chade ga hele harabara</s>
+	<s>daru che bele kahi de rasia</s>
+	<s>mor thane kain nia na tor mana</s>
+	<s>henta katha nia kahebu phulei</s>
+	<s>mann ke uana nia kar re dhana</s>
+	<s>are bahana mara tor jana ta gala na</s>
+	<s>are paha paha paha pahantia hela na</s>
+	<s>malmalia katha kuha malmalia katha kuha</s>
+	<s>maru tui bhau re phuki phuki peu tha tui</s>
+	<s>phuki phuki peu che mui</s>
+	<s>tatala chaha ke</s>
+	<s>phuki phuki peu che mui</s>
+	<s>phuki phuki peu tha tui</s>
+	<s>tatala chaha ke</s>
+	<s>phuki phuki peu tha tui</s>
+</lyrics>

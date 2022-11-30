@@ -1,0 +1,28 @@
+<Song ID>115</Song ID>
+<Title>bhala paaye jahaku mu bhala paaye</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>ira mohanty & t. sauri</Singers>
+<Gender(Singer)>female & male</Gender(Singer)>
+<Music Director>swaroop naik</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>swaroop nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>aeithi achhi mora sie akhire akhire mate kahe</s>
+	<s>mori katha re mori gitare</s>
+	<s>hasi hasi mate kahide</s>
+	<s>oye oyee oyee</s>
+	<s>barsha hele chata mu hebi</s>
+	<s>khara hele mun hebi chaie</s>
+	<s>to akhire rahibi mun</s>
+	<s>tate dekhiba payin</s>
+	<s>toh katha suni jodi jodi bani</s>
+	<s>hasi hasi dekho udijaaye</s>
+</lyrics>

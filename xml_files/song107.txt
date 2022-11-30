@@ -1,0 +1,37 @@
+<Song ID>107</Song ID>
+<Title>choto aai hurdaya ku rakhi thili shaiti</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>udit narayan & ira mohanty</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>sarthak  music</Music Director>
+<Gender(Music Director)>company</Gender(Music Director)>
+<Lyrics Author>bijaya malla</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>shakti barala</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>tu eka ama sahabharasa</Movie_Album>
+<Year>2006</Year>
+<lyrics>
+	<s>choto aai hurdaya ku rakhi thili shaiti</s>
+	<s>kahiboki kete bale chori kalu kemiti</s>
+	<s>mahoko chorai nea chaitali jemiti</s>
+	<s>nido ku chorai nea janho rati jemiti</s>
+	<s>janino ki chori chori pemo hue emiti</s>
+	<s>ai mo jibono thila nichatia choti ghro</s>
+	<s>tome se ghro ku delo phoguno ra priti phulo</s>
+	<s>tome ta phulo re basei banshi re toli re suro</s>
+	<s>banshi ku adhiro kare nai kulo jemiti</s>
+	<s>gito ku madhuro kare sato suro jemiti</s>
+	<s>aaa ho aaa music</s>
+	<s>tumori asiba jani ajhotia hela rati</s>
+	<s>tume se rati ku delo suna jhora kicchi smuti</s>
+	<s>oo-tumoro asiba pare amania hela mono</s>
+	<s>haye tume se mono ku delo</s>
+	<s>modhu jhora kicchi swapno</s>
+	<s>swapno ku rangei dia endro dhonu jemiti</s>
+	<s>bano ku sajei dia prajapati jemiti</s>
+	<s>jani gali premo hele hai jae emiti</s>
+</lyrics>

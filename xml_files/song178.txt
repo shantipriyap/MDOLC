@@ -1,0 +1,85 @@
+<Song ID>178</Song ID>
+<Title>sambalpuria babu</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>mantu chhuria</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>rehankamal</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>amulya dansana</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>rajiv ganda</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>baji gale re dhol nisan tasa</s>
+	<s>nai nachi kahin jibu</s>
+	<s>dhulki jibare dul dul dul</s>
+	<s>ame sambalpuria babu</s>
+	<s>baji gale re dhol nisan tasa</s>
+	<s>nai nachi kahin jibu</s>
+	<s>dhulki jibare dul dul dul</s>
+	<s>ame sambalpuria babu</s>
+	<s>amar sambalpuri mitha re</s>
+	<s>sunuthiba kan deri</s>
+	<s>amar nachi ne nisha re</s>
+	<s>nachba kindiri kindiri</s>
+	<s>janitha chinhitha</s>
+	<s>ame sambalpuria babu</s>
+	<s>baji gale re</s>
+	<s>baji gale re dhol nisan tasa</s>
+	<s>nai nachi kahin jibu</s>
+	<s>dhulki jibare dul dul dul</s>
+	<s>ame sambalpuria babu</s>
+	<s>baji gale re dhol nisan tasa</s>
+	<s>nai nachi kahin jibu</s>
+	<s>dhulki jibare dul dul dul</s>
+	<s>ame sambalpuria babu</s>
+	<s>dal khai, rasarkeli bajle chutku chuta</s>
+	<s>bhaera balsi sunmi sunmi</s>
+	<s>chhatki bulsi chhuta</s>
+	<s>chaha piba fuki fuki paan khaeba kale</s>
+	<s>jete disco bajle bi</s>
+	<s>amar sambalpuri ra tale</s>
+	<s>homa baula maela jada</s>
+	<s>maele mahani chhata</s>
+	<s>dhangiri balsi nachmi nachmi</s>
+	<s>budhi malke anta</s>
+	<s>janitha chinhitha</s>
+	<s>ame sambalpuria babu</s>
+	<s>baji gale re</s>
+	<s>baji gale re dhol nisan tasa</s>
+	<s>nai nachi kahin jibu</s>
+	<s>dhulki jibare dul dul dul</s>
+	<s>ame sambalpuria babu</s>
+	<s>baji gale re dhol nisan tasa</s>
+	<s>nai nachi kahin jibu</s>
+	<s>dhulki jibare dul dul dul</s>
+	<s>ame sambalpuria babu</s>
+	<s>chak chak ame chamku thisu</s>
+	<s>sabu thane hesu baari</s>
+	<s>jenta chamke e dunia sara</s>
+	<s>amar sambalpuria saadhi</s>
+	<s>bhaav pirati sardha sathi</s>
+	<s>amar sabubele</s>
+	<s>ekjutia hei jaesu sambalpuri baajigale</s>
+	<s>manta amar raja re kebhe nai jau hari</s>
+	<s>dusmani ke jaesu bhuli</s>
+	<s>mulki hasi mari</s>
+	<s>janitha chinhitha</s>
+	<s>ame sambalpuria babu</s>
+	<s>baji gale re</s>
+	<s>baji gale re dhol nisan tasa</s>
+	<s>nai nachi kahin jibu</s>
+	<s>dhulki jibare dul dul dul</s>
+	<s>ame sambalpuria babu</s>
+	<s>baji gale re dhol nisan tasa</s>
+	<s>nai nachi kahin jibu</s>
+	<s>dhulki jibare dul dul dul</s>
+	<s>ame sambalpuria</s>
+	<s>hee sambalpuria</s>
+	<s>hee sambalpuria babu</s>
+</lyrics>

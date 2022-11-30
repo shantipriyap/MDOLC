@@ -1,0 +1,48 @@
+<Song ID>109</Song ID>
+<Title>puchi lo ghunci ja nai tole tole luchi ja</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>ira mohanty & tapu mishra</Singers>
+<Gender(Singer)>female & female</Gender(Singer)>
+<Music Director>swaroop naik</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>swaroop naik</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>himansu parija</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>niranjan rana</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>je panche parara manda</Movie_Album>
+<Year>2003</Year>
+<lyrics>
+	<s>puchi lo ghunci ja nai tole tole luchi ja</s>
+	<s>nai tole tole bandoro</s>
+	<s>amo gaan vhari sundaro</s>
+	<s>amo gaan ku</s>
+	<s>amo gaan ku thore jia asichi</s>
+	<s>pheribar bato bhulici haye</s>
+	<s>pheribaro bato bhulici</s>
+	<s>amo mono jia thore kinichi</s>
+	<s>jibono sara bondha padichi</s>
+	<s>hoye hoy hoyy</s>
+	<s>mamota aado re sneho chakuli</s>
+	<s>khau khuau ame mili</s>
+	<s>amori mandiro a chato saali</s>
+	<s>amo kahani a dando dhuli</s>
+	<s>amo gaan pari gann nahi</s>
+	<s>ammo bilo pari bilo nahi</s>
+	<s>ammo nai pari noi nahi</s>
+	<s>ammo paani pari paani nahi</s>
+	<s>ammo paani ku jia thore piechi</s>
+	<s>voko soso ku bhuli jaichi</s>
+	<s>amori gaan re phutichi koin</s>
+	<s>taku tolibaku kehi nahi</s>
+	<s>dine na dine asibo kehi</s>
+	<s>amo kain ku nebo chorei</s>
+	<s>alota sindhuro topa nai</s>
+	<s>kain chali ba to naai naai</s>
+	<s>hasuthibo ammo vinei</s>
+	<s>kain kanduthibo kaainn</s>
+	<s>amo kain ku thore jia dekhichi</s>
+	<s>ta rupre ghari ta gahri haichi</s>
+</lyrics>

@@ -1,0 +1,63 @@
+<Song ID>135</Song ID>
+<Title>bhala pai tu bhuligalu looo</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>not available</Singers>
+<Gender(Singer)>not available</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>bhala pai tu bhuligalu looo</s>
+	<s>kemiti ka premika mora</s>
+	<s>mana nei tu khelidelu looo</s>
+	<s>jalidelu jibana mora</s>
+	<s>bhala pai tu bhuligalu looo</s>
+	<s>kemiti ka premika mora</s>
+	<s>mana nei tu khelidelu looo</s>
+	<s>jalidelu jibana mora</s>
+	<s>michha sathi tu kemiti helu</s>
+	<s>adha mari mate chali tu galu</s>
+	<s>aau jaha maribaku baki rahichhi</s>
+	<s>tate premika kahibaku lo mate</s>
+	<s>ghruna laguchhi</s>
+	<s>tate premika kahibaku lo mate</s>
+	<s>ghruna laguchhi</s>
+	<s>tate tike khushi daba pain sathi</s>
+	<s>prem re mun karini una</s>
+	<s>sathi hei mora chhati delu chiri</s>
+	<s>mana re tu rakhi chhalana</s>
+	<s>tate tike khushi daba pain sathi</s>
+	<s>prem re mun karini una</s>
+	<s>sathi hei mora chhati delu chiri</s>
+	<s>mana re tu rakhi chhalana</s>
+	<s>mo bhala paiba kahani kalu</s>
+	<s>jiein thai mora jibana nelu</s>
+	<s>kemiti ke jani tora deha sahuchhi</s>
+	<s>tate premika kahibaku lo mate</s>
+	<s>ghruna laguchhi</s>
+	<s>tate premika kahibaku lo mate</s>
+	<s>ghruna laguchhi</s>
+	<s>pratisruti dei pratarana kalu</s>
+	<s>sajilu tu michha premika</s>
+	<s>kea dela tate saragara sukha</s>
+	<s>deigalu tu mate dhoka</s>
+	<s>pratisruti dei pratarana kalu</s>
+	<s>sajilu tu michha premika</s>
+	<s>kea dela tate saragara sukha</s>
+	<s>deigalu tu mate dhoka</s>
+	<s>pachharu tu mate chhuri marilu</s>
+	<s>jianta sab te sajei delu</s>
+	<s>duniya ru hajibaku baki rahichhi</s>
+	<s>tate premika kahibaku lo mate</s>
+	<s>ghruna laguchhi</s>
+	<s>tate premika kahibaku lo mate</s>
+	<s>ghruna laguchhi</s>
+</lyrics>

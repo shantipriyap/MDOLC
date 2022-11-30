@@ -1,0 +1,47 @@
+<Song ID>168</Song ID>
+<Title>prem baura</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>nil sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>nil sagar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>swastik sourav</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>jogesh jojo & rajiv gond</Director>
+<Gender(Director)> male & male</Gender(Director)>
+<Producer>rajiv gond</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>prem baura mui tor diwana</s>
+	<s>pagal hei gali tor bina hae re suna</s>
+	<s>pani bine machli jenta chatki chatki marsi</s>
+	<s>hor mannat bandla dhaga hei jau bekar fasi</s>
+	<s>a mor gelhei tui aau mor jarurat</s>
+	<s>mor amanat tui aau mor jarurat</s>
+	<s>mor kule sui lada gela hei</s>
+	<s>kahi thilu ek hema dinhi ke mor chuin</s>
+	<s>sua sari hei hansi khusi rahi</s>
+	<s>jhumu thilan gute gite gute sure gai</s>
+	<s>haji gala se gitar mitha mitha sura</s>
+	<s>padi gala bodhe sie na ken pakhe najara</s>
+	<s>a mor suuna tui aau mor jarurat</s>
+	<s>tor mohabat tui aau mor jarurat</s>
+	<s>j bhi kahi che pura sat hei che</s>
+	<s>sacha premar milan kebe hei kain pari che</s>
+	<s>prem j kari che dunia nu hari che</s>
+	<s>bidhir bidhan ke kie ultei pari che</s>
+	<s>dina rati tor lagi dua magsin jaha ke</s>
+	<s>nai bhabi se khuda chadei neba mor priya ke</s>
+	<s>a mor fulei tui aau mor jarurat</s>
+	<s>tor mohabat tui aau mor jarurat</s>
+	<s>mar jawann a mor sunaa</s>
+	<s>tor bina lo a saheba</s>
+	<s>tui aau mor jarurat</s>
+	<s>tor mohabat tui aau mor jarurat</s>
+	<s>tui aau mor jarurat</s>
+	<s>tui aau mor mohabat</s>
+	<s>tui aau mor jarurat</s>
+</lyrics>

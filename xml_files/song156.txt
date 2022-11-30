@@ -1,0 +1,47 @@
+<Song ID>156</Song ID>
+<Title>bewafa mor priya bewafa</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>umakant barik</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>dhani gharar jhi ke mui bhal pau thili</s>
+	<s>dhani gharar jhi ke mui bhal pau thili</s>
+	<s>chatir kalja thane re mui tahake basei thili</s>
+	<s>mate pagal kala re jale fasei dela re</s>
+	<s>mor dunia luti nela, sapan bhangi dela re</s>
+	<s>band kari dela saabu digar rastaa</s>
+	<s>bewafa, mor priya bewafa (bewafa)</s>
+	<s>abhula tor smruti abhula pirati</s>
+	<s>kebhe nai bhuli hue re oo</s>
+	<s>kebhe nai bhuli hue re</s>
+	<s>jete din jake, dinhe rakat thiba</s>
+	<s>jalu thiba e jue re oo</s>
+	<s>jalu thiba e jue re</s>
+	<s>parah luke dukh dele, bhuli hei jaesi sina</s>
+	<s>nijar kie dag dele gha hei rahesi chinha</s>
+	<s>chalana kari lagala kain dafaa</s>
+	<s>bewafa, mor priya bewafa (bewafa)</s>
+	<s>dinar ujala janhar ukia</s>
+	<s>mor lagi hela andhara oo</s>
+	<s>mor lagi hela andhara</s>
+	<s>prem kari mui saja bhugu chen re</s>
+	<s>kie karba tar bichara hae</s>
+	<s>kie karba tar bichara</s>
+	<s>dunia najare sina hei gali mui dusman</s>
+	<s>ankhi pani sange mor buhi gala hansi khusi</s>
+	<s>phular badle kanta dela tofa oo</s>
+	<s>bewafa, mor priya bewafa (bewafa)</s>
+	<s>hae re</s>
+	<s>bewafa mor priya bewafa</s>
+</lyrics>

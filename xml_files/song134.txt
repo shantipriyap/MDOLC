@@ -1,0 +1,47 @@
+<Song ID>134</Song ID>
+<Title>jemiti priya chaligalu lo chhatiku chiri</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>dillip kumar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>sunil moharana</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>debiprasad mohapatra & raghunath pal</Director>
+<Gender(Director)>male & male</Gender(Director)>
+<Producer>debadarshini dash</Producer>
+<Gender(Producer)>female</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>	not available</Year>
+<lyrics>
+	<s>jemiti priya chaligalu lo chhatiku chiri</s>
+	<s>semiti kali prema ku mora maribu jhuri</s>
+	<s>chhadei nelu kemiti mora otha ru hasa</s>
+	<s>prema badala re khali delu lo bisa</s>
+	<s>jemiti tu bhangidelu mo biswas</s>
+	<s>to upare padiba lo mo niswas</s>
+	<s>jemiti tu bhangidelu mo biswas</s>
+	<s>to upare padiba lo mo niswas</s>
+	<s>jibana dei bhala paili delu tu mate dhoka</s>
+	<s>premika tora kariba ghruna heijibu lo eka</s>
+	<s>khushi tikea paibuni lo tu jibana jaka</s>
+	<s>bhala paibare mora thilu tu kalanka</s>
+	<s>sapana mora jalidei karilu paunsa</s>
+	<s>tu bi dine jali jali heijibu lo sesa</s>
+	<s>jemiti tu bhangidelu mo biswas</s>
+	<s>to upare padiba lo mo niswas</s>
+	<s>jemiti tu bhangidelu mo biswas</s>
+	<s>to upare padiba lo mo niswas</s>
+	<s>prem ku mora bhabinelu tu kacha khelana</s>
+	<s>kemiti ka lo premika mora kalu tu chhalana</s>
+	<s>sampark mane bujhiluni lo jemiti tu thare</s>
+	<s>duniya kali dekhiba tate chota najara re</s>
+	<s>janinathili prema ta tora thila ete michha</s>
+	<s>aakhi luha re kamijibalo priya to aayusha</s>
+	<s>jemiti tu bhangidelu mo biswas</s>
+	<s>to upare padiba lo mo niswas</s>
+	<s>jemiti tu bhangidelu mo biswas</s>
+	<s>to upare padiba lo mo niswas</s>
+	<s></s>
+</lyrics>

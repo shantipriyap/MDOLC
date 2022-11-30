@@ -1,0 +1,66 @@
+<Song ID>159</Song ID>
+<Title>call receive nai karu chu</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>joshobanta sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>satyaganga gardia</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>rajindra jagat</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>montu bag & denger yadav ghibhela</Producer>
+<Gender(Producer)>male & male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>mui tor aage pache thile</s>
+	<s>mor nu ghanti heu chu</s>
+	<s>tor nu duria rhai gale</s>
+	<s>mate birjhi jau chu</s>
+	<s>mui tor aage pache thile</s>
+	<s>mor nu ghanti heu chu</s>
+	<s>tor nu duria hei gale</s>
+	<s>mate birjhi jau chu</s>
+	<s>kenta katu che din</s>
+	<s>kenta katu che raet</s>
+	<s>mate nai bujhu chu</s>
+	<s>a tui phoon mate nai karu chu re</s>
+	<s>ex-lover kainje bhabu chu</s>
+	<s>a tui phoon mate nai karu chu re</s>
+	<s>ex-lover kainje bhabu chu</s>
+	<s>rahi nai pare tor bina</s>
+	<s>jani chu tui haere suna</s>
+	<s>mui tor sacha premi</s>
+	<s>mui pagal diwana</s>
+	<s>ho dhire dhire jauchu bhuli</s>
+	<s>tor nani kala boli mana</s>
+	<s>bhuli jibar lagi tate miliche bahana</s>
+	<s>tadpi maruchen mui</s>
+	<s>luhu jharau chen mui</s>
+	<s>mate ekla karichu</s>
+	<s>a tui phoon mate nai karu chu re</s>
+	<s>ex-lover kainje bhabu chu</s>
+	<s>a tui phoon mate nai karu chu re</s>
+	<s>ex-lover kainje bhabu chu</s>
+	<s>ho kete pila propose kale</s>
+	<s>kahelu boli mana kali</s>
+	<s>bharsa mui tate kali je</s>
+	<s>chadi delu kahar hei</s>
+	<s>sabubele sore lagu che</s>
+	<s>tor katha bhabu che re mui</s>
+	<s>kete bele kie jani che</s>
+	<s>mari ta jimi</s>
+	<s>jadi bhal tui pau chu</s>
+	<s>miche kaenje daru chu</s>
+	<s>mate ghanti maru chu</s>
+	<s>a tui phoon mate nai karu chu re</s>
+	<s>ex-lover kainje bhabu chu</s>
+	<s>hae tui phoon mate nai karu chu re</s>
+	<s>ex-lover kainje bhabu chu</s>
+	<s>he mor janejan mate tui etki kandei kari</s>
+	<s>kain laabh pauchu mui tor phoon ke intijar karichen</s>
+	<s>tui mate kain heleje phoon nai karu chu</s>
+	<s>kain heleje phoon nai karu chu</s>
+</lyrics>

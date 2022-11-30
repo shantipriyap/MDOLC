@@ -1,0 +1,64 @@
+<Song ID>130</Song ID>
+<Title>o sathiya ore priya</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>kuldeep pattnaik</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>asad nizam</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>malaya</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>raja d</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>pranoy nayak (buboo)</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>o sathiya ore priya</s>
+	<s>abujha e mana mora hela re chagala</s>
+	<s>nana nana na na na</s>
+	<s>o sathiya ore priya</s>
+	<s>odhani re lekhidela katha se abhula</s>
+	<s>pakhare thai kain lage achu tu dura</s>
+	<s>dine na dekhile lage kain kahli mate dara</s>
+	<s>hajigali mu je re</s>
+	<s>bhijili to prema re</s>
+	<s>jebe aakhi tate dekhi dela</s>
+	<s>o sathiya ore priya</s>
+	<s>abujha e mana mora hela re chagala</s>
+	<s>o sathiya ore priya</s>
+	<s>odhani re lekhidela katha se abhula</s>
+	<s>nana nana na na na</s>
+	<s>pada mo batare jae ataki</s>
+	<s>laguchi jemiti deuchhu mate daki</s>
+	<s>luchijau akhiru deuchhu thaki</s>
+	<s>pachaku pheriki chahen mo aakhi</s>
+	<s>katha tora bhabiki katijae mora dina</s>
+	<s>hasuchhi khalitare kai mana ku mo mana</s>
+	<s>paruni kichhi jani</s>
+	<s>pakhaku hue tani</s>
+	<s>to premare heli matuwala</s>
+	<s>o sathiya ore priya</s>
+	<s>abujha e mana mora helare chagala</s>
+	<s>o sathiya ore priya</s>
+	<s>odhanire lekhidela katha se abhula</s>
+	<s>o o o o o e e</s>
+	<s>la la la la lala la lala</s>
+	<s>sathiya aa aa aa he e</s>
+	<s>nana nana na na na</s>
+	<s>kete bhala pae mu paruni kahi</s>
+	<s>rakhibaku chahen tate mu luchei</s>
+	<s>jale mu jebe kie chuen to chhai</s>
+	<s>kale kie neijiba tate chorei</s>
+	<s>chatire galu rahitu jebe dhire dhire</s>
+	<s>kain jani tu ajana heu bujhia tu thare</s>
+	<s>mana re kete katha</s>
+	<s>kara re nirabata</s>
+	<s>emiti e mana harigala</s>
+	<s>o sathiya ore priya</s>
+	<s>abujha e mana mora helare chagala</s>
+	<s>o sathiya ore priya</s>
+	<s>odhanire lekhidela katha se abhula.</s>
+	<s></s>
+</lyrics>

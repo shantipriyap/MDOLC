@@ -1,0 +1,97 @@
+<Song ID>174</Song ID>
+<Title>darke lo darei kari</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>mantu chhuria & aseema panda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>rehan kamal</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>pintu chhuria</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>manoj singh & kiran kumar nayak</Producer>
+<Gender(Producer)>male & male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>darke lo darei kari</s>
+	<s>love ra chabi pai gali</s>
+	<s>man bhitir ke jai tor</s>
+	<s>love tijori tala khuli</s>
+	<s>tor dil ke churei kari</s>
+	<s>tor man ke churei kari</s>
+	<s>i duniyar aagade tate</s>
+	<s>kahuchhe khulam khulla</s>
+	<s>tate gf banei dela</s>
+	<s>i jigar wala</s>
+	<s>nan nana nana naine naine</s>
+	<s>nan nana nana naine naine</s>
+	<s>haan tate gf banei dela</s>
+	<s>e jigar wala</s>
+	<s>nan nana nana naine naine</s>
+	<s>nan nana nana naine naine</s>
+	<s>man ke mor manei kari</s>
+	<s>dil ta mor dei deli</s>
+	<s>tor premar jadu thi mui</s>
+	<s>tor premika bani gali</s>
+	<s>impress hei kari</s>
+	<s>mui tor hei kari</s>
+	<s>i duniyar aagade re mui</s>
+	<s>kahuchhen khulam khulla</s>
+	<s>mate gf banei dela</s>
+	<s>i jigar wala</s>
+	<s>nan nana nana naine naine</s>
+	<s>haan mate gf banei dela</s>
+	<s>i jigar wala</s>
+	<s>nan nana nana naine naine</s>
+	<s>mui prem poojhari heigali</s>
+	<s>a mor pyari</s>
+	<s>dekhi kari tor sundra tewar</s>
+	<s>mor dil bhitire jebbhe</s>
+	<s>tui aasikari rahigalu</s>
+	<s>bani gali tor labharrrrrr he</s>
+	<s>o janu mor dil thi</s>
+	<s>tor pyar bhari kari</s>
+	<s>mate karidelu re love fiver</s>
+	<s>tor prem jaale padi</s>
+	<s>haan mui jani gali</s>
+	<s>tor premar jadu aay superrrr</s>
+	<s>torlagi lo din raati</s>
+	<s>sabu dine lo cheti cheti</s>
+	<s>tor pachhe padikari</s>
+	<s>mor premar nisha thi</s>
+	<s>tor dil ke churei kari</s>
+	<s>tor man ke churei kari</s>
+	<s>i duniyar aagade re mui</s>
+	<s>kahuchhen khulam khulla</s>
+	<s>tate gf banei dela</s>
+	<s>i jigar wala</s>
+	<s>nan nana nana naine naine</s>
+	<s>haan tate gf banei dela</s>
+	<s>i jigar wala</s>
+	<s>nan nana nana naine naine</s>
+	<s>i prem path ta mate</s>
+	<s>deewani kala sathe</s>
+	<s>o babu sabu aay tor lila</s>
+	<s>tor i prem kahanir</s>
+	<s>deewani banei mate</s>
+	<s>banigalu tui dil wala</s>
+	<s>female voice</s>
+	<s>i duniyar sabu lo</s>
+	<s>pachchhe rahi thisi</s>
+	<s>prem ta thisi pahela</s>
+	<s>i prem mahani</s>
+	<s>lagei kari tate</s>
+	<s>dil thi basei dela</s>
+	<s>jigar wala</s>
+	<s>same to you o baby</s>
+	<s>tor lakhen mui bhi</s>
+	<s>jhumuchhen din raati tor</s>
+	<s>premar tale tal thi</s>
+	<s>impress heikari mui tor heikari</s>
+	<s>e duniyar aagade re mui kahuchhen khulam khulla</s>
+	<s>mate gf banei dela e jigar wala</s>
+	<s>nan nana nana naine naine</s>
+	<s>haan mate gf banei dela, e jigar wala</s>
+</lyrics>

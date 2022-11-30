@@ -1,0 +1,59 @@
+<Song ID>137</Song ID>
+<Title>bhuli galebi dukha nahin</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>debashish panda</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>debashish panda</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>bhuligale bi dukha nahin</s>
+	<s>dhoka dele bi dukha nahin</s>
+	<s>bhuligale bi dukha nahin</s>
+	<s>dhoka dele bi dukha nahin</s>
+	<s>tu sina helu swarthapara</s>
+	<s>tu sina helu swarthapara</s>
+	<s>mun kemiti hebi jani nahin</s>
+	<s>bhuligale bi dukha nahin</s>
+	<s>dhoka dele bi dukha nahi</s>
+	<s>bhuligale bi dukha nahin</s>
+	<s>dhoka dele bi dukha nahin</s>
+	<s>mun thili pura eka eka</s>
+	<s>kanhiki mo sathe helu dekha</s>
+	<s>bhala paiba tu sikheilu</s>
+	<s>sampark ki pain kati delu</s>
+	<s>mun thili pura eka eka</s>
+	<s>kanhiki mo sathe helu dekha</s>
+	<s>bhala paiba tu sikheilu</s>
+	<s>sampark ki pain kati delu</s>
+	<s>tu sina helu hrudaya hina</s>
+	<s>mun kemiti hebi jani nahin</s>
+	<s>bhuligale bi dukha nahin</s>
+	<s>dhoka dele bi dukha nahin</s>
+	<s>bhuligale bi dukha nahin</s>
+	<s>dhoka dele bi dukha nahin</s>
+	<s>tu thilu jebe pakhe pakhe</s>
+	<s>dunia thila mo charipakhe</s>
+	<s>aakhi dekhuthila kete swapna</s>
+	<s>pochhi neigalu sabu chinha</s>
+	<s>tu thilu jebe pakhe pakhe</s>
+	<s>dunia thila mo charipakhe</s>
+	<s>aakhi dekhuthila kete swapna</s>
+	<s>pochhi neigalu sabu chinha</s>
+	<s>dukha mun kain karibi kaha</s>
+	<s>dukha mun kain karibi kaha</s>
+	<s>pheribu ki na mun jani nahin</s>
+	<s>bhuligale bi dukha nahin</s>
+	<s>dhoka dele bi dukha nahin</s>
+	<s>bhuligale bi dukha nahin</s>
+	<s>dhoka dele bi dukha nahin</s>
+	<s></s>
+</lyrics>

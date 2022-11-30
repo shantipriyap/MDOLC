@@ -1,0 +1,34 @@
+<Song ID>124</Song ID>
+<Title>mita re mita mita tate khojuchi mo gita</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>not available</Singers>
+<Gender(Singer)>not available</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>	not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>mita re mita mita, tate khojuchi mo gita</s>
+	<s>sangita ra sure sure,sajeibi tate</s>
+	<s>tumo chira basanta,tate khojichi mo gita hai</s>
+	<s>mita re mita mita, tate khojuchi mo gita</s>
+	<s>mu janini to naa gaan dekhini tate</s>
+	<s>tu ati apanara laguchu mote hai laguchu mote</s>
+	<s>aaa mo pakha ku aaa thare dekha dei ja</s>
+	<s>mo sangita ra sure sure bhijeibi tate</s>
+	<s>kebe hebu mana ra mita, tate khojuchi mo gita</s>
+	<s>mita re mita mita,tate khojuchi mo gita</s>
+	<s>eyi chayi aluara khela kebe sariba</s>
+	<s>ama dui mana dui prana gotiye heba han gotiye heba</s>
+	<s>bhala pau mote boli kahi de tu otha kholi</s>
+	<s>sata ranga sata sure hajeibi tate</s>
+	<s>dharine mo hata,mita re mita mita tate khojuchi mo gita</s>
+	<s>mita re mita mita tate khojuchi mo gita</s>
+</lyrics>

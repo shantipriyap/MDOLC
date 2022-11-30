@@ -1,0 +1,47 @@
+<Song ID>139</Song ID>
+<Title>kie lo to mathare dela sindura</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>shubhransu nayak</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>sunil maharana</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>kea lo to matha re dela sindura</s>
+	<s>kea lo to matha re dela sindura</s>
+	<s>kemiti helu lo tu aau kahara</s>
+	<s>luha dei chaligalu aakhire mora.</s>
+	<s>tu para thilu priya jibana mora</s>
+	<s>kea lo karinela tate nijara</s>
+	<s>aama prem re lagila kaha najara</s>
+	<s>adha rahigala priya prema aamara</s>
+	<s>katha deithilu dine bhulibuni mate</s>
+	<s>kemiti chalilu bata aau kaha sathe</s>
+	<s>aau kaha bhabana re bhijia to mana</s>
+	<s>chuna chuna heigala mo suna sapana</s>
+	<s>kouthi una thila prema re mora</s>
+	<s>kouthi una thila prema re mora</s>
+	<s>sajilu badhu tea aau kahara</s>
+	<s>chhati chiri neigalu jibana mora</s>
+	<s>adha rahigala priya prema aamara</s>
+	<s>bedire basila pare bhabiluni thare</s>
+	<s>kemiti banchibi priya tu gala pare</s>
+	<s>mo jibana jalidei chhalana niaan re</s>
+	<s>kemiti parilu soi aau ka seja re</s>
+	<s>bachhi tu nelu priya khushi ku tora</s>
+	<s>bachhi tu nelu priya khushi ku tora</s>
+	<s>libhei delu sabu smriti ku mora</s>
+	<s>aau kaha hrudaya re karilu ghara</s>
+	<s>kea lo to matha re dela sindura</s>
+	<s>kemiti helu tu lo aau kahara</s>
+	<s>luha dei chaligalu aakhire mora</s>
+	<s>adha rahigala priya prema aamara</s>
+</lyrics>

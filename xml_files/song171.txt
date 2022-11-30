@@ -1,0 +1,101 @@
+<Song ID>171</Song ID>
+<Title>feel my love</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>umakanta</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2016</Year>
+<lyrics>
+	<s>ho</s>
+	<s>hmmm</s>
+	<s>bhal pauchen bhal pauchen</s>
+	<s>luki luki lo tate</s>
+	<s>kebe gala manar katha</s>
+	<s>kahin nai pare tate</s>
+	<s>bhal pauchen bhal pauchen</s>
+	<s>luki luki lo tate</s>
+	<s>kebe gala manar katha</s>
+	<s>kahin nai pare tate</s>
+	<s>tate aau kia</s>
+	<s>sate dekhi dele</s>
+	<s>tate aau kia sate dekhi dele</s>
+	<s>sahi nai pare sajani</s>
+	<s>feel my love</s>
+	<s>feelmy love hay hay re mor chandini</s>
+	<s>mui dewana i luv u re sajani</s>
+	<s>feelmy love hay hay re mor chandini</s>
+	<s>mui dewana i luv u re sajani</s>
+	<s>are mohar lagi patheichen tate bidhata</s>
+	<s>mohar khali mohar tui janitha</s>
+	<s>au kahar hele</s>
+	<s>banchi nai pare lo</s>
+	<s>pagal hei jibin</s>
+	<s>banchi nai pare lo</s>
+	<s>andhar duniya tui mor sundri janha</s>
+	<s>kebe mate ragbu nai lo dhana</s>
+	<s>chhana chhana hei</s>
+	<s>chadi jiba jibana</s>
+	<s>tor kiriya suna chadi jiba jibana</s>
+	<s>tui sina bujhu nai</s>
+	<s>jaha taha kahi desu</s>
+	<s>tui jahar jibana aau</s>
+	<s>tahake ku tadpeu kesu</s>
+	<s>aau kia</s>
+	<s>tora paske gale</s>
+	<s>aau kia tora paske gale</s>
+	<s>sahi nai pare sajani</s>
+	<s>feel my love</s>
+	<s>feelmy love hay hay re mor chandini</s>
+	<s>mui dewana i luv u re sajani</s>
+	<s>feelmy love hay hay re mor chandini</s>
+	<s>mui dewana i luv u re sajani</s>
+	<s>tor kinu rakat bahi gale saheni</s>
+	<s>akhin phuti gale bi banchi jimi</s>
+	<s>tui sahara hele</s>
+	<s>sabu dukh bhuli jimi lo</s>
+	<s>dunia ra sabu khusi</s>
+	<s>tor pante dali demi</s>
+	<s>chati chiri kalja pache nei jibu</s>
+	<s>marba bele jahar dei mari debu</s>
+	<s>dhoka sahi nai</s>
+	<s>pare sajaki thibu</s>
+	<s>sansar jiti jimi</s>
+	<s>jadi sange tui thibu</s>
+	<s>chalu thibu sangar judi</s>
+	<s>mohar hate hat milei</s>
+	<s>nije kanta madi demi</s>
+	<s>bate tor phul bichami</s>
+	<s>aau kia tor sathi hele</s>
+	<s>sahi nai pare sajani</s>
+	<s>feel my love</s>
+	<s>feelmy love hay hay re mor chandini</s>
+	<s>mui dewana i luv u re sajani</s>
+	<s>feelmy love hay hay re mor chandini</s>
+	<s>mui dewana i luv u re sajani</s>
+	<s>bhal pauchen bhal pauchen</s>
+	<s>luki luki lo tate</s>
+	<s>kebe gala manar katha</s>
+	<s>kahin nai pare tate</s>
+	<s>bhal pauchen bhal pauchen</s>
+	<s>luki luki lo tate</s>
+	<s>kebe gala manar katha</s>
+	<s>kahin nai pare tate</s>
+	<s>tate aau kia</s>
+	<s>sate dekhi dele</s>
+	<s>tate aau kia sate dekhi dele</s>
+	<s>sahi nai pare sajani</s>
+	<s>feel my love</s>
+	<s>feelmy love hay hay re mor chandini</s>
+	<s>mui dewana i luv u re sajani</s>
+	<s>feelmy love hay hay re mor chandini</s>
+	<s>mui dewana i luv u re saja</s>
+</lyrics>

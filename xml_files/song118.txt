@@ -1,0 +1,57 @@
+<Song ID>118</Song ID>
+<Title>dekhili gori kali hajare</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>babul supriyo</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>dipak kumar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>kailash moharana</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>dekhili gori kali hajare</s>
+	<s>sahara chaka aau bajare</s>
+	<s>rupa toh jhilimil</s>
+	<s>hasa toh khili khili  kabu kala mate</s>
+	<s>chagalo manaku chagali kani tora bandhi nela sate</s>
+	<s>dekhili gori kaali hajare</s>
+	<s>sahara chaka aau bajare</s>
+	<s>rupa toh jhilimil</s>
+	<s>hasa toh khili khili kabu kala mate</s>
+	<s>chagalo manaku chagali kani tora bandhi nela sate</s>
+	<s>dekhili kali hajare</s>
+	<s>mana toh bikideli pirati hatare</s>
+	<s>magili nahi mula</s>
+	<s>ta hato bandhi deli apana panate muthaie tiki phula</s>
+	<s>prathama thara koli premo sauda</s>
+	<s>mate toh miligola sundari radha</s>
+	<s>paili sapan sahare</s>
+	<s>dekhili pua mu ta hajare</s>
+	<s>sahara chaka aau bajare</s>
+	<s>tumaku bachineli nijara karineli</s>
+	<s>hato deli haate</s>
+	<s>tikili kaadhideli sindura pindhi neli</s>
+	<s>tuma payin sate</s>
+	<s>dekhili kali hajare</s>
+	<s>prathame jeun dino dekhili</s>
+	<s>tate mu kahila ae mana</s>
+	<s>uparabala tate gadichi mo payin</s>
+	<s>janili seidino</s>
+	<s>paichi sabu kichi paai tumaku</s>
+	<s>tumara sei mana chua mitha premoku</s>
+	<s>mu j saiti rakhichi manare</s>
+	<s>dekhili pua mu ta hajare</s>
+	<s>sahara chaka aau bajare</s>
+	<s>dekhili pua mu ta hajare</s>
+	<s>sahara chaka aau bajare</s>
+	<s>tumaku bachineli nijara karineli</s>
+	<s>hato deli haate</s>
+	<s>tikili kaadhideli sindura pindhi neli</s>
+	<s>tuma payin sate</s>
+</lyrics>

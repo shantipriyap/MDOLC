@@ -1,0 +1,57 @@
+<Song ID>155</Song ID>
+<Title>naam badanam</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>umakanta barik & rojalin sahu</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>bhakta prasad barik</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>bishnu tandi</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>sundar jagdala</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>bishnu tandi</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>he kale kale sutre satre collage jaau thili</s>
+	<s>mui collage jaau thili</s>
+	<s>jete bad sundri hele bi nai dekhu thili</s>
+	<s>mui nai dekhu thili lo</s>
+	<s>tui ken type ra pyar kalu</s>
+	<s>tui ken style ra love kalu</s>
+	<s>mui insalte hei gali na re</s>
+	<s>he para gali twone mui badnam hei gali na re</s>
+	<s>he para gali twone mui badnam hei gali na re</s>
+	<s>hae re</s>
+	<s>tui alga kahake bhal paebu</s>
+	<s>he alga kahake dil debu</s>
+	<s>boli doubt mate lagla na re</s>
+	<s>jani jani tor na ke badnam kari deli na re</s>
+	<s>he para gali twone mui badnam hei gali na re</s>
+	<s>hae re</s>
+	<s>simple pila k tui doubt karsu</s>
+	<s>chalte chalte tui mor sange alga aadae kain dekhu thisu</s>
+	<s>chulbul pila boli mate bhaabsu</s>
+	<s>beuti beuti tukel dekhi kari tui muskurei ta desu</s>
+	<s>tui sat katha k mich bhablu na</s>
+	<s>mui tor sacha assiq nai janlu na</s>
+	<s>tor maa bua bi phoon kale na re</s>
+	<s>jani jani tor na ke badnam kari deli na re</s>
+	<s>he para gali twone mui badnam hei gali na re</s>
+	<s>hae re</s>
+	<s>jana doubt thi bhul na jana</s>
+	<s>tor hant chadi kari jina ta duina thi jina ta kesa jina</s>
+	<s>tere bina alga kahake nai jana</s>
+	<s>tate kie alga tukel dekhi dele mari mari</s>
+	<s>mari demi muire suna</s>
+	<s>tor sange thimi sabu dina</s>
+	<s>tor kule sui jau jibana</s>
+	<s>mui promise karu che dhana re</s>
+	<s>jani jani tor na ke badnam kari deli na re</s>
+	<s>he sang mankar thanu comment kete mui khaelina re</s>
+	<s>jani jani tor na ke badnam kari deli na re</s>
+	<s>he sang dost yar mane tor na thi mate daklena re</s>
+	<s>hae re</s>
+</lyrics>

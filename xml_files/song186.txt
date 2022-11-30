@@ -1,0 +1,57 @@
+<Song ID>186</Song ID>
+<Title>hello rani hai rani</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>nil sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2021</Year>
+<lyrics>
+	<s>he he he he</s>
+	<s>hello rani</s>
+	<s>hai rani</s>
+	<s>hello rani hai rani kahu thisi</s>
+	<s>tor gala bele aaela bele dekhuthishi</s>
+	<s>tor gute najare dill ghaaela hela</s>
+	<s>tor chakhi chahani mote phasei dela aa aa aa re</s>
+	<s>mor darling mor darling mor darling</s>
+	<s>darling darling</s>
+	<s>mora darling dekhe mulmul hansuchhe hansuchhee</s>
+	<s>tor heroke dek eaade nachhu chhe</s>
+	<s>mor darling dekhe lajelaje heuchhe</s>
+	<s>tor hero ke dekh e aade nachu chhe</s>
+	<s>chhumuk chhumuk chalitor dhak dhak hela dill ta mor jhumeila tor prama nisha</s>
+	<s>mor darling mor darling mor darling</s>
+	<s>darling darling</s>
+	<s>mora darling dekhe mulmul hansuchhe hansuchhee</s>
+	<s>tor heroke dek eaade nachhu chhe</s>
+	<s>mor darling dekhe lajelaje heuchhe</s>
+	<s>tor hero ke dekh e aade nachu chhe</s>
+	<s>baja baja</s>
+	<s>rangabati tor kajali aakhi premmer range make</s>
+	<s>dhire dhire dhire guri rangeide rangeide</s>
+	<s>tor otha lalithir mahu jhare hansi desu tui</s>
+	<s>mulur mulur mulur tor mulki hansi</s>
+	<s>reshmi reshmi tor bal</s>
+	<s>chikimiya gura gaal rasiya tor banigali</s>
+	<s>mor darling mor darling</s>
+	<s>mor sunkusuna darling</s>
+	<s>mora darling dekhe mulmul hansuchhe hansuchhee</s>
+	<s>tor heroke dek eaade nachhu chhe</s>
+	<s>laj kumari emor labanga lata khanmadhuri</s>
+	<s>mitha mitha tor mitha kaatha</s>
+	<s>tor pream jhulathi de jhulei</s>
+	<s>tor aachhe mate de tike sunare lukei</s>
+	<s>hai re mor chulbul chehera tor makhabali rangeli delu kai mahani</s>
+	<s>mor darling mor darling</s>
+	<s>mor sunkusuna darling</s>
+	<s>baja baja</s>
+</lyrics>

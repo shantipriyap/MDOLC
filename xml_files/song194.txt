@@ -1,0 +1,57 @@
+<Song ID>194</Song ID>
+<Title>sawan barsha pani</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>nil sagar & archana padhi</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>radhe gardia</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>aditya dila & umesh bhoi</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>rajiv gond</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>rajiv gond</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>hey kudiye tor jawani</s>
+	<s>mor love feaver badhei dela re</s>
+	<s>tui mor gudiya</s>
+	<s>dil thi chidiya</s>
+	<s>udei nelu dil re</s>
+	<s>mui tor rani dil deewani</s>
+	<s>tui mor hero majnu re</s>
+	<s>sawan barsha pani</s>
+	<s>sawan barsha pani tike bhijei de</s>
+	<s>mor priyar dihen pahela chhita lagei de</s>
+	<s>sawan barsha pani tike bhijei de</s>
+	<s>mor priyar dihen pahela chhita lagei de</s>
+	<s>na re  na re na re hey</s>
+	<s>goriya re</s>
+	<s>mor dil daria bekabu heigala</s>
+	<s>rasiya re</s>
+	<s>mor man akase tor rang lagigala</s>
+	<s>endradhanu lekhe</s>
+	<s>sat range tate rangei demi</s>
+	<s>myuri rani hei tor sure nachu thimi</s>
+	<s>pa ma ga sa re dha ni</s>
+	<s>sawan barsha pani</s>
+	<s>sawan barsha pani tike bhijei de</s>
+	<s>mor priyar dihen pahela chhita lagei de</s>
+	<s>sawan barsha pani tike bhijei de</s>
+	<s>mor priyar dihen pahela chhita lagei de</s>
+	<s>ladli re</s>
+	<s>tor pyar mor dil thi</s>
+	<s>bund bund bhari gala</s>
+	<s>ladla re</s>
+	<s>tor prem ra dhuka</s>
+	<s>mor manke chhin gala</s>
+	<s>rainy season lekhen</s>
+	<s>mor preme tate bhijau thimi</s>
+	<s>barsha rani hei tor sange mui bhiju thimi</s>
+	<s>pa ma ga sa re dha ni</s>
+	<s>sawan barsha pani</s>
+	<s>sawan baraha pani tike bhijei de</s>
+	<s>mor priyar dihe pahela chhita lagei de</s>
+</lyrics>

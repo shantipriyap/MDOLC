@@ -1,0 +1,71 @@
+<Song ID>138</Song ID>
+<Title>tu mo ghruna dekhibu</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>humane sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>prem darshan</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>prem darshan</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>luha deiki mo aakhire</s>
+	<s>kemiti tu hasi paruchhu</s>
+	<s>dukha deiki ko chhatire</s>
+	<s>kemiti tu khushi hauchhu</s>
+	<s>bhabichhu ki mo aakhire luha dei ki</s>
+	<s>tu khushi re rahibu</s>
+	<s>dekhichhu ta prema mora</s>
+	<s>ebe ghruna dekhibu</s>
+	<s>tu mo ghruna dekhibu</s>
+	<s>dekhichhu` ta prema mora</s>
+	<s>ebe ghruna dekhibu</s>
+	<s>tu mo ghruna dekhibu</s>
+	<s>dekhichhu ta prema mora</s>
+	<s>ebe ghruna dekhibu</s>
+	<s>tu mo ghruna dekhibu</s>
+	<s>to michha ku sabu sata bhabi</s>
+	<s>deli premika ra manyata</s>
+	<s>aaji bujhili mo prema pain</s>
+	<s>nathila lo tora jogyata</s>
+	<s>bhangidelu ta mo hrudaya ku</s>
+	<s>etiki mane rakhibu</s>
+	<s>aaji pauchhi mun jete kasta</s>
+	<s>dine na dine tu paibu</s>
+	<s>bhabichhu ki mate chhadi aau ka sathire</s>
+	<s>tu khushi re rahibu</s>
+	<s>dekhichhu ta prema mora</s>
+	<s>ebe ghruna dekhibu</s>
+	<s>tu mo ghruna dekhibu</s>
+	<s>dekhichhu` ta prema mora</s>
+	<s>ebe ghruna dekhibu</s>
+	<s>tu mo ghruna dekhibu</s>
+	<s>dekhichhu ta prema mora</s>
+	<s>ebe ghruna dekhibu</s>
+	<s>tu mo ghruna dekhibu</s>
+	<s>milileni tate aau kehi</s>
+	<s>mana sathe mora khelilu</s>
+	<s>sata janama ku katha dei</s>
+	<s>dhana kain thaki delu</s>
+	<s>ete bhala pauthili tate</s>
+	<s>kemiti bhuli galu tu</s>
+	<s>marijibi pachhe aau kebe</s>
+	<s>bhala paibini kahaku</s>
+	<s>bhabichhu ki aau ka sindura naile</s>
+	<s>tu khushi re rahibu</s>
+	<s>dekhichhu ta prema mora</s>
+	<s>ebe ghruna dekhibu</s>
+	<s>tu mo ghruna dekhibu</s>
+	<s>dekhichhu` ta prema mora</s>
+	<s>ebe ghruna dekhibu</s>
+	<s>tu mo ghruna dekhibu</s>
+	<s>dekhichhu ta prema mora</s>
+	<s>ebe ghruna dekhibu</s>
+	<s>tu mo ghruna dekhibu</s>
+</lyrics>

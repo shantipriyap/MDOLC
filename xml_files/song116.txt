@@ -1,0 +1,33 @@
+<Song ID>116</Song ID>
+<Title>chulubuli chulubuli chehera toh mokhomali kede naali</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>not available</Singers>
+<Gender(Singer)>not available</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>	not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>chulubuli chulubuli chehera toh mokhomali kede naali</s>
+	<s>jhilimili jhilimili hasa toro khili khili kede naali</s>
+	<s>e jaien thila monore tala tori payin phiteideli</s>
+	<s>hasideli hasideli dekhu dekhu fasigali kede naali</s>
+	<s>rasigoli rasigoli bhala payin misigali kede naali</s>
+	<s>e jaien thila monore tala tori payin phiteideli</s>
+	<s>premo kale chehera toh chohate bhaari</s>
+	<s>jana padu tate dekhile gori</s>
+	<s>aagaru ru laguthilo nihati boka</s>
+	<s>ebe jaanigoli tame siana toka</s>
+	<s>aakhi nachie nelu patei</s>
+	<s>premore toro baaea heli</s>
+	<s>jaanigoli jaanigoli tame premore joko laagigale aau chadibani jamaru pakhru</s>
+	<s>tuma pare premo mate debeni kehi sukha jete jaani goli tumaku paaie</s>
+	<s>mailo tiro chatire moro premore tuma baaiya heli</s>
+</lyrics>

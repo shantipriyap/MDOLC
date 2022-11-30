@@ -1,0 +1,34 @@
+<Song ID>123</Song ID>
+<Title>padisa gharu kanire ghodei magi ane mo paein tuna tatia</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>not available</Singers>
+<Gender(Singer)>not available</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available	not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>nan</Year>
+<lyrics>
+	<s>padisa gharu kanire ghodei magi ane mo paein tuna tatia</s>
+	<s>maa se mo maa, maa se mo maa</s>
+	<s>andhara hele mo feriba bate</s>
+	<s>dibiri dhari hoi thaye thia maa se mo maa</s>
+	<s>jetebele dekhuchi juadaku dekhuchi</s>
+	<s>matiru akasha ta panata lambichi</s>
+	<s>sata ghera hoi mote gherichi</s>
+	<s>jeun dueti akhire aaji bi</s>
+	<s>mu se danda dhuli khela chotia chua</s>
+	<s>maa se mo maa, ho maa se mo maa</s>
+	<s>dekhi dele muhan te mana katha bujhe se</s>
+	<s>kejani kemiti ae antara padhe se</s>
+	<s>mamata ra sindhu senha parase</s>
+	<s>mana re ase mechaye sahasha</s>
+	<s>tharutiye nele othe jahara naa</s>
+	<s>maa se mo maa, maa se mo maa</s>
+</lyrics>

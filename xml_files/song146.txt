@@ -1,0 +1,109 @@
+<Song ID>146</Song ID>
+<Title>cham cham tor bindiaa</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>umakant barik & sailabhama</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>bhakata prasad barik</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>pradip bhoi</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>sidhartha music</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>cham cham</s>
+	<s>cham cham tor bindiaa</s>
+	<s>hae re chamki jau chhe</s>
+	<s>nili nili tor aakhi</s>
+	<s>mote nuri bulu chhe</s>
+	<s>cham cham tor bindiaa</s>
+	<s>hae re chamki jau chhe</s>
+	<s>nili nili tor aakhi</s>
+	<s>mote nuri bulu chhe</s>
+	<s>a tor chaka chahani</s>
+	<s>mote bhal pau chhe</s>
+	<s>a tor chaka chahani</s>
+	<s>mote bhal pau chhe</s>
+	<s>chal hat chal hat</s>
+	<s>jare jare rasia</s>
+	<s>tate kia chinhi che</s>
+	<s>jare jare rasia</s>
+	<s>tate kia chinhi che</s>
+	<s>cham cham tor bindiaa</s>
+	<s>hae re chamki jau chhe</s>
+	<s>jare jare rasia</s>
+	<s>tate kia chinhi che</s>
+	<s>he juba juba tor galar lali re</s>
+	<s>mote mohan karu chhe</s>
+	<s>mote mohan karu chhe</s>
+	<s>chakhi chakhi tor kuanri chakhi lo</s>
+	<s>pas ke mate daku chhe</s>
+	<s>pas ke mate daku chhe</s>
+	<s>he juba juba tor galar lali re</s>
+	<s>mote mohan karu chhe</s>
+	<s>mote mohan karu chhe</s>
+	<s>chakhi chakhi tor kuanri chakhi lo</s>
+	<s>pas ke mate daku chhe</s>
+	<s>pas ke mate daku chhe</s>
+	<s>pakala dala lekhe pakei heu chhu</s>
+	<s>patar khali lekhe udi bulu chhu</s>
+	<s>pakala dala lekhe pakei heu chhu</s>
+	<s>patar khali lekhe udi bulu chhu</s>
+	<s>chal hat chal hat</s>
+	<s>he mor bilei hei kairi</s>
+	<s>mote miaun karu chhe</s>
+	<s>he mor bilei hei kairi</s>
+	<s>mote miaun karu chhe</s>
+	<s>aare jare jare rasia</s>
+	<s>tate kia chinhi che</s>
+	<s>a he cham cham tor bindiaa</s>
+	<s>hae re chamki jau chhe</s>
+	<s>he chota chota tor gelei chota lo</s>
+	<s>sajei kari maru chhu</s>
+	<s>sajei kari maru chhu</s>
+	<s>gali diaa thi bhi tor sate re</s>
+	<s>mohor prem bhari chhu</s>
+	<s>mohor prem bhari chhu</s>
+	<s>he chota chota tor gelei chota lo</s>
+	<s>sajei kari maru chhu</s>
+	<s>sajei kari maru chhu</s>
+	<s>gali diaa thi bhi tor sate re</s>
+	<s>mohor prem bhari chhu</s>
+	<s>mohor prem bhari chhu</s>
+	<s>agal la palha tui phiki dele na gala</s>
+	<s>achala paesa tui mul nai pila</s>
+	<s>agal la palha tui phiki dele na gala</s>
+	<s>achala paesa tui mul nai pila</s>
+	<s>chal hat chal hat</s>
+	<s>he mor pusa mitu nani</s>
+	<s>motr chabi daudu chhe</s>
+	<s>he mor pusa mitu nani</s>
+	<s>motr chabi daudu chhe</s>
+	<s>jare jare rasia</s>
+	<s>tate kia chinhi che</s>
+	<s>he cham cham tor bindiaa</s>
+	<s>hae re chamki jau chhe</s>
+	<s>nili nili tor aakhi</s>
+	<s>mote nuri bulu chhe</s>
+	<s>a tor chaka chahani</s>
+	<s>mote bhal pau chhe</s>
+	<s>a tor chaka chahani</s>
+	<s>mote bhal pau chhe</s>
+	<s>chal hat chal hat</s>
+	<s>jare jare rasia</s>
+	<s>tate kia chinhi che</s>
+	<s>jare jare rasia</s>
+	<s>tate kia chinhi che</s>
+	<s>he cham cham tor bindiaa</s>
+	<s>hae re chamki jau chhe</s>
+	<s>jare jare rasia</s>
+	<s>tate kia chinhi che</s>
+	<s>he go cham cham tor bindiaa</s>
+	<s>hae re chamki jau chhe</s>
+	<s>jare jare rasia</s>
+	<s>tate kia chinhi che</s>
+</lyrics>

@@ -1,0 +1,60 @@
+<Song ID>193</Song ID>
+<Title>chhati mor dulkila</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>pankaj & sabita</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>samir nag</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nirmal nayak</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>t-series</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2011</Year>
+<lyrics>
+	<s>chhati mor dulkila</s>
+	<s>paan supari khai re guri malkila</s>
+	<s>e chhati mor dulkila</s>
+	<s>paan supari khai re guri malkila</s>
+	<s>malki dela malki danga hai</s>
+	<s>malki dela malki danga</s>
+	<s>nai gala jhumura</s>
+	<s>aa aa haigo</s>
+	<s>ekda ekda ra re pila ekda ekda ra</s>
+	<s>e chhati mor dulkila</s>
+	<s>paan supari khai re guri malkila</s>
+	<s>hai chhati mor dulkila</s>
+	<s>paan supari khai re guri malkila</s>
+	<s>malki dela malki danga hai</s>
+	<s>e malki dela malki danga</s>
+	<s>nai gala jhumura</s>
+	<s>ekda ekda ra re pila ekda ekda ra</s>
+	<s>gura gale rasi gute otha kari lali</s>
+	<s>chhumu chhuma painri rasmandri chalali</s>
+	<s>gura gale rasi gute otha kari lali</s>
+	<s>chhumu chhuma painri rasmandri chalali</s>
+	<s>thumku thuma gal dui ta hai</s>
+	<s>e mor thumku thuma gal dui ta</s>
+	<s>ras dumera bhara</s>
+	<s>aa aa haigo</s>
+	<s>ekda ekda ra re pila ekda ekda ra</s>
+	<s>chhana chhana jaubana chahata chika</s>
+	<s>jhim kalia hirni akhi bai kala mana</s>
+	<s>chhana chhana jaubana chahata chika</s>
+	<s>jhim kalia hirni akhi bai kala mana</s>
+	<s>kale kale beti neti detu bele dhara</s>
+	<s>aa aa haigo</s>
+	<s>ekda ekda ra re pila ekda ekda ra</s>
+	<s>chhati mor dulkila</s>
+	<s>paan supari khai re guri malkila</s>
+	<s>chhati mor dulkila</s>
+	<s>paan supari khai re guri malkila</s>
+	<s>malki dela malki danga hai</s>
+	<s>e malki dela malki danga</s>
+	<s>nai gala jhumura</s>
+	<s>e aa aa aa</s>
+	<s>ekda ekda ra re pila ekda ekda ra</s>
+</lyrics>

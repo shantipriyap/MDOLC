@@ -1,0 +1,48 @@
+<Song ID>199</Song ID>
+<Title>priya re ho priya re ho bada dukh delu re mate</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>not available</Singers>
+<Gender(Singer)>not available</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>ho e janame mate bahut tadpauchhu</s>
+	<s>he aara janame bhi tadpabu ke kaha</s>
+	<s>bhal paesu bele love karsu bele</s>
+	<s>bhal paesu bele mate ete rage nai kaha</s>
+	<s>pyar karsu bele mate muhuke phule nai raha</s>
+	<s>sajani re re a sajani re a sajani re sajani sajani sajani sajani</s>
+	<s>bhal paesu bele mate ete rage nai kaha</s>
+	<s>love karsu bele mate lo muhuke phule nai raha</s>
+	<s>bhal paesu bele mate ete rage nai kaha</s>
+	<s>love karsu bele mate muhuke phule nai raha</s>
+	<s>ho chhati ke mor pathar kari kete din sahemi</s>
+	<s>chhati phata katha ke ta suni sate marijimi</s>
+	<s>ho bhal tate paebar saja aau kete paemi</s>
+	<s>kana tike dei delo mate hasi hasi khaidemi</s>
+	<s>kanduchhe mor mann kete kandabu re nai sahe jiban</s>
+	<s>kahele kahake hasi debe luke bhanguchhu sapan</s>
+	<s>bhal paesu bele mate ete rage nai kaha</s>
+	<s>love karsu bele mate lo muhuke phul nai raha</s>
+	<s>bhal paesu bele mate ete rage nai kaha</s>
+	<s>love karsu bele mate muhuke phule nai raha</s>
+	<s>ho phulei mor muhu phulale badal dhapi hesi</s>
+	<s>ete raag kena thisi je re bijili lekhe tharei desi</s>
+	<s>ho janichhe tar rismi thi bhi pyar lukithisi</s>
+	<s>abujha tar bauripan ke mui dekhle kabu re chup rahesi</s>
+	<s>kie kana kala kana heigala lagigala najar</s>
+	<s>jiban sethi hei raguchhu re tui pidemi jahar</s>
+	<s>bhal paesu bele mate ete rage nai kaha</s>
+	<s>love karsu bele mate lo muhuke phule nai raha</s>
+	<s>bhal paesu bele mate ete rage nai kaha</s>
+	<s>pyar karsu bele mate muhuke phule nai raha</s>
+</lyrics>

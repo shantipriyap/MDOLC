@@ -1,0 +1,87 @@
+<Song ID>179</Song ID>
+<Title>radha rani sundri guri</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>not available</Singers>
+<Gender(Singer)>not available</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>hare jhare nain jharbu tor kuchi kuch bal ke</s>
+	<s>tor kuchi kuchi bal ke</s>
+	<s>jete bele guncha musa anpri deba gal ke</s>
+	<s>jhare jhare nain jharbu tor kuchi kuch bal ke</s>
+	<s>tor haldi makha gal ke</s>
+	<s>jete bele guncha musa anpri deba gal ke</s>
+	<s>gudu gudu megh badala dhaunru degla saula</s>
+	<s>kindri kindri balula</s>
+	<s>makhi thilu chen haladi rang udigala baula</s>
+	<s>gudu gudu megh badala dhaunru degla saula lo</s>
+	<s>kindri kindri balula</s>
+	<s>makhi thilu chen haladi rang udigala baula</s>
+	<s>gudu gudu megh badala dhaunru degla saula</s>
+	<s>kindri kindri balula</s>
+	<s>makhi thilu chen haladi rang udigala baula</s>
+	<s>he radha rani sundri guri</s>
+	<s>haldi makhi panapatari</s>
+	<s>radha rani sundri guri haldi makhi pana patari</s>
+	<s>e kalu kaen mantara</s>
+	<s>hai re kalu kaen mantara</s>
+	<s>tor katha bhali aanuchhe mate go piratir jara</s>
+	<s>ho rasabati rasamandara</s>
+	<s>nain delu love lattera</s>
+	<s>rasabati rasamandara</s>
+	<s>nain delu love lattera</s>
+	<s>e karu delu kaen para</s>
+	<s>haire kari delu kaen para</s>
+	<s>tor katha bhali aanuchhe mate go piratir jara</s>
+	<s>tor katha bhali aanuchhe mate piratir jara</s>
+	<s>hai re tor katha bhali aanuchhe mate piratir jara</s>
+	<s>he karei upare chatu</s>
+	<s>jatane rakhichhen tumar fatu</s>
+	<s>karei upare chatu</s>
+	<s>jatane rakhichhen tumar fatu</s>
+	<s>e dhana chhane hele mane pakatu re jibaradhana</s>
+	<s>hai re tumar thane achhe aamari mana re jibaradhana</s>
+	<s>he</s>
+	<s>he garia upare gadu aamke dekhi muhu ke mudu</s>
+	<s>garia upare gadu aamke dekhi muhu ke mudu</s>
+	<s>e tete khuami pirati ladu re bidiapana</s>
+	<s>aamke dekhi muhun fulasa re bidiapana</s>
+	<s>rasabati rasmalei chali jaisu anta halei</s>
+	<s>lagsi bada dengara</s>
+	<s>hai re katha khand madhura</s>
+	<s>tor katha bhali aanuchhe mate piratir jara</s>
+	<s>hai re tor katha bhali aanuchhe mate piratir jara</s>
+	<s>kaelsi gumuda fale haldi makhichhu duhita gale</s>
+	<s>e phul khuchi demi khusa ra tale re chhina ra bele</s>
+	<s>e chuma deidemi duita gale re chhina ra bele</s>
+	<s>oho</s>
+	<s>jhuba jhara juara tale</s>
+	<s>hetu karba sanja sakale</s>
+	<s>jhuba jhara juara tale</s>
+	<s>hetu karba sanja sakale</s>
+	<s>he tumar aamar sate prem byabahara go machana tale</s>
+	<s>e luka chura prem khand madhura go machara tale</s>
+	<s>rasabati rasdumera</s>
+	<s>phul nu re kala bhamara</s>
+	<s>tor lagi khaimi jahara</s>
+	<s>muin tor rasia bara</s>
+	<s>e nain delu khabara</s>
+	<s>hai re nain delu utara</s>
+	<s>tor katha bhali anlana mate piratir jara</s>
+	<s>kebhe kahebu mor sajani guri mate ken bara</s>
+	<s>hai re tor katha bhali aanuchhe mate piratir jara</s>
+	<s>kebhe kahebu mor sajani guri mate ken bara</s>
+	<s>hai re tor katha bhali aanuchhe mate piratir jara</s>
+	<s>kebhe kahebu mor sajani guri mate tor bara</s>
+	<s>mate tor bara</s>
+</lyrics>

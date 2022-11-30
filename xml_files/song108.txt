@@ -1,0 +1,42 @@
+<Song ID>108</Song ID>
+<Title>bandhu tia khoju khoju paili jahaku aji sia hela moro bodhu</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>ratikanta satpathy & trupti das</Singers>
+<Gender(Singer)>sarat nayak</Gender(Singer)>
+<Music Director>male</Music Director>
+<Gender(Music Director)>bijaya malla</Gender(Music Director)>
+<Lyrics Author>male</Lyrics Author>
+<Gender(Lyrics Author)>suvendu swain</Gender(Lyrics Author)>
+<Director>male</Director>
+<Gender(Director)>debasish dogra</Gender(Director)>
+<Producer>male</Producer>
+<Gender(Producer)>chaka chaka bhaunri</Gender(Producer)>
+<Movie_Album>2007</Movie_Album>
+<Year>nan</Year>
+<lyrics>
+	<s>bandhu tia khoju khoju paili jahaku aji sia hela moro bodhu</s>
+	<s>kai sina magithili bindu a premo mu aji miligala mote sindhu</s>
+	<s>satire sathire ajji jibonoru jhore khali mahu</s>
+	<s>ah ahhha ohhh</s>
+	<s>premo ra mane bujhiba</s>
+	<s>adu tumo premo mote bandhi nela</s>
+	<s>sapano jete shaaiti</s>
+	<s>rakhi thili tumori promo ku unna hela</s>
+	<s>unna bi nuhe adhiko</s>
+	<s>nuhe thik tume moro kalpona</s>
+	<s>ai mo mono chandan boli</s>
+	<s>tume moro murchona</s>
+	<s>jochona re bhiju bhiju</s>
+	<s>paili jahaku se to pruima ra gate bindu</s>
+	<s>hrudaya moro karicho gharo</s>
+	<s>mu khojuchi gate paribar</s>
+	<s>ghro thu sei paribar</s>
+	<s>loko tume jama au besi duro</s>
+	<s>adhoni moro odhona hela</s>
+	<s>tumo pai sathi tumo pai sathi</s>
+	<s>ki khora tati ki jhono rati</s>
+	<s>beti jau tomo muho cahi</s>
+	<s>bodhu beso saju saju paichi</s>
+	<s>jaha mu se mo srimonte sinduro bindu</s>
+</lyrics>

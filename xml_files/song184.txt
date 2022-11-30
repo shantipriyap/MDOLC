@@ -1,0 +1,70 @@
+<Song ID>184</Song ID>
+<Title>market khaila</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>jogesh jojo & ipsita</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>danger nishan bala radhe</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>subham pradhan</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>jogesh jojo</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>rajiv gond</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>jebhe tiktok thi tiktok thi tiktok thi</s>
+	<s>jebhe tiktok thi video tume chadla</s>
+	<s>market khaila</s>
+	<s>jebhe tiktok thi video tume chadla</s>
+	<s>market khaila</s>
+	<s>thik chini che tote tui</s>
+	<s>aau faltu pila</s>
+	<s>mui jenta kale tor</s>
+	<s>buar kain ta gala</s>
+	<s>he gura gura gale tamar</s>
+	<s>kala kala bala</s>
+	<s>tume phul bagicha hele</s>
+	<s>aame kala bhamara</s>
+	<s>tumar video dekhi dekhi</s>
+	<s>jhumura nia lagu che rati</s>
+	<s>hnn kaha tor para ke</s>
+	<s>aaime lo barati</s>
+	<s>jebhe aamar para aamar para aamar para</s>
+	<s>jebhe aamar para tame buli aaila</s>
+	<s>market khaila</s>
+	<s>jebhe tiktok thi video tume chadla</s>
+	<s>market khaila</s>
+	<s>tume tali padar pila sabu kechara</s>
+	<s>ja khat khasara</s>
+	<s>he upar padar tukel mane tume go</s>
+	<s>district bahare mal mali</s>
+	<s>enta katha kahebu jadi pila re</s>
+	<s>khaibu maa bahen gali</s>
+	<s>he he he he</s>
+	<s>tumar padar chua pila sabhe ga</s>
+	<s>daku chan bhenei bhenei boli</s>
+	<s>enta katha kahebu jadi pila re</s>
+	<s>khaibu maa bahen gali</s>
+	<s>ja ja re tingalu pahela nijke sambhalu</s>
+	<s>aamar pache padi tui kahi line maru</s>
+	<s>sunta kali jugar nari</s>
+	<s>mote nia bhabu bekari</s>
+	<s>chasi gharar chua hele</s>
+	<s>bhi bassi ferari</s>
+	<s>dhana tike dam dhar</s>
+	<s>sambalpure aamar ghar</s>
+	<s>dil khuli kari kahu che tote</s>
+	<s>happy new year go dhana</s>
+	<s>happy new year</s>
+	<s>jebhe aamar sange aamar sange aamar sange</s>
+	<s>tame duet karla</s>
+	<s>market khaila</s>
+	<s>jebhe tiktok thi video tame chadla</s>
+	<s>market khaiala</s>
+	<s>jebhe tamar sange aame duet karlu market khailu</s>
+	<s>jebhe aamar sange tame duet karla</s>
+	<s>market khaila</s>
+</lyrics>

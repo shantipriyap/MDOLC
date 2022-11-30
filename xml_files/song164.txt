@@ -1,0 +1,44 @@
+<Song ID>164</Song ID>
+<Title>city college bali</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>suresh suna</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>sunil & suresh</Music Director>
+<Gender(Music Director)>male & male</Gender(Music Director)>
+<Lyrics Author>manoj mahananda</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>sudeep tripathy</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>deli deli bus ti tar aana jana</s>
+	<s>tar lagi mui chhani deli khana pina</s>
+	<s>dil ke kala mor chori chori</s>
+	<s>hae re city college bali</s>
+	<s>tar mal ka mal ka anta mal ka kari desi baura</s>
+	<s>tar jhilsi jhilsi ankhi mit ka laksi man bhara</s>
+	<s>tar katha khali bhabi bhabi mali</s>
+	<s>dil ke kala mor chori chori</s>
+	<s>hai re city college bali</s>
+	<s>are bhuski nai na ki khed khedi nai na</s>
+	<s>achhe tar batare beauty</s>
+	<s>ghamandi nai se ki phulei ta nai se happy happy thisi bilkul</s>
+	<s>hasie tar hasie ta abhula sruti</s>
+	<s>katha tar katha ta pet puri jai si</s>
+	<s>tui lably lably suity baby mind blowing smile</s>
+	<s>nakhra baby nakhra dekhi dil gala beheli</s>
+	<s>tor katha khali bhabi bhabi mali re</s>
+	<s>dil ke kala mor chori chori</s>
+	<s>hai re city college bali</s>
+	<s>are rati sara mui sui nai paruchhe kana kari delu baby</s>
+	<s>muskil hela mor khana pina jina hos jauchhe mor udi</s>
+	<s>sapne mor sapne aesu rati  tui aile mor dhadki jau thisi chhati</s>
+	<s>tor amna samna hei gale kaije darlagu</s>
+	<s>manar katha kai je take kahi nai heu chhe</s>
+	<s>tor katha khali bhabi bhabi mali re</s>
+	<s>dil ke kala mor chori chori hai re city college bali</s>
+</lyrics>

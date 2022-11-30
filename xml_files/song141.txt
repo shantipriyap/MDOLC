@@ -1,0 +1,49 @@
+<Song ID>141</Song ID>
+<Title>dhika tora hrudaya ku dhika tora jibana</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>aseema panda</Singers>
+<Gender(Singer)>female</Gender(Singer)>
+<Music Director>ashok kumar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>jadumani panigrahi</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>dhika tora hrudaya ku dhika tora jibana</s>
+	<s>dhoka delu mo prema ku ede beimana</s>
+	<s>dhika tora hrudaya ku dhika tora jibana</s>
+	<s>dhoka delu mo prema ku ede beimana</s>
+	<s>bhangi jiba garba tora to sapana to sansara</s>
+	<s>a duniya kahiba lo tate gote swarthapara</s>
+	<s>eka eka kanduthibu basi rati dina</s>
+	<s>dhika tora hrudaya ku dhika tora jibana</s>
+	<s>dhoka delu mo prema ku ede beimana</s>
+	<s>mo khushi ku chhadei nei</s>
+	<s>heuchhu sina khushi heuchhu sina khushi</s>
+	<s>mo khushi ku chhadei nei</s>
+	<s>heuchhu sina khushi heuchhu sina khushi</s>
+	<s>se khushi tora 2dina lo</s>
+	<s>matire jiba misi matire jiba misi</s>
+	<s>bhangidelu mo biswas karibu tu abasosa</s>
+	<s>jalibulo jalibulo sara jibana</s>
+	<s>dhika tora hrudaya ku dhika tora jibana</s>
+	<s>dhoka delu mo prema ku ede beimana</s>
+	<s>mo aakhire luha tu dei pailu kiba labha</s>
+	<s>pailu kiba labha</s>
+	<s>mo aakhire luha tu dei pailu kiba labha</s>
+	<s>pailu kiba labha</s>
+	<s>to jibana semiti dine luhare bhiji jiba</s>
+	<s>luhare bhiji jiba</s>
+	<s>adinia megha hei prema ku mo nelu dhoi</s>
+	<s>bhabilu lo bhabibulo mo katha se dina</s>
+	<s>dhika tora hrudaya ku dhika tora jibana</s>
+	<s>dhoka delu mo prema ku ede beimana</s>
+	<s>dhoka delu mo prema ku ede beimana</s>
+	<s>dhoka delu mo prema ku ede beimana</s>
+</lyrics>

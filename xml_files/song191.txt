@@ -1,0 +1,48 @@
+<Song ID>191</Song ID>
+<Title>hai gori tor lachki chali hai hai hai</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>satrughana</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>bhakta prasad barik</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>hrusikesh</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>rituraj</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>t series music</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2007</Year>
+<lyrics>
+	<s>hai gori tor lachki chali hai hai hai</s>
+	<s>guri tor lachki chali kanli anta</s>
+	<s>amku maela re maela tor muhu malaka</s>
+	<s>hai gori tor lachki chali hai re hai re hai re hai</s>
+	<s>hai gori tor lachki chali kanli anta</s>
+	<s>amku maela re maela tor muhu malaka</s>
+	<s>chikina chikina tor chikina gale pahela kiranar lali</s>
+	<s>hai re pahela kiranar lali</s>
+	<s>nuheta etar lekhe nuheta setar lekhe</s>
+	<s>tor chehera nirali</s>
+	<s>hai re tor chehera nirali</s>
+	<s>han chikina chikina tor chikina gale pahela kiranar lali</s>
+	<s>hai re pahela kiranar lali</s>
+	<s>ho ho nuheta etar lekhe nuheta setar lekhe</s>
+	<s>tor chehera nirali</s>
+	<s>hai re tor chehera nirali</s>
+	<s>tui ta bholi bhali hai re hai re hai</s>
+	<s>tui ta bholi bhali laha lahaka</s>
+	<s>amku maela re maela tor muhu malaka</s>
+	<s>nili nili akhi kanlia chakhi tui ta hur huria dhuka hai re</s>
+	<s>tui ta hur huria dhuka</s>
+	<s>hoho luki luki kari jaesu tui chali samiyan dekhi chhina chhaka</s>
+	<s>hai re samiyan dekhi chhina chaka</s>
+	<s>nili nili akhi kanlia chakhi tui ta hur huria dhuka hai re tui ta hur huria dhuka</s>
+	<s>luki luki kari jaesu tui chali samiyan dekhi chhina chhaka</s>
+	<s>hai re samiyan dekhi chhina chaka</s>
+	<s>hai tor mulki hasi lagsi jhatka</s>
+	<s>amku maela re maela tor muhu malaka</s>
+	<s>guri tor lachki chali kanli anta</s>
+	<s>amku maela re maela tor muhu malaka</s>
+</lyrics>

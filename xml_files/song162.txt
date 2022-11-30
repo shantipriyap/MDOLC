@@ -1,0 +1,64 @@
+<Song ID>162</Song ID>
+<Title>tor bhal paebar ta mui jani gaali</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>umakant barik</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>pradeep bhoi</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>rajit parida</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>ho ooo</s>
+	<s>tor bhal paebar ta mui jani gaali</s>
+	<s>tor sabu katha ke mui mehesus karli</s>
+	<s>tor bhal paebar ta mui jani gaali</s>
+	<s>sabu katha ke mui mehesus karli</s>
+	<s>kanje tui dure achu paske tui nai aasu chu</s>
+	<s>ho aaja re aaja mor banho mai gori</s>
+	<s>a mor gaon ki chori i am very sorry</s>
+	<s>suni ja re mor sajana</s>
+	<s>banei deli tate mor deewana</s>
+	<s>suni ja re mor sajana</s>
+	<s>banei deli tate mor deewana</s>
+	<s>he_kebe mate chadi tui nai palabu</s>
+	<s>a mor pardesi babu i love you</s>
+	<s>i love you</s>
+	<s>mui tor pardesi babu i love you</s>
+	<s>i love you</s>
+	<s>kan mui dharu chen mafi tate magu chen</s>
+	<s>tate chadi nai jaen guria</s>
+	<s>tor thanu nai jaen duria</s>
+	<s>kan nai dharbu go mafi nai magnu go</s>
+	<s>dunhe misi gadhma aamar dunia</s>
+	<s>dekhu thiba e sara dunia</s>
+	<s>tate mui paigali tor sate hei gali</s>
+	<s>tate mui dhana paita gali tor sate hei gali</s>
+	<s>dhire dhire tor lagi heli bekabu</s>
+	<s>mui tor pardesi babu i love you</s>
+	<s>i miss you</s>
+	<s>a mor pardesi babu i love you</s>
+	<s>i love you</s>
+	<s>tor katha bhabu chen sapan mui dekhu chen</s>
+	<s>hemi boli mui tor kania</s>
+	<s>hemi boli mui tor dulhania</s>
+	<s>a mor sathia tui mor mahia</s>
+	<s>kaen jadu kalu goria</s>
+	<s>churei nellu akhir nindia</s>
+	<s>rusi gale tui manabu</s>
+	<s>sabu bele mate hasauthibu</s>
+	<s>rusi gale tui manabu</s>
+	<s>sabu bele mate hasauthibu</s>
+	<s>kebe mate chadi tui nai palabu</s>
+	<s>a mor pardesi babu i love you</s>
+	<s>i love you</s>
+	<s>mui tor pardesi babu i love you</s>
+	<s>i love you</s>
+	<s>i love you,i love you too baby</s>
+</lyrics>

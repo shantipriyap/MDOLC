@@ -1,0 +1,101 @@
+<Song ID>157</Song ID>
+<Title>handia bali</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>kishore bag</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>kishore bag</Music Director>
+<Gender(Music Director)>sanjeeb kumar</Gender(Music Director)>
+<Lyrics Author>male</Lyrics Author>
+<Gender(Lyrics Author)>boby islam</Gender(Lyrics Author)>
+<Director>male</Director>
+<Gender(Director)>sarthak music</Gender(Director)>
+<Producer>company</Producer>
+<Gender(Producer)>independent</Gender(Producer)>
+<Movie_Album>2018</Movie_Album>
+<Year>nan</Year>
+<lyrics>
+	<s>cham chamacham chamku che tor otth lale lal go</s>
+	<s>guria guria gal go furfuria bal go</s>
+	<s>dekh dekh tor udi jau che chunri sambhal go</s>
+	<s>tor pyar jenta mahu mitha hei ja tui bhamar atha</s>
+	<s>chipki ja mor otth ne</s>
+	<s>chapi demi tor photu ta pansha tankia note ne</s>
+	<s>are handia bali mor kusuna bali</s>
+	<s>are handia bali mor kusuna bali hae</s>
+	<s>kusna bulei udhar dei tha</s>
+	<s>are handia bali mor kusuna balii</s>
+	<s>kusna bulei udhar dei tha</s>
+	<s>mor na tanka paisa kichi nai na</s>
+	<s>mor dil nei kusna dei tha</s>
+	<s>mor na tanka paisa kichi nai na</s>
+	<s>mor dil nei kusna dei tha</s>
+	<s>kusna bulei dei tha, kusna bulei dei tha</s>
+	<s>mor na rupia paisa kichi nai na</s>
+	<s>mor dil nei kusna dei tha</s>
+	<s>mor na tanka paisa kichi nai na</s>
+	<s>mor dil nei kusna dei tha</s>
+	<s>handia bali mor kusuna bali</s>
+	<s>kusna bulei udhar dei tha</s>
+	<s>mor na tanka paisa kichi nai na</s>
+	<s>mor dil nei kusna dei tha</s>
+	<s>mor na tanka paisa kichi nai na</s>
+	<s>mor dil nei kusna dei tha</s>
+	<s>sambalpuri rappe suna</s>
+	<s>hae hae mor beauty baby sona sweety</s>
+	<s>asbu mor paske baby pindhi kari nighty</s>
+	<s>bhijei demi gura badan churei nemi man kain</s>
+	<s>ishara tui kari dele dunia thi jhan kain</s>
+	<s>kusna sange aani debu tui chana aau barmurhi</s>
+	<s>henta batre kusna chanbu, man ta jiba mor bhari</s>
+	<s>handia bali re handia bali</s>
+	<s>kusna bali re kusna bali</s>
+	<s>handia bali re handia bali</s>
+	<s>kusna bali re kusna bali</s>
+	<s>kusna sange aani debu tui chana aau barmurhi</s>
+	<s>henta batre kusna chanbu man ta jiba mor bhari</s>
+	<s>man ke nei ja baena rakhi tha kushna bulei dei tha</s>
+	<s>man ke nei ja baena rakhi tha, kushna bulei dei tha</s>
+	<s>kusna bulei dei tha kusna bulei dei tha</s>
+	<s>mor na rupia paisa kichi nai na</s>
+	<s>mor dil nei kusna dei tha</s>
+	<s>mor na tanka paisa kichi nai na</s>
+	<s>mor dil nei kusna dei tha</s>
+	<s>handia bali mor kusuna bali</s>
+	<s>kusna bulei udhar dei tha</s>
+	<s>mor na tanka paisa kichi nai na</s>
+	<s>mor dil nei kusna dei tha</s>
+	<s>mor na tanka paisa kichi nai na</s>
+	<s>mor dil nei kusna dei tha</s>
+	<s>dhol nishan tasha sange sambalpuri cap</s>
+	<s>are dule rapper stage upre marsi jebe rappe</s>
+	<s>aaja mor paske demi garam garam kiss</s>
+	<s>aamar balangirar rockstar rj manish</s>
+	<s>pakada chhana nai ani debu nai lage mate nisha</s>
+	<s>pualchana ani debu guri lagi jiba jenta nisha</s>
+	<s>handia bali re handia bali</s>
+	<s>kusna bali re kusna bali</s>
+	<s>handia bali re handia bali</s>
+	<s>kusna bali re kusna bali</s>
+	<s>pakada chhana nai ani debu nai lage mate nisha</s>
+	<s>pualchana ani debu guri lagi jiba jenta nisha</s>
+	<s>man ke chinhi tha man ke bujhei tha</s>
+	<s>kushna bulei dei tha</s>
+	<s>man ke chinhi tha man ke bujhei tha</s>
+	<s>kushna bulei dei tha</s>
+	<s>kusna bulei dei tha kusna bulei dei tha</s>
+	<s>mor na rupia paisa kichi nai na</s>
+	<s>mor dil nei kusna dei tha</s>
+	<s>mor na tanka paisa kichi nai na</s>
+	<s>mor dil nei kusna dei tha</s>
+	<s>are handia bali mor kusuna bali</s>
+	<s>kusna bulei udhar dei tha</s>
+	<s>mor na tanka paisa kichi nai na</s>
+	<s>mor dil nei kusna dei tha</s>
+	<s>mor na tanka paisa kichi nai na</s>
+	<s>mor dil nei kusna dei tha</s>
+	<s>mor na tanka paisa kichi nai na</s>
+	<s>mor dil nei kusna dei tha</s>
+	<s>mor na tanka paisa kichi nai na</s>
+	<s>mor dil nei kusna dei tha</s>
+</lyrics>

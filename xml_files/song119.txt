@@ -1,0 +1,48 @@
+<Song ID>119</Song ID>
+<Title>puchuki gaali fashion baali</Title>
+<Dialect>odia</Dialect>
+<Period>after year 1990</Period>
+<Singers>sonu nigam</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>amarendra mohanty</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>shrisananda das kanungo</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>puchuki gaali fashion baali</s>
+	<s>chali toh bombay dili mo bopalo</s>
+	<s>aalo chagali raago toh naali</s>
+	<s>katha bandhuk guli mo bopalo</s>
+	<s>sabu jhianka gatia rogo</s>
+	<s>nako aagore tankari raago</s>
+	<s>chun chun debe theli mo bopalo</s>
+	<s>puchuki gaali fashion baali</s>
+	<s>chali toh bombay dili mo bopalo</s>
+	<s>gori lo sate latani para</s>
+	<s>kebelo mo haate debulo dhara</s>
+	<s>mate dekhei chatoko choii</s>
+	<s>fasei delu akhi nachie</s>
+	<s>sabu jhianka puruna khoi</s>
+	<s>bhitare han ku upare naai</s>
+	<s>miche miche debi gaali mo bopalo</s>
+	<s>puchuki gaali fashion baali</s>
+	<s>chali toh bombay dili mo bopalo</s>
+	<s>kahuchi aaji rakhita mane</s>
+	<s>udei nebi lo tate dine</s>
+	<s>sohoro sara padibo huri</s>
+	<s>tate lo kie karichi chori</s>
+	<s>sabu jhianka gatia dosa</s>
+	<s>aagore kando pachare haso.</s>
+	<s>gadei gadei mali mo bopalo</s>
+	<s>puchuki gaali fashion baali</s>
+	<s>chali toh bombay dili mo bopalo</s>
+	<s>aalo chagali raago toh naali</s>
+	<s>katha bandhuk guli mo bopalo</s>
+	<s>mo bopalo</s>
+</lyrics>

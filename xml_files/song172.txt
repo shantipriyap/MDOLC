@@ -1,0 +1,42 @@
+<Song ID>172</Song ID>
+<Title>mor sona</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>mantu chhuria & aseema panda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>rehan kamal</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>pintu chhuria</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>ramprashad chhuria</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>tor pache padi thibe kete handsome</s>
+	<s>dekhu thibe tor sapan hele tor dream ra king muin</s>
+	<s>jani thalo janam tor lagi muin crazy</s>
+	<s>sabu belelo busy tate sunabar lagi</s>
+	<s>mor dil ra dhadkan suni paka thare slowly dhire dhire</s>
+	<s>oh baby mor lagi banei demi tate mor sona sona sonare</s>
+	<s>tor pache padithibe kete item</s>
+	<s>tate manu thibe sabhe hamdam hele tor hasina muin</s>
+	<s>hemi janam janam tate follow kari kari</s>
+	<s>han muin chori chori lagei demi tor dil thi</s>
+	<s>mor love ra item bomb feelings bujhija re</s>
+	<s>tike manijare oh baby han baby banei de mate tor sona sona sonare</s>
+	<s>manu chen lachki lachki chali desu bele lagu thisu pura gudia</s>
+	<s>hele rawadi chali mor hatke re jenta telgu wala surya</s>
+	<s>tor naughty naughty smile dekhi mui hei chen tor fan</s>
+	<s>hele mor simple bala hasi sabku lagsi re badhia</s>
+	<s>tike najar dei dekh tike najar dei dekh</s>
+	<s>tor dil bhitre jadi nai udei demi mor pyar bala chidiya</s>
+	<s>tor surat dekhi kari heart beat jaisi badhi badhi jaisilomor</s>
+	<s>love temperature a mor man mayuri han han tor lagi hei che matelo love fever</s>
+	<s>oye handsome raja autograph dei ja deide dil thi mor love signature</s>
+	<s>isara dei kari badhei de pramar gadi lagei kari han love ra gear</s>
+	<s>feelings bujhija re tike manijare oh baby han baby</s>
+	<s>banei de mate tor sona sona sonare</s>
+</lyrics>

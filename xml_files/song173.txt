@@ -1,0 +1,76 @@
+<Song ID>173</Song ID>
+<Title>tate kohinoor bhabhi thili</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>mantu chhuria & aseema panda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>rehan kamal</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>swastik sourav</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>ramprashad chhuria</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>tate kohinoor bhabhi thili kanch khande hei gadi galu</s>
+	<s>tor chaya hei sange thili tui mayadini hei galu</s>
+	<s>a asati aau kete ta sathi</s>
+	<s>pai tui ushat hebu lo</s>
+	<s>log kahesan pyar gute enta chij te</s>
+	<s>jenta sabku banchbar sikei desi</s>
+	<s>aare eta ta lukar bhabna aie</s>
+	<s>pyar bhitre bhitre kandasi</s>
+	<s>hele duniar aagade hansbar sikhei desi</s>
+	<s>bhangii delu tor dela jubaan</s>
+	<s>sabit kari delu nijke beimaan</s>
+	<s>tui bewafa lo</s>
+	<s>mor najre hei galu mujrim nai jani thai tui ete zaalim</s>
+	<s>tui gunehgar lo</s>
+	<s>re bewafa</s>
+	<s>tui gunehgar lo</s>
+	<s>re bewafa</s>
+	<s>tui gunehgar lo</s>
+	<s>phul bagir jatne rakhi thili mahara hei dihen bhedi galu</s>
+	<s>mate tor jarurat thila jebhe tui mate chadi thilu</s>
+	<s>a abujha heire dukha heire dukha</s>
+	<s>mor jiban char khar kalure</s>
+	<s>suniche sacha pyar bhitru esaas dilei desi</s>
+	<s>milan lagi sat samundar par karei desi</s>
+	<s>hele kehi nai jani pyar ra asliyat</s>
+	<s>pyar gute  enta kida aie jenta ta insaan k pura khokla kari desi</s>
+	<s>jaha ke bhabi thili mor jaan tar mude sawar thila setaan</s>
+	<s>tui bewafa re</s>
+	<s>chhi tui ete j bedardi mor najre aau re apradhi</s>
+	<s>tui gunehgar re</s>
+	<s>re bewafa</s>
+	<s>tui gunehgar re</s>
+	<s>re bewafa</s>
+	<s>tui gunehgar re</s>
+	<s>tate bharsa kari muin sathe aij paijai chen tar tohfa</s>
+	<s>parhar log kana kandabe jen tui nai nibhalu wafa</s>
+	<s>lade gelhe manau thili tui thile mor nu tohfa</s>
+	<s>tor lagi dunian chadi thili mate zindaginu kalu daffa</s>
+	<s>muhun sundar man nida pathar jani nain parli mui lo</s>
+	<s>ja tor ete j nij swabhav kebhe na kebhe khuda k debu jawab</s>
+	<s>tui bewafa lo</s>
+	<s>kana bhul kali ete helu raag lepi delu dihen mor kalankar daagtui gunehgar re</s>
+	<s>re bewafa</s>
+	<s>tui gunehgar lo</s>
+	<s>re bewafa</s>
+	<s>tui gunehgar lo</s>
+	<s>prem bele enta gute wada jenta nibhabar padsi duhike</s>
+	<s>nai hue ete sahaje milan pura chadbar padsi e duniyan ke</s>
+	<s>sacha bandhan kana tui nain jani kehi nai chadan kaha ke jenta rupe thile v chinhi hei jaisi mahake</s>
+	<s>tor enta sathi kahar jiban thi kebhe v nai aasure</s>
+	<s>tor na ke japu thili subho shaam</s>
+	<s>delu dhoka nai bhabi anjaam</s>
+	<s>tui bewafar re</s>
+	<s>pai jai chhen tor pyar ra inam</s>
+	<s>tor pyar k karu chhen duru salaam</s>
+	<s>tui gunehgar lo</s>
+	<s>re bewafa tui gunehgar re</s>
+	<s>re bewafa tui gunehgar lo</s>
+</lyrics>
