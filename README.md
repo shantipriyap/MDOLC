@@ -5,7 +5,7 @@ Overview
 The repository contains the code/data of the released Multi Dialect Odia Song Lyric Corpus (MDOLC). The data is already splitted into train/dev/test set for the experiment. We also provided 230 songs in XML format for research purposes as shown below.
 
 <p align="center">
-  <img src="odia_lyric.png" width="400" height="200">
+  <img src="odia_lyric.png" width="200" height="100">
 </p>
 
 Model
