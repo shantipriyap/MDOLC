@@ -1,14 +1,22 @@
-# MDOLC
-Multi Dialect Odia Song Lyric Corpus
+# MDOLC (Multi Dialect Odia Song Lyric Corpus)
 
-The repository contains the code/data of the released Multi Dialect Odia Song Lyric Corpus (MDOLC). The data is already splitted into train/dev/test set for the experiment. We also provided 230 songs in XML format for research purposes.
+Overview
+---------
+The repository contains the code/data of the released Multi Dialect Odia Song Lyric Corpus (MDOLC). The data is already splitted into train/dev/test set for the experiment. We also provided 230 songs in XML format for research purposes as shown below.
 
+<p align="center">
+  <img src="odia_lyric.png" width="600" height="350">
+</p>
 
-
-Result
+Model
 -------
+The Supervised Autoencoder (SAE) used for the dialect detection task. 
 
+<p align="center">
+  <img src="model_lyric.png" width="900" height="250">
+</p>
 
+The code is also available for detecting Odia and Sambalpuri dialect. 
 
 Dependency
 ----------
@@ -27,7 +35,6 @@ Usage: Execute the following command on the command line to run using CPU:
 ```
 python lang_detect_odia_samabalpuri.py
 ```
-
 
 Contributor
 ------------
