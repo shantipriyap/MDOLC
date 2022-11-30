@@ -1,0 +1,51 @@
+<Song ID>218</Song ID>
+<Title>sidha sadha thisi e suna pila</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>mantu chhuria</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>rehan kamal & mantu</Music Director>
+<Gender(Music Director)>male & male</Gender(Music Director)>
+<Lyrics Author>pintu chhuria</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>shaktiswra mohapatra</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>ramprashad chhuria</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>sidha sadha thisi e suna pila</s>
+	<s>tor sange jebhe thisi re ekela</s>
+	<s>duniar agade e suna pila khel kari desi re</s>
+	<s>pagal hei jaisi e bechara</s>
+	<s>dekhi dele thare tor chehera</s>
+	<s>hele duniya ke e bechara ghayal kari desi re</s>
+	<s>tate sina dil ta khuli muin entry deli</s>
+	<s>hele tor janu ra entry thi public ra dekh reaction re</s>
+	<s>dada aila side de</s>
+	<s>he dada aila side de</s>
+	<s>aare aare dada aila side de</s>
+	<s>premra tor niam kanun</s>
+	<s>mate prem jail thi kaid karidesi</s>
+	<s>hele e pila je na thiad hele sene sarkar baneidesi</s>
+	<s>karsin bhai manku hello hi dushman ke bye bye</s>
+	<s>gaddar mankarnu muin udei desi thae thae</s>
+	<s>bakwas log aau bakwas katha</s>
+	<s>mud garam karsi e duhita</s>
+	<s>hele tor bak bak sunikari</s>
+	<s>suna mind fresh hesi re</s>
+	<s>tate sina pujun thisi mor bhagban bali</s>
+	<s>hele tor janur darshan thi public ra dekh reaction re</s>
+	<s>dada aaila side de</s>
+	<s>love samna thi jhukbar ta dadar murkhami nuhe marad hebar nishani bujhhlu</s>
+	<s>oh gundi mor gundi tor dhamki ta mate darei desi</s>
+	<s>hele e pila ke jia dhamki dele tar namonishan mitei desi</s>
+	<s>karain bhai manku hello hi dushman ke bye bye</s>
+	<s>gaddar mankarnu muin udei deai thae thae</s>
+	<s>breaking news aji suni tha tui jaan mor nebar log peida nai hei</s>
+	<s>hele tor kaatil naina mate murder kari desi re</s>
+	<s>tate sina mor life thi welcome karli</s>
+	<s>hele tor janu ra welcome thi public ra dekh reactionre</s>
+	<s>dada aila side de</s>
+</lyrics>

@@ -1,0 +1,48 @@
+<Song ID>230</Song ID>
+<Title>hy re mor sunu re</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>kundal k chhuura & manbi</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>suresh suna</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>laki barik</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>jagat chhura</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>jagat chhura official</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>mor love raijar tui queen</s>
+	<s>tui lo geet ter lyrics hele</s>
+	<s>mui lo tor tuining</s>
+	<s>hy re mor sunu re</s>
+	<s>mor love raijar tui queen</s>
+	<s>tui lo geet ter lyrics hele</s>
+	<s>mui lo tor tuining</s>
+	<s>tike tike kathake kai karuchhu lo mind</s>
+	<s>e dil ta adhura aye tor bin</s>
+	<s>aye tor bin</s>
+	<s>bajei de bajei de love violin</s>
+	<s>gusum nai ho besi</s>
+	<s>anmol tor hansi</s>
+	<s>tor muhe samile thile mate rahat milsi</s>
+	<s>jare  ja chitka</s>
+	<s>dhurei ja mor pasu</s>
+	<s>sabu bele wada kari</s>
+	<s>khali dil dukhasu</s>
+	<s>tor siwa mor khusi ayye munkin</s>
+	<s>jadi galti karichhen debi lo fine</s>
+	<s>debi lo fine</s>
+	<s>nai chale aaji tor babu sona</s>
+	<s>amiss khali heichhu khali karuchhu bahana</s>
+	<s>duhe bani chhulo</s>
+	<s>duhikar haate</s>
+	<s>manei jadi nai parmi</s>
+	<s>ke manaba bahaker</s>
+	<s>tor priyar se manabar ta laguchhe fine</s>
+	<s>tor lagi tike tike karuchhe cheking</s>
+	<s>naraja hei gala mor darling</s>
+</lyrics>

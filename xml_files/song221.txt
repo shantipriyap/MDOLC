@@ -1,0 +1,32 @@
+<Song ID>221</Song ID>
+<Title>bhija sakalara tu mo prema</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>mantu chhuria</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>asad nizam</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>arun mantri</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>asad nizam</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>sitaram agrawal & namita agrawal</Producer>
+<Gender(Producer)>male & female</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>bhija sakalara tu mo prema</s>
+	<s>tu mo maheman</s>
+	<s>tu mora jindegi tu hi meri jaan</s>
+	<s>dhire dhire helu priya tu mora pehechan</s>
+	<s>bhija sakalara tu mo prema</s>
+	<s>bhija sakalara tu mo prema</s>
+	<s>tu mo maheman</s>
+	<s>aasilu tu jebe jibane basna kheli gala e mane</s>
+	<s>tu aasibu boli aagaru khabara aasithila pabanae</s>
+	<s>tate paigali aaji khudaki ehi meherban</s>
+	<s>kauthi thilu janena kie gadhidela janena</s>
+	<s>prathama thara mu premare padili  heli tora dewana</s>
+	<s>tate paibaku dine o priya re thila mora arman</s>
+	<s>bhija sakalara tu mo prema</s>
+</lyrics>

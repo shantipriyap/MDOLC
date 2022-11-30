@@ -1,0 +1,54 @@
+<Song ID>226</Song ID>
+<Title>ooo jana mor diwana dil tadpuchhe</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>nil sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>baja vala radhe</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>hitesh kisan</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2021</Year>
+<lyrics>
+	<s>priyaa  aaaaa</s>
+	<s>a mor priya</s>
+	<s>mor diwana dil dhadkuchhe</s>
+	<s>tor yaade</s>
+	<s>i miss you re</s>
+	<s>i miss you</s>
+	<s>miss you re re</s>
+	<s>tate sor karuchhe</s>
+	<s>i miss you re</s>
+	<s>i miss you</s>
+	<s>i miss you re</s>
+	<s>i miss you</s>
+	<s>tui sina bujhu nare</s>
+	<s>tor e pagala ke</s>
+	<s>thare hele kahi delo tor manar katha ke</s>
+	<s>sabu tukel mankar bhittre</s>
+	<s>tui eka sundri</s>
+	<s>thare hele kahi delo</s>
+	<s>tui mor bauri</s>
+	<s>mui diwana aaaaa</s>
+	<s>mor diwana dil tarsuchhe</s>
+	<s>i miss you re</s>
+	<s>i miss you</s>
+	<s>i miss you re</s>
+	<s>i miss you</s>
+	<s>srujar pahela kiran</s>
+	<s>tor piyari hansi</s>
+	<s>tor sweet hansi thi</s>
+	<s>muilo janichhu mui fasi</s>
+	<s>srujar pahela kiran</s>
+	<s>tor piyari hansi</s>
+	<s>tor sweet hansi thi mui lo janichhu mui fasi</s>
+	<s>tui sina ragi jaisu</s>
+	<s>tate tike dekhile</s>
+	<s>muhu phulei  suitha</s>
+	<s>palei jaisu kale kale</s>
+</lyrics>

@@ -1,0 +1,49 @@
+<Song ID>206</Song ID>
+<Title>mui tor true lover re mor pageli</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>mantu chhuria</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>believe music</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>mui tor true lover re mor pageli</s>
+	<s>janithaa tui aau mor sunderi ladili ree aaa</s>
+	<s>tate mui kete lo bhal pau chhe aaa re</s>
+	<s>mui tor true lover re mor pageli</s>
+	<s>janithaa tui aau mor sunderi ladili ree aaa</s>
+	<s>mui tor true lover re mor pageli</s>
+	<s>janithaa tui aau mor sunderi ladili ree aaa</s>
+	<s>tor prame mui andha lo</s>
+	<s>tor prame jale  mui bandha lo</s>
+	<s>diwaana</s>
+	<s>mui tor aailo pram diwaana naji na tor bina muiskil aailo jina</s>
+	<s>diwaan mui to aai tor pram diwanaa na ji na tor bina muiskil aailo jina</s>
+	<s>aawara mui tor chinhipaka mor chhera saat janamar lagi re bauri aai tor baura</s>
+	<s>nasili akhithi karuthibu mate isara dhure rahi nai tadpabu tor bina mui adhur a</s>
+	<s>sange jima sange marama</s>
+	<s>duniya pachhe karu huriyaa huriyaa</s>
+	<s>mui tor pahela ashik diwaana</s>
+	<s>tui mor sajnai mui tor sajana</s>
+	<s>rakate bheti chhu kalja tike bhetchut nai debu tor na mui japuchhe mor na bi henta japuthibu</s>
+	<s>biswase jadi mor jaharguli daga debu chali jiba mor jiban re mor suna e katha jani thibu</s>
+	<s>heteu thibu kandu thibu</s>
+	<s>heteu thibu kandu thibu</s>
+	<s>chadhi jibi mui jebe duniya duniyaa</s>
+	<s>mui tor pagala pram baura</s>
+	<s>tui gute boli sahara aaaaa</s>
+	<s>mui tor pagala pram baura</s>
+	<s>tui gute boli sahara</s>
+	<s>tor prame mui andhalo tor prem jale mui bandha</s>
+	<s>diwaana mui tor aailo pram diwaana</s>
+	<s>naji na tor bina muiskil aailo jina</s>
+	<s>diwana mui tor aailo pram diwana na jina tor bina muskil aailo jina</s>
+</lyrics>

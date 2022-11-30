@@ -1,0 +1,43 @@
+<Song ID>215</Song ID>
+<Title>a mor sundri laila hahaha haaa</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>shantanu sahu & shital sahu</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>sriram luhar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>papu sona</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>sriram luhar</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>pappu sona</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>a mor sundri laila hahaha haaa</s>
+	<s>tor kouli atake nai jhulaaaaa</s>
+	<s>a mor sundri laila hai hai ahi re</s>
+	<s>tor kaoli ata ke nai jhulaaa</s>
+	<s>hai re samaali thaa dala</s>
+	<s>dek dek dek dek dek dek gaenti mor khopo khopo khupla</s>
+	<s>je kana hela re pila kana hela</s>
+	<s>je kana hela re pila kana hela</s>
+	<s>mor kaita unahela aaaaaa</s>
+	<s>a rasabati rasamandara</s>
+	<s>hai re madhubala</s>
+	<s>gad nu mudke  dehita torpachila kamala</s>
+	<s>dehita sara dehita sara jhaale bhijigala</s>
+	<s>dek tor eta gura muhuta phika padigala</s>
+	<s>je kana hela re pila kana hela</s>
+	<s>je kana hela re pila kana hela</s>
+	<s>achhe tor kuaara dhana mui tor laila</s>
+	<s>darli khale sarli jibu</s>
+	<s>bane kari chlabu</s>
+	<s>malki jiba kaoli ata samali thibu</s>
+	<s>mate dekhi hai re tor hos udigala</s>
+	<s>darli khale sarli padlu jaani nai hela</s>
+	<s>je kana hela re pila kana hela</s>
+	<s>je kana hela re pila kana hela</s>
+	<s>tor lagi dil mor rakhi chhe khula</s>
+</lyrics>

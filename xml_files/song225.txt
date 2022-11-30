@@ -1,0 +1,34 @@
+<Song ID>225</Song ID>
+<Title>tumer ghar budi gale aisima</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>sunil tanty & dolamani kanta</Singers>
+<Gender(Singer)>male & male</Gender(Singer)>
+<Music Director>bimal kumar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>ramakant ghugar</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>manoj singh</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>mdc</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>tumer ghar budi gale aisima</s>
+	<s>je jana bhabuthile bhabuthau</s>
+	<s>je jana kahile kahuthau</s>
+	<s>je jana bhabuthile bhabuthau</s>
+	<s>je jana kahile kahuthau</s>
+	<s>hele aamer lagi achhe ma ha puru</s>
+	<s>he aame tengnu gubaru</s>
+	<s>ek ek dui hele aame agara karsu</s>
+	<s>aame duhe misi gale rait ke din karsu</s>
+	<s>ke kahe aamke diwana</s>
+	<s>ke kahe aamke aawara</s>
+	<s>aame duhe bulu thisu e para se para</s>
+	<s>je jana kahele nai manu</s>
+	<s>aame duhe enta buluthilu</s>
+	<s>je jana kahele nai manu</s>
+	<s>aame duhe enta buluthimu</s>
+</lyrics>

@@ -1,0 +1,65 @@
+<Song ID>229</Song ID>
+<Title>kantabanjia raja tui rani re</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>reetesh suna & alisha</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>reetesh suna</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>reetesh suna</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>t-studio</Director>
+<Gender(Director)>company</Gender(Director)>
+<Producer>reetesh suna</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>kantabanjia raja tui rani re</s>
+	<s>kantabanjia raja re</s>
+	<s>raipurwali mor sundri hasina</s>
+	<s>dilthi lagalu sarare</s>
+	<s>naseli naseli akhi tor  naseli</s>
+	<s>harkat karuchhu naina ladei</s>
+	<s>naseli naseli akhi tor  naseli</s>
+	<s>harkat karuchhu naina ladei</s>
+	<s>tui khali focus baki blure</s>
+	<s>nazara re</s>
+	<s>lagaba sweet mahani o rani re</s>
+	<s>kantabanjia raja re</s>
+	<s>lagaba sweet mahani o rani re</s>
+	<s>kantabanjia raja re</s>
+	<s>aamer kantabanji</s>
+	<s>tor chhani sweet hani</s>
+	<s>pura katilana</s>
+	<s>hei gali pura feeda</s>
+	<s>a dil ashiqkana</s>
+	<s>tor katil pistal toba toba</s>
+	<s>direct karsi isshara</s>
+	<s>disichhu pura mowali aaru nai chahora</s>
+	<s>ladala ladala sabkar ladala</s>
+	<s>mor maa kahesi tike mui chagala</s>
+	<s>ladala ladala sabkar ladala</s>
+	<s>mor maa kahesi tike mui chagala</s>
+	<s>first time tate dekhi mui heli pagala re</s>
+	<s>raipur wali mui sundri hasina</s>
+	<s>nai paru tui patei re</s>
+	<s>lagaba sweet mahani o rani re</s>
+	<s>kantabanjia raja re</s>
+	<s>love you love you kahi kahi</s>
+	<s>pachhe mor padhichhu</s>
+	<s>pila tui pura anokha love tor dhasu</s>
+	<s>he babu sona khurigina</s>
+	<s>kete karu nakhara</s>
+	<s>mor enta pila aaru nai mile dubara</s>
+	<s>suhana suhana love you suhana</s>
+	<s>naraj nahi ha aare mor diwana</s>
+	<s>suhana suhana love you suhana</s>
+	<s>naraj nahi ha aare mor diwana</s>
+	<s>slowly slowly tor lagi heli</s>
+	<s>diwani re</s>
+	<s>kantabanjia helu mor raja re</s>
+	<s>tor sebani tor raja re</s>
+	<s>raipur eali tor sundri haseena</s>
+	<s>mor dil tor ashiqkan re</s>
+</lyrics>

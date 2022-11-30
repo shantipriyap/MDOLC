@@ -1,0 +1,68 @@
+<Song ID>220</Song ID>
+<Title>first time tate dekhli rani</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>nil sagar & rojalin sahu</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>baja vala radhe</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>bablu bag</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>shaktiswra mohapatra</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>ananda pradhan</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>first time tate dekhli rani</s>
+	<s>dill more dei deli</s>
+	<s>tor prari pyari smaile thi janu diwana bani gali</s>
+	<s>hai tor kainli aata</s>
+	<s>churei nesi mor dil ta</s>
+	<s>hai tor kainli aata</s>
+	<s>churei nesi mor dil ta</s>
+	<s>o baby tor jhumka thumka</s>
+	<s>mate diwana banauchhe</s>
+	<s>kale kale dill ke mor chhurei neuchhe</s>
+	<s>tor looki tor taki jadu karuchhe</s>
+	<s>kale kale dill ke mor chhurei neuchhe</s>
+	<s>tor looki tor taki jadu karuchhe</s>
+	<s>oraja mor jhumka</s>
+	<s>mor thumka</s>
+	<s>tate diwana banauchhe</s>
+	<s>mor jhumka</s>
+	<s>mor thumka</s>
+	<s>tate diwana banauchhe</s>
+	<s>jenke gale tor chhehera</s>
+	<s>mor akhin disu thisi</s>
+	<s>tor katha ke bhabi dele</s>
+	<s>love feeling hei jaeisi</s>
+	<s>jenke gale tor chhehera</s>
+	<s>mor akhin disu thisi</s>
+	<s>tor katha ke bhabi dele</s>
+	<s>love feeling hei jaeisi</s>
+	<s>mui tor dehe</s>
+	<s>kainli rani</s>
+	<s>tui mor sundura dilbala</s>
+	<s>tui mor gelehi phlei rani</s>
+	<s>mui tor handsome dilwala</s>
+	<s>tui mor cute heart</s>
+	<s>lave tate karsi ketni kete</s>
+	<s>tor princess banei kari neijaaa mate</s>
+	<s>mind blowing tor style ta</s>
+	<s>hangover kari desi</s>
+	<s>tui aau mor lovely gudia</s>
+	<s>tate kete bhal paisi</s>
+	<s>mind blowing tor style ta</s>
+	<s>hangover kari desi</s>
+	<s>tui aau mor lovely gudia</s>
+	<s>tate kete bhal paisi</s>
+	<s>tui mor dhadkan</s>
+	<s>a mor sajan</s>
+	<s>mui tor pyari sajani</s>
+	<s>e prem raeje tate janu</s>
+	<s>banami dhulhan rani</s>
+	<s>tui mor dream girl dream girl dream girl</s>
+	<s>o raja mor jhumka</s>
+</lyrics>

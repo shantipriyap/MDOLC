@@ -1,0 +1,54 @@
+<Song ID>211</Song ID>
+<Title>a kalabati kalabati</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>not available</Singers>
+<Gender(Singer)>not available</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>not available</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>a  kalabati kalabati</s>
+	<s>sundri nani kalabati</s>
+	<s>lal mandara hai</s>
+	<s>a phool mati phul mati</s>
+	<s>kete karuthisi chakhi</s>
+	<s>a phool mati phul mati</s>
+	<s>kete karuthisi chakhi</s>
+	<s>a tor chaturi isara kare luki luki</s>
+	<s>china bele dele deki</s>
+	<s>phool gajara halaei jhulei kari</s>
+	<s>heu chhu go kete chakhi</s>
+	<s>a tor chaturi isara kare luki luki</s>
+	<s>china bele dele deki</s>
+	<s>phool gajara halaei jhulei kari</s>
+	<s>heu chhu go kete chakhi</s>
+	<s>a hansi hansi mulki hansi</s>
+	<s>chahani kete dekhasi</s>
+	<s>a hansi hansi mulki hansi</s>
+	<s>chahani kete dekhasi</s>
+	<s>lal mandara hai</s>
+	<s>lal mandar tumer suru bahen go  bade sundera</s>
+	<s>juba nazar tanuchhe mate</s>
+	<s>bayasa mahake bichhi chhe</s>
+	<s>dhire dhire mui bahaki jauchhe</s>
+	<s>nai bujhe re maan kichhi</s>
+	<s>juba nazar tanuchhe mate</s>
+	<s>bayasa mahake bichhi chhe</s>
+	<s>dhire dhire mui bahaki jauchhe</s>
+	<s>nai bujhe re maan kichhi</s>
+	<s>a pakhu mor chalijaisi</s>
+	<s>ulti ulti dekhu thisi</s>
+	<s>a pakhu mor chalijaisi</s>
+	<s>ulti ulti dekhu thisi</s>
+	<s>a  kalabati kalabati</s>
+	<s>sundri nani kalabati</s>
+	<s>lal mandar tumer suru bahen go  bade sundera</s>
+</lyrics>

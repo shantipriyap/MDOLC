@@ -1,0 +1,59 @@
+<Song ID>216</Song ID>
+<Title>tor gulabi chehera</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>nil sagar & archana padhi</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>radhe gardia</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>bablu bag</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>bisi kesan</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>rajiv gond</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2020</Year>
+<lyrics>
+	<s>tor gulabi chehera</s>
+	<s>kala mate baura</s>
+	<s>dhire dhire love heigla</s>
+	<s>a kansi ainla</s>
+	<s>dil mor hang hela</s>
+	<s>hayere naba chhaila</s>
+	<s>banija mor laila</s>
+	<s>diwana bani gali gali gali</s>
+	<s>mor ladli mor pagli mor gelhei rani</s>
+	<s>bhola bhala chehera tor kala impress</s>
+	<s>tui au mor sona babu mui tor princess</s>
+	<s>diwani bani gali gali gali</s>
+	<s>mor hero tui mor raja tui</s>
+	<s>mui gelhei rani</s>
+	<s>mor sundri mor bauri mor gelhei rani</s>
+	<s>hayere tor love ra perfume lagei de</s>
+	<s>mor gudia rani</s>
+	<s>han han han tor prem hei ja phool hei</s>
+	<s>mui mahaku thimi</s>
+	<s>tor dil ra jail thi ked kari</s>
+	<s>lageide premar hatkadi</s>
+	<s>bandhi rakhithimi prem dori</s>
+	<s>nai jibu babu mate chhadi</s>
+	<s>diwana bani gali gali gali</s>
+	<s>mor beauty mor cuty mor gelhei rani</s>
+	<s>mor babu tui mor suna tui</s>
+	<s>mui gelhei rani</s>
+	<s>ahe nindiya mor udi gala re</s>
+	<s>kalu kain jadu</s>
+	<s>han han han premar range</s>
+	<s>mate rangei de</s>
+	<s>mor rangila babu</s>
+	<s>nakhra tor toba toba</s>
+	<s>tui mor pyari dil duba</s>
+	<s>lagei delu kain mahani</s>
+	<s>bani gali tor diwani</s>
+	<s>diwana bani gali gali gali</s>
+	<s>mor janu tui mor sunu tui</s>
+	<s>mor gelhei rani</s>
+	<s>tor janu mui tor sunu mui</s>
+	<s>tor gelhei rani</s>
+</lyrics>

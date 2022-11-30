@@ -1,0 +1,82 @@
+<Song ID>207</Song ID>
+<Title>nikki nikki gall nu uadhayi rakhdae</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>not available</Singers>
+<Gender(Singer)>not available</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>nikki nikki gall nu uadhayi rakhdae</s>
+	<s>24 ghante khap khaana payi rakhdae</s>
+	<s>ik dusre nu karke shudayi rakdae</s>
+	<s>ve tom and jerry jenta</s>
+	<s>aamer pyar ka rista</s>
+	<s>kebe khata kebe ta mithaa</s>
+	<s>tike tike kathathi muhu phulabar ta</s>
+	<s>muhu phulalapare pyar se manabarta</s>
+	<s>aamer dui jhanker ne achhe</s>
+	<s>ve tom and jerry jenta</s>
+	<s>aamer pyar ka rista</s>
+	<s>ve tom and jerry jenta</s>
+	<s>aamer pyar ka rista</s>
+	<s>kebe khata kebe ta mithaa</s>
+	<s>he mor priya re</s>
+	<s>o o o o o o</s>
+	<s>he mor sajani re</s>
+	<s>o o o o o o</s>
+	<s>he mor priya re</s>
+	<s>he mor sajani re</s>
+	<s>he mor sathi re</s>
+	<s>mui tor raja tui mor rani</s>
+	<s>a mor dilbar jaani</s>
+	<s>sara duniya dekhu thiba</s>
+	<s>aamer prem kahani</s>
+	<s>a mor raja dhurke na ja</s>
+	<s>paske tui aaja dhuriya dhuriya</s>
+	<s>rahele kaha kenta lagba maja</s>
+	<s>jebe mor life ne tui entry kalu sathiya</s>
+	<s>badaligala a mor jindegi</s>
+	<s>thili mui aawara heli mui dewaana</s>
+	<s>tor lagi tor lagi tor lagi</s>
+	<s>o o tor enta sathi pai sabu mili jai chhe</s>
+	<s>aau kichi nai chhahe mui</s>
+	<s>hatdhari tui mor bat chalu thibu</s>
+	<s>kebe chadi jibu nai</s>
+	<s>dhak dhak dhadkauchhe dill</s>
+	<s>jina muskil aake to mill</s>
+	<s>a mor raja dhurke na ja</s>
+	<s>paske tui aaja dhuriya dhuriya</s>
+	<s>rahele kaha kenta lagba maja</s>
+	<s>mui tor raja tui mor rani</s>
+	<s>a mor dilbar jaani</s>
+	<s>sara duniya dekkhu thiba ga</s>
+	<s>aamer prem kahani</s>
+	<s>mind lowing tor chehera</s>
+	<s>hai tor nakhera</s>
+	<s>laguchhe mate</s>
+	<s>pyara pyara</s>
+	<s>tor katha bhabi chhetu chhe</s>
+	<s>rati akhine nai jhumura</s>
+	<s>o o hai mor suna  babu</s>
+	<s>bhal mate pauthibu kebe juda mornu nai hebu</s>
+	<s>yaad karuchhe mui</s>
+	<s>saat nai chhade</s>
+	<s>chati tale rahithibu</s>
+	<s>tui mor haater kagngan ooo</s>
+	<s>tui mor dilki dhadkan ooo</s>
+	<s>mui tor raja tui mor raani</s>
+	<s>a mor dilbar jaani</s>
+	<s>saara duniya dekhba saate aamer prem kahani</s>
+	<s>a mor raja dhurke na ja</s>
+	<s>paske tui aaja dhuriya dhuriya</s>
+	<s>rahele kaha kenta lagba maja</s>
+</lyrics>

@@ -1,0 +1,89 @@
+<Song ID>223</Song ID>
+<Title>jhari re jhara shini bini ude tara</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>dusmanta suna</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>tejraj nag</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>tejraj nag</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>sajib</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2016</Year>
+<lyrics>
+	<s>jhari re jhara buli aaeba aamar para</s>
+	<s>tumar lagi maain juha pahara</s>
+	<s>jhari re jhara kari delana baura</s>
+	<s>jhari re jhara buli aaeba aamar para</s>
+	<s>go radha maain go mora</s>
+	<s>a mate bhanja bali ghae kule ta dhara</s>
+	<s>maain go mora</s>
+	<s>jen dinu dekhichhen go rupa tumara</s>
+	<s>khana pina chhadi dei aanuchhe go jara</s>
+	<s>a maain nai karba mate gali go….go maain</s>
+	<s>muin para tumar go ati nijara</s>
+	<s>a baensi baja chhadi piuchhen bearaa</s>
+	<s>mada beara</s>
+	<s>maain go chhadi deli na mor ghara duara</s>
+	<s>ghara duara</s>
+	<s>baensi baja chhadi piuchhen beara</s>
+	<s>maain go mora</s>
+	<s>a sadake gala matara go maain</s>
+	<s>sadake gala matara</s>
+	<s>anta lidi bidi tumar go maain</s>
+	<s>katha ta mitha angura</s>
+	<s>maain go</s>
+	<s>nadeer pani jhala mala go maain</s>
+	<s>nadeer pani jhala mala</s>
+	<s>aakhi ne kala kajala go maain</s>
+	<s>chehera padama phula</s>
+	<s>sabu bele bhabu thisi katha tumara</s>
+	<s>tamku pare pindhi deti galara hara</s>
+	<s>tamku pare pindhi deti galara hara</s>
+	<s>aare mui bhendia kala bhamara re go</s>
+	<s>sabu phule maain  mor  ta ghara</s>
+	<s>gae chara chhadi tumar heli daebara</s>
+	<s>janam dinu  tumar mui aaen lovera</s>
+	<s>a sunar makut pindhuthili go maain</s>
+	<s>sunar makut pindhuthili</s>
+	<s>tumar dhaka khaela dinu go maain</s>
+	<s>gahana guta sabu kalin</s>
+	<s>kendu pataria khali go maain</s>
+	<s>kendu pataria khali</s>
+	<s>tumar prem rase rasi go sabu</s>
+	<s>gopi manku bhuli galin</s>
+	<s>mor aham mor thiba tume go maain</s>
+	<s>tumar chhada alga kahake lain mare nai</s>
+	<s>mor aham mor thiba tume go maain</s>
+	<s>tumar chhada alga kahake lain mare nai</s>
+	<s>go lain mare nai</s>
+	<s>ta babu dhulia</s>
+	<s>aaha mor radhika guri re</s>
+	<s>aare sukhi gali na mui radha ke jhuri</s>
+	<s>a ghae chhane hele mate suruta kara</s>
+	<s>maain go mora</s>
+	<s>tumar bine aanuchhen go typher jara</s>
+	<s>maain go mora</s>
+	<s>gele gele mate chumah mara</s>
+	<s>jhari re jhara shini bini ude tara</s>
+	<s>jhari re jhara  buli aaeba aamar para</s>
+	<s>tumar lagi maain juha pahara</s>
+	<s>tumar lagi maain juha pahara</s>
+	<s>jhari re jhara kari delana baura</s>
+	<s>jhari re jhara buli aaeba aamar para</s>
+	<s>a mate bhanja bali ghae kule ta dhara</s>
+	<s>maain go mora</s>
+	<s>a mate bhanja bali ghae kule ta dhara</s>
+	<s>maain go mora</s>
+	<s>jen dinu dekhichhen go rupa tumara</s>
+	<s>khana pina chhadi dei aanuchhe go jara</s>
+	<s>a maain nai karba mate gali go go maain</s>
+	<s>muin para tumar go ati nijara</s>
+	<s>he mor sange tike adhe bhet ta kara</s>
+	<s>tumar hebake chahunchhen mui ta bara</s>
+	<s>a mate tike tharah narah kara</s>
+</lyrics>

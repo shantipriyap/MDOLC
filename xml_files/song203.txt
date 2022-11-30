@@ -1,0 +1,67 @@
+<Song ID>203</Song ID>
+<Title>hai tor bindiya churei nela mor nindiya</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>not available</Singers>
+<Gender(Singer)>not available</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>he he lalaa hehe ah hahahha</s>
+	<s>chand jesi bindiya teri</s>
+	<s>mera chain churati hai sanam</s>
+	<s>kabhi hosh ud jata hai to kabhi nind ud jati hai</s>
+	<s>magar jab tu sapno mein ati hai mera ji bhar jata hai</s>
+	<s>hai hai teri kasam</s>
+	<s>hai tor bindiya churei nela mor nindiya</s>
+	<s>kahi kari prem kahani</s>
+	<s>sapane sapane sabudine asi</s>
+	<s>deuthilu chui pakhe pakhe basi</s>
+	<s>tui sapan sunderi ki au re mor deewani</s>
+	<s>hai tor bindiya churei nela mor nindiya</s>
+	<s>kahi kari prem kahani</s>
+	<s>hai tor bindiya churei nela mor nindiya</s>
+	<s>kahi kari prem kahani</s>
+	<s>chham chham baju thile</s>
+	<s>guda ra paijhala</s>
+	<s>haji jaisi akhir jhumura</s>
+	<s>ho haji jaisi akhir jhumura</s>
+	<s>gun gunei gau thile</s>
+	<s>pirti gitar sure</s>
+	<s>udi bulsi e man bhamara</s>
+	<s>ho udi bulsi e man bhamara</s>
+	<s>hehehe lalala narana ho ho</s>
+	<s>hai tor naina hela na mor deewani re sajani</s>
+	<s>hai tor bindiya churei nela mor nindiya</s>
+	<s>kahi kari prem kahani</s>
+	<s>hai tor bindiya churei nela mor nindiya</s>
+	<s>kahi kari prem kahani</s>
+	<s>khan khan khanku thile tor hatar ta kangana</s>
+	<s>akhir sapan hesi tana bana</s>
+	<s>ho akhir sapan hesi tana bana</s>
+	<s>phar phar udu thile panatar jharana</s>
+	<s>hai ghari hesi mor dil deewana</s>
+	<s>ho</s>
+	<s>ghari hesi mor dil deewana</s>
+	<s>hehehe lalala narana ho ho</s>
+	<s>hai tor kajal karuchhe isara re sajani</s>
+	<s>hai tor bindiya churei nela mor nindiya</s>
+	<s>kahi kari prem kahani</s>
+	<s>sapane sapane sabudine asi</s>
+	<s>deuthilu chui pakhe pakhe basi</s>
+	<s>tui sapan sunderi ki au re mor deewani</s>
+	<s>hai tor bindiya churei nela mor nindiya</s>
+	<s>kahi kari prem kahani</s>
+	<s>hai tor bindiya churei nela mor nindiya</s>
+	<s>kahi kari prem kahani</s>
+	<s>hai tor bindiya churei nela mor nindiya</s>
+	<s>kahi kari prem kahani</s>
+</lyrics>

@@ -1,0 +1,98 @@
+<Song ID>212</Song ID>
+<Title>aar sweta tor boyfriend kenta achhe re</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>jasobanta sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>jasobant sagar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>umesh bhoi</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>ranjit mn</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>bablu guru</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>aar sweta tor boyfriend kenta achhe re</s>
+	<s>han bhal achhe</s>
+	<s>tui liza tor boyfriend kenta achhe kenta kenta</s>
+	<s>maate paand asbar pilla e area re nai na</s>
+	<s>wowo</s>
+	<s>kas ssate hei thithaa</s>
+	<s>hey o my god</s>
+	<s>hi fi chhera tumer dise sundara</s>
+	<s>dise sundara go dise sundara</s>
+	<s>hi fi chhera tumer dise sundara</s>
+	<s>dise sundara go dise sundara</s>
+	<s>modern tukel tume eke number</s>
+	<s>eke number go eke number</s>
+	<s>lal mandara</s>
+	<s>tumer badkha nani mor purna lover</s>
+	<s>lal mandara</s>
+	<s>tumer badkha nani mor purna lover</s>
+	<s>ulti pulti nai dekhba</s>
+	<s>tara nara nai karba</s>
+	<s>style mara chadi deba</s>
+	<s>mate nazar nai pakaba</s>
+	<s>nai hele gali khaiba</s>
+	<s>e katha ta sor rakba</s>
+	<s>jani paile nani tumer</s>
+	<s>a suru nani suri sali eeee</s>
+	<s>nai huaa ete chali go</s>
+	<s>a suru nani suri sali eeee</s>
+	<s>nai huaa ete chali go</s>
+	<s>tumer badkha nani mor purna lover</s>
+	<s>lal mandara</s>
+	<s>tumer badkha nani mor purna lover</s>
+	<s>manar katha tumer bujhi paruchhe go</s>
+	<s>champabati chameli phoola</s>
+	<s>luki luki mate dekhu thisa tume</s>
+	<s>kainje dhana pauchha bhala</s>
+	<s>hai go suna tala mala</s>
+	<s>hai re tumer maya jaale</s>
+	<s>nai pade mui</s>
+	<s>mayabati malika rani</s>
+	<s>lagichhe tate pream mahani</s>
+	<s>buri najar bali hae go malmali</s>
+	<s>achhe tumer kete lover</s>
+	<s>sabu katha achhe khabar</s>
+	<s>beauti saathe line mara</s>
+	<s>sabhe dekhi thara nara</s>
+	<s>kenta heba padle dhara</s>
+	<s>budi basate nuaa dhangara</s>
+	<s>nai boile mui dhangara</s>
+	<s>jaani paile nani tumer</s>
+	<s>a suru nani suri sali eeee</s>
+	<s>nai huaa ete chali go</s>
+	<s>a suru nani suri sali eeee</s>
+	<s>nai huaa ete chali go</s>
+	<s>tumer badkha nani mor purna lover</s>
+	<s>hai re</s>
+	<s>kahi dele katha</s>
+	<s>khaiba jahar</s>
+	<s>tamer thane tumer nani</s>
+	<s>saahe  guna achhe sundera</s>
+	<s>maana raije mor nai mile dhana</s>
+	<s>laij nai laguchhe kai go</s>
+	<s>mate khali karsa nazara</s>
+	<s>kahi dele katha</s>
+	<s>khaiba jahar</s>
+	<s>tamer thane tumer nani</s>
+	<s>saahe  guna achhe sundera</s>
+	<s>maana raije mor nai mile dhana</s>
+	<s>laij nai laguchhe kai go</s>
+	<s>mate khali karsa nazara</s>
+	<s>ulti pulti nai dekhba</s>
+	<s>tara nara nai karba</s>
+	<s>style mara chadi deba</s>
+	<s>mate nazar nai pakaba</s>
+	<s>nai hele gali khaiba</s>
+	<s>e katha ta sor rakba</s>
+	<s>jani paile nani tumer</s>
+	<s>a suru nani suri sali eeee</s>
+	<s>nai huaa ete chali go</s>
+	<s>a suru nani suri sali eeee</s>
+	<s>nai huaa ete chali go</s>
+</lyrics>

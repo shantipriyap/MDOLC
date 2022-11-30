@@ -1,0 +1,55 @@
+<Song ID>214</Song ID>
+<Title>janeman kahan jayenge</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>ritesh suna</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>ritesh suna</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>ritesh suna</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>er pitabasa bag</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>ananta bag</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2021</Year>
+<lyrics>
+	<s>janeman kahan jayenge</s>
+	<s>dekhete rehena tu</s>
+	<s>sochhete rehena tu</s>
+	<s>janeman kahan jayenge</s>
+	<s>dekhete rehena tu</s>
+	<s>sochhete rehena tu</s>
+	<s>tusi nxt  ne shopping karami</s>
+	<s>muskan mall nei  sabu dilami</s>
+	<s>tui mor sona mui tor kantabanjia babu</s>
+	<s>gullu badan kahan jayenge</s>
+	<s>dekhte rehena tu</s>
+	<s>sochhete rehena tu</s>
+	<s>janeman kahan jayenge</s>
+	<s>dekhete rehena tu</s>
+	<s>sochhete rehena tu</s>
+	<s>cuty baby mor hasina</s>
+	<s>karichhu mate diwaana</s>
+	<s>dil dei kari dill nei jalo</s>
+	<s>thoda to pyar karna</s>
+	<s>tor looking dekhi fhida heli</s>
+	<s>nughty nughty tor sararat</s>
+	<s>dhire dhire dil thi tor lagi sate badhuchhhe lo mohabat</s>
+	<s>hotel pool nei tate coffie pilami</s>
+	<s>kahebu jadi tor lagi gulam banijimi</s>
+	<s>tor round face suna karichhe jadu</s>
+	<s>dill ruba kaha jayenge</s>
+	<s>hei chhu lo sweet 16</s>
+	<s>tor lagi karuchhe singing</s>
+	<s>bharmu chhela rati har din</s>
+	<s>a sun</s>
+	<s>kantabanjia pila</s>
+	<s>sabu bele dil khula</s>
+	<s>tike pyar dele jaan deidemi</s>
+	<s>love lagi pura pagala</s>
+	<s>jinddegi bhar nakhara uthami</s>
+	<s>tor lagi mor kidni biki demi</s>
+	<s>comedy nai se eta really thi nebu</s>
+</lyrics>

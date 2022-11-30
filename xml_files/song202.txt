@@ -1,0 +1,75 @@
+<Song ID>202</Song ID>
+<Title>e jahn hai re jahn</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>jagat</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>rahul kumar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>rachan pujari</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>pavitra nayak</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2011</Year>
+<lyrics>
+	<s>he he aa aa ha</s>
+	<s>e jahn hai re jahn</s>
+	<s>e jahn tike sunija</s>
+	<s>e jan tike sunija</s>
+	<s>e jahn tike rahija</s>
+	<s>badal tale tui kete lukuchhu</s>
+	<s>luk lukani kete kheluchhu</s>
+	<s>badal tale tui kete lukuchhu hai</s>
+	<s>luk lukani kete kheluchhu</s>
+	<s>mor priya mor thanu rushichhe</s>
+	<s>mor priyake bujhei ja</s>
+	<s>e jan hai re jan</s>
+	<s>e jahn tike sunija</s>
+	<s>e jahn tike rahija</s>
+	<s>bhulei priya mor nai bujhe kichhi</s>
+	<s>chhaneke muhu phulasi</s>
+	<s>chhaneke muhu phulasi</s>
+	<s>nai hela katha kahu thisi se</s>
+	<s>kahele kandi darasi</s>
+	<s>kahele kandi darasi</s>
+	<s>gelehi priya mor nai bujhe kichhi</s>
+	<s>chhaneke muhu phulasi</s>
+	<s>chhaneke muhu phulasi</s>
+	<s>nai hela katha kahu thisi se</s>
+	<s>kahele kandi darasi</s>
+	<s>kahele kandi darasi</s>
+	<s>badal tale tui kete lukuchhu</s>
+	<s>luk lukani kete kheluchhu</s>
+	<s>badal tale tui kete lukuchhu re</s>
+	<s>luk lukani kete kheluchhu</s>
+	<s>mor priya mor thanu rushichhe</s>
+	<s>mor priyake bujhei ja</s>
+	<s>e jahn hai re jahn</s>
+	<s>e jahn tike sunija</s>
+	<s>e jahn tike rahija</s>
+	<s>aa re jahn tui bujhei de priyake</s>
+	<s>katha mor sunuchhe nai</s>
+	<s>katha mor sunuchhe nai</s>
+	<s>bhalpauthile e sabu kathake</s>
+	<s>nai dharan sate kehi</s>
+	<s>nai dharan sate kehi</s>
+	<s>aa re jahn tui bujhei de priyake</s>
+	<s>katha mor sunuchhe nai</s>
+	<s>katha mor sunuchhe nai</s>
+	<s>bhalpauthile e sabu kathake</s>
+	<s>nai dharan sate kehi</s>
+	<s>nai dharan sate kehi</s>
+	<s>badal tale tui kete lukuchhu</s>
+	<s>luk lukani kete kheluchhu</s>
+	<s>badal tale tui kete lukuchhu hai</s>
+	<s>luk lukani kete kheluchhu</s>
+	<s>he mor priya mor thanu rushichhe</s>
+	<s>mor priyake bujhei ja</s>
+	<s>e jahn hai re jahn</s>
+	<s>e jahn tike sunija</s>
+	<s>e jahn tike rahija</s>
+	<s>hm hm umm hmm</s>
+</lyrics>

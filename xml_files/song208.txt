@@ -1,0 +1,75 @@
+<Song ID>208</Song ID>
+<Title>right mama right mama</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>jogesh jojo</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>subodh maharana</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>subham padhan</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>jogesh jojo</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>lalu bag</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2021</Year>
+<lyrics>
+	<s>right mama right mama</s>
+	<s>he ghar ta aamar sambalpur sambalpur ta beautiful</s>
+	<s>dekhikari nai bhaba aamaku pare tame bhul</s>
+	<s>sabubele ta aame cool nei kara ta tame bhul</s>
+	<s>kunua ghae aeba bele bulei nemu ta</s>
+	<s>sambalpur aade buluthibata</s>
+	<s>am i right mama</s>
+	<s>han bhanja</s>
+	<s>dekh dekh pher thare aila tar sambalpria jojo</s>
+	<s>jaahar gaana dekhi tui naachsu rojo rojo</s>
+	<s>juan nu budha jaaen gaon pada gali</s>
+	<s>bes bes hela je ti paduchhe duhuli</s>
+	<s>singh baja baajla na southfilm bhitre</s>
+	<s>upre upre mulki hansin dhuk puch ken bhitre</s>
+	<s>chal bhanja bahari kari sambalur ne jima</s>
+	<s>paschim odisha ra level ta batama</s>
+	<s>you are right mama han bhanja</s>
+	<s>bes bes hela je bes bes hela je</s>
+	<s>bes bes bes bes</s>
+	<s>kalahandrir ghumra udei nesi jhura</s>
+	<s>nuapadana ganesh baba gadideichhan dera</s>
+	<s>titlagarh ke dekhi aaebu shivratri puja</s>
+	<s>han boudh ra karma naache hei jibu bajha</s>
+	<s>jharsugudana uda jahaj ude phir phir</s>
+	<s>aan kari kari dekhuchhu kana thup ke tike gil</s>
+	<s>debgarh ra padhan aeibu buli jima</s>
+	<s>sundargarh ra khanda dhami dekhei demi mama</s>
+	<s>he sambalpuar saraswati  bargarhar jhamara</s>
+	<s>naa samle muhar pain hesi tara tara</s>
+	<s>kebhe balangire nakula daar mudhi ghae khaebu</s>
+	<s>badal paage thare khaele surtha karu thibu</s>
+	<s>aamar sonpurara  saadhi  pinsan bollywood ra queen</s>
+	<s>saanbli tukel bhi lagsi full madhuri re full madhuri</s>
+	<s>bes bes hela je bes bes hela je</s>
+	<s>bes bes bes bes</s>
+	<s>uthila sakhalun chaha mudhi</s>
+	<s>baara bajke bhatkhuri</s>
+	<s>baasi pakhal sange henua kardi</s>
+	<s>sange hebaar katha sukha jhuri</s>
+	<s>tui dam tike thibu dhari bajigale ta dulduli</s>
+	<s>nei nachila lok bhi nachi pakaba</s>
+	<s>tamar gaonr majha khuli re</s>
+	<s>tamar gaonr majha khuli re tamar gaonr majha khuli</s>
+	<s>dim dim dim tana dim dim tana dim dim dim tana</s>
+	<s>din gute thila thila gute pila</s>
+	<s>tin din tak nai khai kari bhuke sou thila</s>
+	<s>samlei maa saha hela dekhala taar leela</s>
+	<s>ei samia badlei deba bali kie jaani thila rightmama</s>
+	<s>aadat kebhe neina nijar taarif karbaar</s>
+	<s>haters manku pher bhi aaji love darkaar</s>
+	<s>adhka katha kahele kahuchha muh badhuchhe</s>
+	<s>chup hei rahele munus mude chadhuchhe rightmama</s>
+	<s>gala bele etki kahemi gareeb gharar chhua</s>
+	<s>mui kensi chakiria ki neta nuhen mor bua</s>
+	<s>chasi gharar chua gareeb chasi gharar chhua</s>
+	<s>aej muin jene achhen mor fans mankar dua rightmama</s>
+	<s>dim dim dim tana dim dim tana dim dim dim tana</s>
+</lyrics>

@@ -1,0 +1,90 @@
+<Song ID>200</Song ID>
+<Title>laejkuri lata mor laaje laaje hansi delaa</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>mantu chhuria & aseema panda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>believe music</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2021</Year>
+<lyrics>
+	<s>let’s start baby</s>
+	<s>laejkuri lata mor laaje laaje hansi delaa</s>
+	<s>hae tor nonstop waala ishaara</s>
+	<s>handsome wala chehera</s>
+	<s>deewani kari deewani kari</s>
+	<s>mor dil kaid kari nelaa</s>
+	<s>uimaaa mate kana helaa</s>
+	<s>e e e e rasia</s>
+	<s>e e e man basia</s>
+	<s>e e e e rasia</s>
+	<s>tate thhara naraa kari fasei delaa</s>
+	<s>e e e e rasia</s>
+	<s>e e e man basia</s>
+	<s>e e e e rasia</s>
+	<s>mate thara nara kari fasei delaa</s>
+	<s>e e e e rasia</s>
+	<s>e e e man basia</s>
+	<s>e e e e rasia</s>
+	<s>mate thara nara kari fasei delaa</s>
+	<s>tension vension</s>
+	<s>tension vension tor laagi re suna</s>
+	<s>karmi bali mor manmohini</s>
+	<s>haaye re mor madonaa</s>
+	<s>tension vension</s>
+	<s>tor laagi re sunaa</s>
+	<s>karmi bali mor rangrasia</s>
+	<s>haaye re mor siyana</s>
+	<s>dekhi tor chom chom walaa chehera</s>
+	<s>naughty naughty tor ishara</s>
+	<s>tor saange mate mor saange tate</s>
+	<s>pyaar hei galaa</s>
+	<s>uimaa mate kana helaa</s>
+	<s>e e e e rasia</s>
+	<s>e e e man basia</s>
+	<s>e e e e rasia</s>
+	<s>tate thara nara kari fasei delaa</s>
+	<s>e e e e rasia</s>
+	<s>e e e man basia</s>
+	<s>e e e e rasia</s>
+	<s>mate thara nara kari fasei delaa</s>
+	<s>e e e e rasiaa</s>
+	<s>e e e man rasia</s>
+	<s>e e e e rasia</s>
+	<s>tate thara nara kari fasei delaa</s>
+	<s>e nach baby nach baby 1 2 3 4</s>
+	<s>pyaar wala pyaar wala</s>
+	<s>pyaar wala jaadu thhi tate gulaam banei</s>
+	<s>pauchhen majaa</s>
+	<s>tui bhi kari raaja same to same</s>
+	<s>tor badlaa neijaa</s>
+	<s>pyaar wala mantar thhi</s>
+	<s>tate najar lagei deichhe e raja</s>
+	<s>tui bhi kari suna same to same</s>
+	<s>tor badla neijaa</s>
+	<s>haaye tor tingaalu wala style maraa</s>
+	<s>but ithhi b tui laguchhu pyaara</s>
+	<s>a a babu tor e sabu</s>
+	<s>lagei dela prem leela</s>
+	<s>a baby tate kana helaa</s>
+	<s>e e e e rasia</s>
+	<s>e e e man basia</s>
+	<s>e e e e rasia</s>
+	<s>mate thara nara kari fasei delaa</s>
+	<s>e e e e rasiaa</s>
+	<s>e e e man rasia</s>
+	<s>e e e e rasia</s>
+	<s>tate thara nara kari fasei delaa</s>
+	<s>haaaaa</s>
+	<s>e e e e rasia</s>
+	<s>e e e man basia</s>
+	<s>e e e e rasia</s>
+	<s>mate thara nara kari fasei delaa</s>
+</lyrics>

@@ -1,0 +1,45 @@
+<Song ID>222</Song ID>
+<Title>ae tor sundri muhe scarp lagei</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>not available</Singers>
+<Gender(Singer)>not available</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>ae tor sundri muhe scarp lagei</s>
+	<s>tor maa bua ke chakma dei</s>
+	<s>ae tor sundri muhe scarp lagei</s>
+	<s>tor maa bua ke chakma dei</s>
+	<s>dhana</s>
+	<s>aaibu tui aaibu tui kale kale</s>
+	<s>bhet padma tetel tale</s>
+	<s>aa aa bhet padma tetel tale</s>
+	<s>ae nai naire nai nai jai re mui</s>
+	<s>are nai nai re nai nai jai re mui</s>
+	<s>herogiri dekhei hele paijibu dubi gaale</s>
+	<s>jaa pala jaa kale kaale</s>
+	<s>ae bhet padma tetel taale</s>
+	<s>ja ja ja pala ja kale kaale</s>
+	<s>hai re rasmalei phulki gali</s>
+	<s>thipi paduchu ghichi heuche mana</s>
+	<s>laij nai na enta katha tui kahu chu</s>
+	<s>jaa re phata darpana</s>
+	<s>chikmikia kajli akhi tui chamku chu</s>
+	<s>man nia bujhe na na na</s>
+	<s>pyar bhara katha kahi mote phuslauchu</s>
+	<s>mui nia phuslena</s>
+	<s>nia nia re nia  nia bujhu re tui</s>
+	<s>hurei mote karbe sabhe tor sange dekhi dele</s>
+	<s>jaa pala jaa kale kale</s>
+	<s>bhet padma tetel tale</s>
+	<s>jaa jaa jaa pala ja kale kale</s>
+</lyrics>

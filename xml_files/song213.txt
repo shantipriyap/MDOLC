@@ -1,0 +1,55 @@
+<Song ID>213</Song ID>
+<Title>bholi bhali dilwali lekhen laguchhu</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>rk rock star ruku suna & humane sagar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>narendra deep</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>narendra deep</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>biswaranjan das</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>chintu behera</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>bholi bhali dilwali lekhen laguchhu</s>
+	<s>duniyar pila ke tui setting karuchhu</s>
+	<s>jaani gali tor chalana</s>
+	<s>tate breakup karuchhe re dhana</s>
+	<s>tui dinek ki duii diin khali karitha waitting</s>
+	<s>tui dekhuthibu ga tui pastauthibu gaa</s>
+	<s>tor paarar tukel gute karmi setting</s>
+	<s>tui dekhu thibu ga tui pastauthibu gaa</s>
+	<s>tor paarar tukrl gute karmi setting</s>
+	<s>hai re bewafa wali</s>
+	<s>tate dilnu reject kari deli</s>
+	<s>bhuli nei paru mote re</s>
+	<s>tor har kwaish ke pura karuthili</s>
+	<s>hai re matlab wali</s>
+	<s>tor lagi barbad mui heli</s>
+	<s>tadpei tadpei kandami tate</s>
+	<s>ita tor thane mui challenge lagali</s>
+	<s>jaani gali tor chalana</s>
+	<s>tate breakup karuchhe re dhana</s>
+	<s>jaani gali tor chalana</s>
+	<s>tate breakup karuchhe re dhana</s>
+	<s>tui dinek ki duii diin khali karitha waitting</s>
+	<s>tui dekhu thibu ga tui pastauthibu gaa</s>
+	<s>tor paarar tukrl gute karmi setting</s>
+	<s>tui dekhu thibu ga tui pastauthibu gaa</s>
+	<s>tor paarar tukrl gute karmi setting</s>
+	<s>mate dekhikari paesa wala</s>
+	<s>mate love karuthila</s>
+	<s>laila mor paesa patar</s>
+	<s>sari galake tui aar gute pila</s>
+	<s>mor enta dilwala tui nei paaure mor laila</s>
+	<s>kete bhal paauthili re</s>
+	<s>sabu janichhe ga upperwalla</s>
+	<s>jaani gali tor chalana</s>
+	<s>tate breakup karuchhe re dhana</s>
+	<s>jaani gali tor chalana</s>
+	<s>tate breakup karuchhe re dhana</s>
+</lyrics>

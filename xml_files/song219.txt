@@ -1,0 +1,45 @@
+<Song ID>219</Song ID>
+<Title>saikal raijahin</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>ruku suna</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>harendra jagat</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>kishore bhujabala & nangu nag</Lyrics Author>
+<Gender(Lyrics Author)> male &	male</Gender(Lyrics Author)>
+<Director>ruku suna</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>sovit & khira sindhu suna</Producer>
+<Gender(Producer)>male & male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>not available</Year>
+<lyrics>
+	<s>jete nachile bhi nain hare muin</s>
+	<s>kantabanjir pila muinre chap karati</s>
+	<s>anand nagarar pila muin re chap karati</s>
+	<s>kantabanjir pila muinre chap karati</s>
+	<s>gilase khaili ghia</s>
+	<s>hey mui gilase khili ghia</s>
+	<s>se aadu aasuchhe mamu ra jhia</s>
+	<s>dhari chuyma gute diare chap karati</s>
+	<s>kukura dakila rati re chap karati</s>
+	<s>dhari chuyma gute diare chap karati</s>
+	<s>kanshi nadiara rasa</s>
+	<s>ea mor kanshi nadia  ra rasa</s>
+	<s>kanshi nadiara rasa</s>
+	<s>kisor bhai kahuchhan mor pashe basa</s>
+	<s>nai karba huala jaari re chap karati</s>
+	<s>bahale bunili chana</s>
+	<s>ea mui bhale bunili chana</s>
+	<s>chana ghichaar bele bajila dena</s>
+	<s>dena dhari jima thaana re chap karati</s>
+	<s>kukura dakila rati re chap karati</s>
+	<s>dena dhari jima thaana re chap karati</s>
+	<s>ghini demi sambalpuri sadhi</s>
+	<s>ghini demi sambalpuri</s>
+	<s>sadhi ghini demi sambalpuri</s>
+	<s>ghinidemi sambalpuri</s>
+	<s>pindi thibu saadhi tui kuncha maari</s>
+	<s>parati thibu ghiri re chap karati</s>
+</lyrics>

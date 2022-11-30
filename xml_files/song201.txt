@@ -1,0 +1,40 @@
+<Song ID>201</Song ID>
+<Title>romio pila</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>mantu churia & asima panda</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>manas kumar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>sunil maharana</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>debasish mishra</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>mo dil ki rani rahi galu mo chhati re</s>
+	<s>tate bhabi lo nida laguni ratire</s>
+	<s>mo dil ki rani rahi galu mo chhati re</s>
+	<s>tate bhabi lo nida laguni ratire</s>
+	<s>chham chhama chham chham chham</s>
+	<s>hai mo hero padi gali to kathare</s>
+	<s>diwani heli padigali to pachhare</s>
+	<s>chham chhama chham chham chham</s>
+	<s>to nasili nasili akhi hai neigala mate daki</s>
+	<s>are mora diwala mate karidelu chhalamala</s>
+	<s>mo manaku kala rangila rangila rangila</s>
+	<s>to pain deewana romio pila</s>
+	<s>mu to pain majunu tu habu mo laila</s>
+	<s>chham chhama chham chham chham</s>
+	<s>mo pain deewana tu romio pila</s>
+	<s>tu mora majunu mu hebi to laila</s>
+	<s>to pain dil mora hei gala bekarar</s>
+	<s>to premare padigali mu hei gali to lover</s>
+	<s>to pain dil mora hei gala bekarar</s>
+	<s>to premare padigali mu hei gali to lover</s>
+	<s>rati sara sapana re kali tate intezar</s>
+	<s>to katha bhabi dil hela mora dil ki kawar</s>
+</lyrics>

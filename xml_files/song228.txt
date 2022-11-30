@@ -1,0 +1,62 @@
+<Song ID>228</Song ID>
+<Title>a nani tui mor au re</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>mantu chhuria</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>kundal ke chhhuria</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>jasobanta sagar</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>not available</Producer>
+<Gender(Producer)>not available</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2021</Year>
+<lyrics>
+	<s>a nani tui mor au re</s>
+	<s>na na na na kahi kanhi jibu re</s>
+	<s>a suna kanhi jibu re</s>
+	<s>na na na na kahi aasijibu re</s>
+	<s>tor hansi dekhi dil to fida</s>
+	<s>mor maan thi achhe tor mitha katha</s>
+	<s>tui chaligale tor cham cham payel</s>
+	<s>tor lagi mui pura ghayela</s>
+	<s>sate nahi tor chera bhuli nai pauchhen</s>
+	<s>dek jen jen gale mui sena pauchhen</s>
+	<s>jenbatke jaisu tui atki thisi sena mui</s>
+	<s>dil dhadaki jaisi tate dekhi dele sena mui</s>
+	<s>sate sun sun sun chal bulei nemi aamer gaan</s>
+	<s>nei nei kahebu bele faseidebi tate na</s>
+	<s>chal chal chal suna aamer ghar ke chal</s>
+	<s>tui chal nai jibu bele mor dil heba bura haal</s>
+	<s>chhal bulei nemi aaamer gaon</s>
+	<s>kahela na mor bapa maa</s>
+	<s>nai bhab e pila lafdhiya mui</s>
+	<s>pila aaye baby badiya</s>
+	<s>tui aau baby mor gudia</s>
+	<s>mui pila aai nuapadia</s>
+	<s>smbalpuria</s>
+	<s>hey sambalpuria</s>
+	<s>nai mane mui tor katha</s>
+	<s>nai kar tui mate aatha</s>
+	<s>mani ja bau mor</s>
+	<s>nai kar tui sabke aatha</s>
+	<s>hai aas tui ghar tara nai</s>
+	<s>kar se tui thara nara</s>
+	<s>kahele jete tui nai manu chhe</s>
+	<s>e rasia pilla</s>
+	<s>kai je mate nai kahuchhu</s>
+	<s>kai je mate ja kahuchhu</s>
+	<s>paauchhu bhal tate tui bi mate bhal pa</s>
+	<s>tor pyar thi hechhe fida</s>
+	<s>tor bina mor dill aadha</s>
+	<s>kahide dill ra katha nai kar mate aatha</s>
+	<s>jen bat ke jaisu tui se batke atki thisi mui</s>
+	<s>dil dhadki jaisi tate dekhi dele ena mui</s>
+	<s>suna sun sun chal bulei nemi aamer gaanm</s>
+	<s>nei nei kahebu bele fasei demi tate na</s>
+	<s>chal chal chal suna aamer ghar ke tui chal</s>
+	<s>nai jibu bele mor dil ra heba bura hal</s>
+</lyrics>

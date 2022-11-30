@@ -1,0 +1,43 @@
+<Song ID>205</Song ID>
+<Title>sindura nei luchi luchi galu palei</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>sambit kumar</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>japani bhai</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>swagat patra</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>digital dreams</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2021</Year>
+<lyrics>
+	<s>sindura nei luchi luchi galu palei</s>
+	<s>kia lo tate michi michhi nela kolei</s>
+	<s>sindura nei luchi luchi galu palei</s>
+	<s>kia lo tate michi michhi nela kolei</s>
+	<s>hasuthili lo dina rati delu kandei</s>
+	<s>tora hrudaya nahin lo</s>
+	<s>tora hrudaya nahin</s>
+	<s>jani thili manata mo bhari niriha</s>
+	<s>jani jani deigalu chatire kaha</s>
+	<s>han ajibi mu topain lo dipa jalu chhi</s>
+	<s>mo gaan debi kulo niti dakuchhi</s>
+	<s>nali nali sindura pindi galu palei</s>
+	<s>khili khili hasi dei delu durei</s>
+	<s>mahu kahi bisa mate delu piyai</s>
+	<s>tora hrudaya nahin lo</s>
+	<s>tora hrudaya nahin</s>
+	<s>khelu khelu kheli delu mo mana sathe</s>
+	<s>sathi hei ssti delu kahiki mate</s>
+	<s>han kandi kandi maruchhi lo aji to pain</s>
+	<s>kemitika jhia tu lo bujhilu nai</s>
+	<s>alata nai luchi luchi galu palei</s>
+	<s>pachha dina katha tike bhabilu nai</s>
+	<s>sabu khusi mora aji nelu chhadei</s>
+	<s>tora hrudaya nahin lo</s>
+	<s>tora hrudaya nahin</s>
+</lyrics>

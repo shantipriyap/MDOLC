@@ -1,0 +1,81 @@
+<Song ID>209</Song ID>
+<Title>mate love karabar mauka delo dhana</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>mantu chhuria</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>rehan kamal</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>umesh bhoi</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>manoj singh</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>sonu yadav</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>mate love karabar mauka delo dhana</s>
+	<s>tate love ra duli thi dulami mui</s>
+	<s>tor dil bhitre jaga de lo suna</s>
+	<s>tor dil ra king hei rahemi mui</s>
+	<s>tui aau lo</s>
+	<s>mor dil ra dhadkan</s>
+	<s>tor bina lo</s>
+	<s>adhura mor jiban</s>
+	<s>feelings k mor thare bujhi ja</s>
+	<s>mui tor prem raijar raja re</s>
+	<s>gelhei re mor phulei re</s>
+	<s>e prem raijar rani hei jaa</s>
+	<s>tui mor dream love ra pari lo</s>
+	<s>janu re mor sunu re</s>
+	<s>e lover ra girlfriend bani jaa</s>
+	<s>mui tor prem raijar raja re</s>
+	<s>gelhei re mor phulei re</s>
+	<s>prem raijar rani hei jaa</s>
+	<s>tor lekhe sweet bebo sweet sanam sweet sanam</s>
+	<s>nai dekhi lo mui kahin</s>
+	<s>mor dil bhitre ta pyaar kari rahigalu</s>
+	<s>kadhi nai pare keve lo mui</s>
+	<s>tui thare mor heigale re o jaana</s>
+	<s>kahar nazar nai pade tor upre</s>
+	<s>jie aenkh uthei tate lo dekhi deba</s>
+	<s>janitha daruthiba bhitire bhitire</s>
+	<s>confidence achhe</s>
+	<s>tui mor hebu</s>
+	<s>e mor prem ra diya</s>
+	<s>tui hi jalabu</s>
+	<s>jalne bala</s>
+	<s>jaluthibe ga</s>
+	<s>mui tor prem raijar raja re</s>
+	<s>gelhei re</s>
+	<s>mor phulei re</s>
+	<s>e prem raijar rani hei jaa</s>
+	<s>tui mor dream love ra pari lo</s>
+	<s>janu re mor sunu re</s>
+	<s>e lover ra girlfriend bani jaa</s>
+	<s>mui tor prem raijar raja re</s>
+	<s>gelhei re mor phulei re</s>
+	<s>prem raijar rani hei jaa</s>
+	<s>tor pachhe padithibe kete majnu sanam majnu sanam</s>
+	<s>hele sabkar nu badhi kari mui</s>
+	<s>sabhe tor khubsurti</s>
+	<s>au tor love pachhe lo</s>
+	<s>hele dil nu saccha love karsi mui</s>
+	<s>mor lagi god gift au tui lo o o sathi</s>
+	<s>chahunthimi tate mui jiban sara</s>
+	<s>nai pai parle tate mui lo e janme</s>
+	<s>janam nemi tor lagi mui dubara</s>
+	<s>fixed au lo tui mor lagi</s>
+	<s>sat janam tak tate deichhe magi</s>
+	<s>god promise nai chhade ga</s>
+	<s>mui tor prem raijar raja re</s>
+	<s>ladli re mor pagli re</s>
+	<s>e prem raijar rani hei jaa</s>
+	<s>tui mor dream love ra pari lo</s>
+	<s>janu re mor sunu re</s>
+	<s>e lover ra girlfriend bani jaa</s>
+	<s>sat samundar degi jimi lo</s>
+	<s>pagli re mor ladli re</s>
+	<s>e lover ra girlfriend bani ja</s>
+</lyrics>

@@ -1,0 +1,77 @@
+<Song ID>227</Song ID>
+<Title>a kia nei gala re</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>sanju mohanty</Singers>
+<Gender(Singer)>female</Gender(Singer)>
+<Music Director>satyajeet chaini</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>jatindra pradhan</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>manoj singh</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>sobhan dash</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2017</Year>
+<lyrics>
+	<s>han  maa</s>
+	<s>nei gala re</s>
+	<s>kia nei gala re</s>
+	<s>thi thili lo gadhila ghate</s>
+	<s>pate achhe aaru nai na pate</s>
+	<s>dekhi mor mud jauchhe saate kai feri</s>
+	<s>ken rasia  nei gala mor gudar paenri</s>
+	<s>hai go</s>
+	<s>ken rasia nei gala re gudar paenri</s>
+	<s>mui ta khuji nuri</s>
+	<s>khuji nuri</s>
+	<s>gali heli bauri</s>
+	<s>ken rasia nei gala re gudar paenri</s>
+	<s>hai go</s>
+	<s>ken rasia nei gala re mor gudar paenri</s>
+	<s>gudar gudar pahen thi mor go</s>
+	<s>saju thila kete sunadar</s>
+	<s>chaligale anta halei go</s>
+	<s>baju thila mahani sura</s>
+	<s>jhala mala kahnrok pahan</s>
+	<s>sate  thila dui bhari</s>
+	<s>ghini thili mui jatra thane</s>
+	<s>maa muleikari</s>
+	<s>han</s>
+	<s>gora gora pahen thi mora sajuthila kede sundara</s>
+	<s>chaligale anta halei go</s>
+	<s>baju thila mahani sura</s>
+	<s>jhala mala kahnrok pahan</s>
+	<s>sate  thila dui bhari</s>
+	<s>ghini thili mui jatra thane</s>
+	<s>maa muleikari</s>
+	<s>mahula jabani pahela china</s>
+	<s>mahan pahen re pauri bina</s>
+	<s>mui mari jauchhe maa suhuri suhuri</s>
+	<s>ken rasia nei gala mor gudar paenri</s>
+	<s>e maa</s>
+	<s>ken rasia nei gala mor gudar paenri</s>
+	<s>hai go</s>
+	<s>han</s>
+	<s>hei thile kete achhura</s>
+	<s>maa luti nei thitha baula</s>
+	<s>pate chhadi pate nei chhe re</s>
+	<s>e ta ken rasiar khela</s>
+	<s>dine duidinar chhurar kathata pade bajana</s>
+	<s>pauji sure re kia se hela diwana</s>
+	<s>hei thili tike achhura go luti</s>
+	<s>nei thila baula</s>
+	<s>pate chhadi pate neichhe re</s>
+	<s>e ta ken rasiar khela</s>
+	<s>dine duidinar chhurar kathata pade bajana</s>
+	<s>hey re</s>
+	<s>pauji sure re kia se hela diwana</s>
+	<s>rupar badale suna gahana</s>
+	<s>rasia pila nu nemi bharena</s>
+	<s>han</s>
+	<s>gadami re pana patare</s>
+	<s>ken rasia nei gala mor gudar paenri</s>
+	<s>ema</s>
+	<s>ken rasia nei gala mor gudar paenri</s>
+</lyrics>

@@ -1,0 +1,37 @@
+<Song ID>224</Song ID>
+<Title>chaka muhe lamba beni</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>santanu sahu</Singers>
+<Gender(Singer)>male</Gender(Singer)>
+<Music Director>santanu sahu</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>santanu sahu</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>santanu sahu</Director>
+<Gender(Director)>male</Gender(Director)>
+<Producer>the orchard music</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2018</Year>
+<lyrics>
+	<s>sajiche re jatne nani</s>
+	<s>chaka muhe lamba beni</s>
+	<s>kahuche re katha tike man</s>
+	<s>a mera dill a meri jaan</s>
+	<s>mul ki mul ki nai hasbu lo dihi ke mor</s>
+	<s>jhatka lagisi</s>
+	<s>anta malke malke nai jibu chati ne mor</s>
+	<s>kanta gadsi</s>
+	<s>mui ta nua dhangara re</s>
+	<s>mui ta bula bhamara</s>
+	<s>man debu ki nai debu lo dil ke tor pachara</s>
+	<s>hn kale tor halia rahebi nai baile babaji hemi</s>
+	<s>pirati nai mane bad saan</s>
+	<s>raji jadi hetu guri lo o o saikale bandha saiti</s>
+	<s>sara jiban tate guri lo o o rani kari saje e thiti</s>
+	<s>dulha saji dulo thiti lo man bhari dekhu thiti man kari dele tui lo jan tuli aani deti</s>
+	<s>tui ta mor manar maina pakhe thile kainta  una</s>
+	<s>tui ta mor bahal khetar dhan. ..</s>
+	<s></s>
+</lyrics>

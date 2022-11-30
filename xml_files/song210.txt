@@ -1,0 +1,136 @@
+<Song ID>210</Song ID>
+<Title>lal gulabi lal gulab</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>mantu chhuria & diptirekha padhi</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>sangita ratna deepak kumar</Music Director>
+<Gender(Music Director)>male</Gender(Music Director)>
+<Lyrics Author>nirmala panda</Lyrics Author>
+<Gender(Lyrics Author)>male</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>prafulla dalei</Producer>
+<Gender(Producer)>male</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2019</Year>
+<lyrics>
+	<s>lal gulabi lal gulabi</s>
+	<s>mast disu chu</s>
+	<s>pata thikana delo nani</s>
+	<s>kauthu aasichu</s>
+	<s>han</s>
+	<s>lal gulabi lal gulabi</s>
+	<s>mast disu chu</s>
+	<s>pata thikana delo nani</s>
+	<s>kauthu aasichu</s>
+	<s>aare aare aare mo sunduri lela</s>
+	<s>prema kari ba khulam khulla</s>
+	<s>he chikina chora lagu chu piyara</s>
+	<s>mast disu chu</s>
+	<s>pata thikana de diwana</s>
+	<s>kauthu aasichu</s>
+	<s>chikina chora lagu chu piyara</s>
+	<s>mast disu chu</s>
+	<s>pata thikana de diwana</s>
+	<s>kauthu aasichu</s>
+	<s>aare aare aare mo babu rangila</s>
+	<s>prema kari ba khulam khulla</s>
+	<s>han</s>
+	<s>lal gulabi lal gulabi</s>
+	<s>mast disu chu</s>
+	<s>pata thikana delo nani</s>
+	<s>kauthu aasichu</s>
+	<s>han</s>
+	<s>lal gulabi lal gulabi</s>
+	<s>mast disu chu</s>
+	<s>pata thikana delo nani</s>
+	<s>kauthu aasichu</s>
+	<s>aalo chuile tate current mare</s>
+	<s>pura tana tan</s>
+	<s>chhati re guli baji galani</s>
+	<s>pura dana dan</s>
+	<s>he kemiti katha kahulu babu</s>
+	<s>mana mo chhan chhan</s>
+	<s>touch karilu tu jebe mote</s>
+	<s>chhati ta tan tan</s>
+	<s>aare aare aare mo sundiri chhaila</s>
+	<s>prema kariba khullam khulla</s>
+	<s>lal gulabi lal gulabi</s>
+	<s>mast disu chu</s>
+	<s>pata thikana delo nani</s>
+	<s>kauthu aasichu</s>
+	<s>han</s>
+	<s>lal gulabi lal gulabi</s>
+	<s>mast disu chu</s>
+	<s>pata thikana delo nani</s>
+	<s>kauthu aasichu</s>
+	<s>aare aare aare mo babu rangila</s>
+	<s>prema kari ba khulam khulla</s>
+	<s>chikina chora lagu chu piyara</s>
+	<s>mast disu chu</s>
+	<s>pata thikana de diwana</s>
+	<s>kauthu aasichu</s>
+	<s>chikina chora lagu chu piyara</s>
+	<s>mast disu chu</s>
+	<s>pata thikana de diwana</s>
+	<s>kauthu aasichu</s>
+	<s>aare aare aare mo babu rangila</s>
+	<s>prema kari ba khulam khulla</s>
+	<s>lal gulabi lal gulabi</s>
+	<s>mast disu chu</s>
+	<s>pata thikana delo nani</s>
+	<s>kauthu aasichu</s>
+	<s>han</s>
+	<s>lal gulabi lal gulabi</s>
+	<s>mast disu chu</s>
+	<s>pata thikana delo nani</s>
+	<s>kauthu aasichu</s>
+	<s>he pakhaku aaja dil ka raja</s>
+	<s>to pai re mun</s>
+	<s>prema kahani kahutha mote</s>
+	<s>maru thibi mu hun</s>
+	<s>gul gulia gora gala re</s>
+	<s>debi gute chuan</s>
+	<s>jali le jalu sara dunia</s>
+	<s>mo pai re tu</s>
+	<s>aare aare aare mo rasia pila</s>
+	<s>prema kari ba khulam khulla</s>
+	<s>lal gulabi lal gulabi</s>
+	<s>mast disu chu</s>
+	<s>pata thikana delo nani</s>
+	<s>kauthu aasichu</s>
+	<s>han han lal gulabi lal gulabi</s>
+	<s>mast disu chu</s>
+	<s>pata thikana delo nani</s>
+	<s>kauthu aasichu</s>
+	<s>aare aare aare mo sunduri lela</s>
+	<s>prema kari ba khulam khulla…</s>
+	<s>he chikina chora lagu chu piyara</s>
+	<s>mast disu chu</s>
+	<s>pata thikana de diwana</s>
+	<s>kauthu aasichu</s>
+	<s>chikina chora lagu chu piyara</s>
+	<s>mast disu chu</s>
+	<s>pata thikana de diwana</s>
+	<s>kauthu aasichu</s>
+	<s>aare aare aare mo babu rangila</s>
+	<s>prema kari ba khulam khulla</s>
+	<s>han lal gulabi lal gulabi</s>
+	<s>mast disu chu</s>
+	<s>pata thikana delo nani</s>
+	<s>kauthu aasichu</s>
+	<s>chikina chora lagu chu piyara</s>
+	<s>mast disu chu</s>
+	<s>pata thikana de diwana</s>
+	<s>kauthu aasichu</s>
+	<s>he</s>
+	<s>lal gulabi lal gulabi</s>
+	<s>mast disu chu</s>
+	<s>pata thikana delo nani</s>
+	<s>kauthu aasichu</s>
+	<s>chikina chora lagu chu piyara</s>
+	<s>mast disu chu</s>
+	<s>pata thikana de diwana</s>
+	<s>kauthu aasichu</s>
+</lyrics>

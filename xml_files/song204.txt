@@ -1,0 +1,73 @@
+<Song ID>204</Song ID>
+<Title>ankhi tor raseli</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>nil sagar & amrita nayak</Singers>
+<Gender(Singer)>male & female</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>believe music</Gender(Director)>
+<Producer>company</Producer>
+<Gender(Producer)>independent</Gender(Producer)>
+<Movie_Album>2020</Movie_Album>
+<Year>nan</Year>
+<lyrics>
+	<s>la la la la la la</s>
+	<s>ankhi tor raseli</s>
+	<s>amor  raseli</s>
+	<s>rasia bani gali tor lagi</s>
+	<s>tor jadu wala jhapi tike de lo mor rani</s>
+	<s>tor  geeta ra sure tike nachei de sajani</s>
+	<s>tor patli kamariya</s>
+	<s>jhumeyi dela rani</s>
+	<s>hole hole hole hole</s>
+	<s>nasa chadei dela</s>
+	<s>hole hole hole hole</s>
+	<s>deewana bani gali</s>
+	<s>tor hero lekhe style raja dile ke  churei nela</s>
+	<s>tui hei ja mor majnu mui bani jimi lela</s>
+	<s>mor patli kamariya</s>
+	<s>jhumei dela tate</s>
+	<s>hole hole hole hole</s>
+	<s>nasa chadei dela</s>
+	<s>hole hole hole hole</s>
+	<s>dewaana banei dela</s>
+	<s>hole hole hole hole</s>
+	<s>la la la la la la</s>
+	<s>mor dil mor jaan</s>
+	<s>tui aau lo mor suna</s>
+	<s>mui hei gali tor fan</s>
+	<s>tate dekhi dela dinu</s>
+	<s>badli kari mui bani gali pila</s>
+	<s>tor  payar tike bhari de</s>
+	<s>mor love tijori khula</s>
+	<s>tor nili nili anki kain jadu kari dela</s>
+	<s>full dei tate banei gali tor dill wala</s>
+	<s>tor tirchhi najariya</s>
+	<s>jhumei dela rani</s>
+	<s>hole hole hole hole</s>
+	<s>nasa chadei dela</s>
+	<s>hole hole hole hole</s>
+	<s>deewana bani gali</s>
+	<s>hole hole hole hole</s>
+	<s>aaa sarmili nisa nisaa tor ankhi</s>
+	<s>hey</s>
+	<s>deewana banala</s>
+	<s>mate mate mate mate</s>
+	<s>la la la la la la</s>
+	<s>payari payari tor smaile bebo pyari</s>
+	<s>tui hei ja lo mor rani mor dream raeijar  pari</s>
+	<s>dhire dhire kaen mahani lagi gala</s>
+	<s>mor jawani ka raja tor rangei rangei gala</s>
+	<s>tor kane da tor bindei mor churala nidia</s>
+	<s>mui hemi tor dulha re tui hebu dhulaniya</s>
+	<s>tor buli uamariyaaa</s>
+	<s>jhumei dela rani</s>
+	<s>hole hole hole hole</s>
+	<s>nasa chadei dela</s>
+	<s>hole hole hole hole</s>
+	<s>dewaini bani gali</s>
+</lyrics>

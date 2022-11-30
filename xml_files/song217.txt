@@ -1,0 +1,43 @@
+<Song ID>217</Song ID>
+<Title>jete thaara dekhe tate prama badhi jayea</Title>
+<Dialect>sambalpuri</Dialect>
+<Period>after year 1990</Period>
+<Singers>tapu misra</Singers>
+<Gender(Singer)>female</Gender(Singer)>
+<Music Director>not available</Music Director>
+<Gender(Music Director)>not available</Gender(Music Director)>
+<Lyrics Author>not available</Lyrics Author>
+<Gender(Lyrics Author)>not available</Gender(Lyrics Author)>
+<Director>not available</Director>
+<Gender(Director)>not available</Gender(Director)>
+<Producer>taranga music</Producer>
+<Gender(Producer)>company</Gender(Producer)>
+<Movie_Album>independent</Movie_Album>
+<Year>2021</Year>
+<lyrics>
+	<s>jete thaara dekhe tate prema badhi jayea</s>
+	<s>tora halka chhua bi matuaala kare</s>
+	<s>jete thara dekhe tate prema badhi jayea</s>
+	<s>tora halka chhua bi matuaala kare</s>
+	<s>mu je emitika jajabara tate paibata swapna mora</s>
+	<s>janu kiba kete bhala</s>
+	<s>janu kiba kete bhala  pai re tate</s>
+	<s>dil saeran saeran hua re sate</s>
+	<s>jebe thu to prama nisa kala mate</s>
+	<s>kaabu diwana mu hei gaali dil mo bekabu</s>
+	<s>ooo hasa tora mitha mitha jadu kare saate</s>
+	<s>chikmik to prama ranga dhali dela mate</s>
+	<s>tuje emitikaprema mora</s>
+	<s>kebe heipariba ni ni jaraa</s>
+	<s>tuje emitika prema mora</s>
+	<s>kebe heipariba ni ni jaraa</s>
+	<s>tathapia mana kaai</s>
+	<s>khoje re  tate</s>
+	<s>dil saeran saeran hua re saate</s>
+	<s>chora chora chahani to maridela mate</s>
+	<s>nija thu besi bhala pau chhi  mu tate</s>
+	<s>hai dhire dhire aasilu tu pari tia hei</s>
+	<s>halchal he mana mora pakhe pakhe  pai</s>
+	<s>tu je emitiki pram pakhi tate paribini pakhe rakhi</s>
+	<s>dina rati akhi mora  dina rati akhi mora  khoje re tate</s>
+</lyrics>
